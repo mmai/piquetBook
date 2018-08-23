@@ -1,726 +1,157 @@
-# The laws of piquet : adopted by the Portland and Turf clubs with a treatise on the game
+# TREATISE ON PIQUET
 
-Cavendish, 1831-1899
 
+## PREFACE TO THE FIRST EDITION.
 
-## LAWS OF PIQUET.
+Since Hoyle's Treatise on Piquet was published in 1744, no original work on Piquet has appeared in the English language (so far as the author has been able to discover), though Hoyle has several times been edited with more or less success.
 
-### SHUFFLING
+The issue of an authorized code of Laws*affords a good occasion for the publication of afresh treatise on the game. Although the plan of it is original, the author has made free use of the examples contained in Hoyle's valuable work.The author has also (through the great kindness of Mr. Clay,) been able to avail himself of that accomplished player's judgment and experience. For the assistance rendered to him by Mr. Clay, the author takes this opportunity of expressing his warmest thanks.
 
-1. Each player has a right to shuffle both his own and his adversary's pack. The dealer has the right of shuffling last.
+Portland Club, May, 1873.
 
-2. The pack must not be shuffled below the table, nor in such manner as to expose the faces of any of the cards.
+## HISTORICAL
 
-### CUTTING
+Numerous theories have been broached respecting the origin and etymology of Piquet; but no positive conclusions have been arrived at.
 
-3. A cut must consist of at least two cards, and at least two must be left in the lower packet,
+First as to the origin of the game. By some writers, of indifferent weight, it is referred to the period of the reign of Charles VI. (1380-1422).
 
-4. In cutting, the ace is highest. The player who cuts the higher card has the choice of deal, and the dealer has the choice of cards at the commencement of each partie.
+Haydn ("Dictionary of Dates"), giving Mézéray as his authority, states that Piquet was the first known game on the cards and that it was invented by Joquemin for the amusement of Charles VI of France. There is no such name as Joquemin to be found in any of the biographies. The person referred to is no doubt Jacquemin Gringonneur, to whom is erroneously ascribed the invention of playing cards in the reign of Charles VI. Some authorities are of opinion that Jacquemin was the name of a cardmaker, or _gringonneur_ of that period, _gringonneur_ signifying a maker of grangons ( _certus tesserarum Ludus_. Du Cange, Glossary, Supplement, Vol. ii., col. 651). Persius ( _Rouge et Noir_ The Academicians of 1823."London. 1823.), says, "Of all the games at cards Piquet is the most ancient. [...] Its origins somewhat singular; a great Ballet executed at the Court of Charles VI. suggested the idea of it."
 
-5. If, in cutting for deal, a player expose more than one card, he must cut again.
+He then describes the ballet. His description is identical with that of the interlude in _Le Triomphe des Dames_ printed in the Theatre Francois, and danced some three hundred years later. He probably confuses one with the other.
 
-6. The cut for the deal holds good, even if the pack be incorrect.
+It is now well ascertained that Piquet is by no means the most ancient of card games. Paul Boiteau d'Ambly ( _Les Cartes a jouer et la Cartomancie_ Paris. 1854.), rebuts the idea that Piquet could have been played in the time of Charles VI. He writes, "C'est à un jeu de tarots que jouait Charles VI. [...] le piquet ni, a plus forte raison le whist n'existaient. [...] Il n'y a de connu que le tarot."
 
-7. If, in cutting to the dealer, or in reuniting the separated packets, a card be exposed, or if there be any confusion of the cards, there must be a fresh cut.
+The latest authorities are of opinion that tarot cards (ie., emblematic cards combined with numerals), were first used in Italy towards the end of the fourteenth century, and that soon afterwards the tarot game was subjected to the elimination of the emblematic series, leaving the numeral series to work by itself. It is, therefore, most unlikely that cards, with which Piquet could be played, were known in France as early as the time of Charles VI.
 
-8. When a player in cutting has once separated the pack, he must abide by the cut.
+It is next attempted to fix the invention of Piquet on the period of Charles VII. (1422-1461); and as this date is commonly upheld, especially by French writers, it is advisable to give a detailed account of their views.
 
-### DEALING
+In the "Mémoire sur l'origine du Jeu de Piquet trouve dans l'histoire de France sous le Règne de Charles VII" by Le Père Daniel (Journal de Trevoux. May, 1720.), Piquet is credited with being a symbolic, allegorical, military, political, and historical game. From the names of the personages on the court cards of early French packs, and from the marks of the suits, the Père believed he had made out the origin of Piquet, which he supposed to have been devised about 1430.
 
-9. The dealer must deal the cards by two at a time or by three at a time, giving the top cards to his adversary, the next to himself, and so on, until each player has twelve cards. The dealer having selected the mode in which he will distribute the cards, must not change it during the partie. The eight undealt cards (called the stock) are to be placed face downward, in one packet, on the table between the players.
+Chatto, a careful and sound critic ("Facts and Speculations on the Origin and History of Playing Cards." London. 1848.), speaks of Daniel's theories as "mere gratuitous conceits," and as the seethings of the father's imagination.
 
-10. If the dealer deal the cards wrongly, he may, with the permission of his adversary, rectify the error prior to either player having taken up his hand.
+Saint-Foix (Essais Historiques sur Paris Maestricht. 1778.), patronises the ballet theory. Referring to the interlude in _Le Triomphe des Dames_, he adds, "je crois que cet intermède n'etoit pas nouveau, et qu'il n'etoit que l'esquisse d'un grand ballet executé à la Cour de Charles VII, et sur lequel il eut idée du jeu du Piquet, qui certainement ne fut imaginé que vers la fin du règne de ce Prince."
 
-11. If the elder hand find that he has a card too many or a card too few, he has the option of a fresh deal after looking at his hand, but before taking up a card of the stock. If the elder hand, having twelve cards dealt him,' find,in drawing the stock toward him after discarding,that it contains but seven cards, he has the option of a fresh deal, or of altering his discard.
+Singer (" Researches into the History of Playing Cards." London. 1816.), follows Saint-Foix, but with great caution. He observes, " The game of Piquet appears to have been invented in the reign of Charles VII. It has been said that its invention took rise from a Ballet danced at the court of that Monarch; but it seems quite as probable, that this game furnished the device for the Ballet, as it has done at a later period."
 
-12. If more than one card be dealt wrongly, or if there be nine cards in the stock, there must be a fresh deal (except as provided in Law 10).
+Leber (" Etudes historiques sur les Cartes a jouer." Paris. 1842.), agrees with Daniel in assigning a French origin to Piquet, in the time of Charles VII.
 
-13. If the dealer expose a card belonging to his adversary, or to the stock, the elder hand has the option of a fresh deal. If the dealer expose any of his own cards, the deal stands good.
+In Boiteau's "Cartes a jouer" there is a good deal of speculation as to the origin of Piquet. "Rien de certain ne peut être avancé au sujet de ces commencements des cartes aux couleurs françaises et du jeu de piquet qui semble être né en même temps qu'elles. Le nom même du jeu ne s'explique pas facilement. Quoi qu'il en soit, les cartes aux couleurs coeur, carreau, pique et trèfle existent sous Charles VII et ne paraissent pas avoir été connues sous Charles VI. De plus, la création du jeu de piquet semble se rattacher par plus d'un lien au règne de Charles VII. Maintenant, est-il possible d'admettre que tout à coup aient été inventés ce jeu et ces cartes ? [...] Dans les ces années qui vont de 1350 a 1450 il a du s'introduire au milieu des cartes antiques plus d'une modification qui nous échappe. [...] C'est l'opinion de quelques personnes, qu'il a existé un jeu intermédiaire entre le tarot meridional ou allemand et le piquet français. De ce jeu intermédiaire il n'y a pas de traces, comme il n'y en a pas du travail qui a fait naître le piquet. Il ne faut pas donc dire, comme M. Paul lacroix, que le jeu de piquet est dû a la Hire [the famous Stephen de Vignoles, a devoted adherent of Charles VII.] ou d'un semant d'armes de ce capitaine. [...] Il ne faut pas non plus accepter les prétendues explications des érudits du siècle dernier, qui ne sont, en general, que d'assez mauvaises conjectures. Ce sera dans les fêtes de Chinon, là où Charles VII perdait si gaiement son royaume, ce sera encore à Paris, après la victoire [1436] et dans la joie du.triomphe, que la cour galante et militaire du roi sauvé par Jeanne d'Arc aura imaginé et operé la reforme des cartes. [...] La France connaissait le tarot dans la seconde moitie du XIVe siècle. [...] La connaissance du jeu s'étant répandue, elle s'appliqua a approprier les cartes a son genie. La combinaison dite du jeu de piquet est née alors. C'est une simplification des élémens anciens. Les couleurs et le nombre des cartes, aussi bien que la création des règles fondamentales du jeu de piquet, datent de Charles VII et probablement du milieu de son règne, qui est aussi le milieu du XVe siecle. Jusqu'à ce moment, jusqu'au milieu du XVe siècle, l'histoire des cartes est enveloppée d'obscurité. La création du jeu français est la chose importante dans cette histoire."
 
-14. If a faced card be found in the pack when dealing, or in the stock when taking in, there must be a fresh deal.
+Boiteau admits that nothing certain can be advanced on the subject of the origin of Piquet, and that just at the period of which he treats, the history of cards is wrapped in obscurity. After these admissions one may safely consign his theory to the region of guesses.
 
-15. If the dealer deal with the wrong pack, and the error be discovered before either player has taken up any of his cards, there must be a fresh deal with the right pack. If the error be not discovered before either player has taken up any of his cards, the deal holds good, and the packs remain changed.
+Dr. Willshire ("A descriptive Catalogue of Playing and other Cards in the British Museum." London. 1876.), the most recent, and probably the best, authority, remarks that, "There is not satisfactory evidence  to show the date at which piquet was first played. [...] Endeavours have been made to associate the origin of this game with the epoch of Charles VII, but a decisive solution of the question cannot be obtained."
 
-16. The players deal alternately. If a player deal out of his turn, and either player discover the error before taking up any of his cards, the deal in error is void, and the right dealer deals.But if the error be discovered too late to correct it, the elder hand in that deal must deal twice running with the same pack (except as provided in Law 76), unless that or the next deal be the last of the partie.
+The supposition of Grosley (Mémoires historiques et critiques pour l'Histoire de Troyes. 1774) that Piquet was invented by a mathematician of Troyes, named Picquet, who lived in the reign of Louis XIII. (1610-1643), and the statement of Strutt ("Sports and Pastimes." London. 1801.), that Piquet was introduced into France in the middle of the seventeenth century, may be met by reciting the fact that, about a century earlier, Rabelais (1535) includes Piquet in the list of games played by Gargantua. Boiteau believes that the Piquet mentioned by Rabelais was a different game; but this original notion requires confirmation.
 
-17. The non dealer must collect the cards for the ensuing deal, and must place them, properly collected, face downward on the table.
+Complex card games, like Piquet, are not invented by, nor for, individuals. They grow out of earlier and simpler games, until at last, through the survival of the fittest modifications, a highly developed game is evolved. As Boiteau well observes, "Il est impossible de dire, prenant un jeu quelconque, qu'il a été inventé en telle année par intel. C'est tantôt l'un et tantôt l'autre qui s'avise d'ajouter quelques regles à un vieux Jeu, d'en changer le nom; des amis adoptent ; quelques societés à la suite, et voila une invention." It is therefore to the older card games that one should look for the origin of Piquet. The opinion of the latest writers on the history of playing cards is that France received her cards, and the games played with them, from Spain and Germany, and that these countries obtained them from Italy. If so, an examination of the early games and cards of Italy, Spain and Germany may throw some light on the question.
 
-### CARTE BLANCHE
+The ancient name of the point at Piquet was ronfle, and la Ronfle is one of the Gargantuan games mentioned by Rabelais (1535). There was also an Italian game called Ronfa, but it is not known how it was played. Ronfa, by some, is said to mean "ruff"; very likely this may be so, and the word ruffing may also mean discarding and taking in, as it did at the game of Ruff and Honours, an ancestor of whist. Berni (" Capitolo del Gioco delta Primiera col Commento di Messer Pietropaulo da San Chirico. Stampata in Roma nel Anno M.D.XXVL"), includes Ronfa in a list of eleven card games, played at that time (1526).
 
-18. _Carte blanche_ (a hand dealt, consisting of at least twelve cards, without king, queen, or knave) scores first, and consequently saves a _pique_ or a _repique_. It also counts toward a _pique_ or a _repique_.
+In one place, the facetious commentator, who styles himself as above, thus refers to the invention of Ronfa. (The quotation is taken from Singer's translation.) "We have but little certainty who was the inventor, or who, in the first instance developed the game, nor is that little confirmed by authority to be relied on. Some say it was Lorenzo de Medici the Magnificent, and relate I know not what tale of an Abbot. [...] Others will have it that Ferdinand of Naples, who so distinguished himself, was the inventor. Others Matthias, King of Hungary; many Queen Isabella; some the Grand Seneschal. [...] We shall leave the research to those who are desirous of knowing how many barrels of wine Acestes gave to Aeneas; or what was the name of Anchises' nurse; and the like curiosities, worse than the Egg and Chicken."
 
-19. _Carte blanche_ must be shown by counting the cards, one by one, face upward on the table.
+Since ronfle was the point, and ronfa meant "ruff", and ruffing meant discarding and taking in from a stock, it is hardly too much to assume that Ronfa was a game in which discarding, taking in, and calling a point, were prominent features. Ronfa or la Ronfle may have been a simple form of Piquet; or, the similarity of the words ronfa, ronfle, and ruff may be mere coincidences.
 
-20. As soon as a player is aware that he has a carte blanche, he is bound to inform his adversary, but he need not show the _carte blanche_ until his adversary has discarded.
+When Italian cards, and the games played with them, travelled to Spain, a game called Cientos was played in that country. Singer says, "As this game was of Spanish origin, and has some appearance of having resembled Piquet [...] may not the French have adopted it, with some alterations, merely changing its name ? " Boiteau confirms the idea of the adoption thus : "Le cent (piquet). Le piquet s'appelle encore aujourd'hui le cent ou la grande brisque dans la Charente.
 
-### DISCARDING AND TAKING IN
+Singer assumes that the game originated in Spain. It is more probable that Cientos was a modified Italian game, possibly Ronfa with a change of name.
 
-21. The elder hand is entitled to discard five cards and to take in five. He is obliged to discard one card (except as provided in Law 42).
+From Spain or France the game came to England, where it was called Cent.
 
-22. The younger hand is entitled to discard three cards, and to take in three (except as provided in Laws 41 and 43). He is obliged to discard one card (except as provided in Law 40).
+There is no similar record of a game like Ronfa or Cientos having reached Germany, when Italian cards journeyed to that part of Europe. The material leading to the supposition that such a game was played in Germany, whence it is geographically and historically probable it travelled to France, is very slender. What little there is depends on the amount of reliance to be placed on Merlin ( "Origine des Cartes a jouer." Paris. 1869). The following quotation is taken from Willshire :
 
-23. In taking in, the cards must be taken in order from the top of the stock.
+"We desired," writes M. Merlin, "to be able to point out in a satisfactory manner what were the names and structure of the [early] German games, but have not met with information precise enough on the subject. We must be contented with communicating a few remarks with which the examination of the cards has furnished us.
 
-24. After a player has taken up a card of the stock he cannot alter his discard.
+"For figures we meet with kings, superior and inferior valets [the superior knave, obermann, is the equivalent of the queen in French and English packs]. [...] The point cards are the ten, nine, eight,seven, six and two, a composition resembling our own Piquet [packs], in which the ace has been displaced by the two. This structure is [...] that of the Saxon game Schwerter Karte - cartes à l'épée.
 
-25. If a player, after having taken up a card of the stock, take back into his hand any of his discard, he must play with more than twelve cards, and can reckon nothing that deal.
+What appears to confirm our conjecture as to the analogy of piquet with this _jeu à l'épée_ is the fact that in the modern cards manufactured at Vienna for playing the German game, [...] the six is suppressed, as it is in the French piquet[pack] since the end of the seventeenth century."
 
-26. If a player, after having taken up a card of the stock, mix any of his hand, or any card he is entitled to take in, with his discard, he must leave it with his discard. He must play with less than twelve cards, and his adversary counts as tricks all cards that cannot be played to.
-
-27. If the elder hand, when taking in, or when looking at cards he has left, expose or take up any of the bottom three cards of the stock (except as provided in Laws 41 and 43), he can reckon nothing that deal. And similarly, if the younger hand, when taking in, expose or take up any of the top five cards of the stock (not being cards declared to be left by the elder hand), he can reckon nothing that deal.
-
-28. If the elder hand mix with his hand any of the bottom three cards of the stock (exceptas provided in Laws 41 and 43), or if, having left any cards, he mix with his hand any of the cards he ought to have left, he can reckon nothing that deal; or, the younger hand, after looking a this cards, may elect to have a fresh deal. If he elect to stand the deal, he can only take as many of his cards as have not been mixed.
-
-29. If the younger hand mix with his hand any of the top five cards of the stock (not being cards declared to be left by the elder hand), he can reckon nothing that deal; or, the elder hand, after looking at his cards, may elect to have afresh deal. If he elect to stand the deal, he can only take as many of his cards as have not been mixed. If, however, the elder hand have taken in some of his cards, the others remaining on the stock, and the younger hand take up any of them,he incurs no penalty, unless he mix any of the cards taken up with his hand, when he can reckon nothing that deal.
-
-30. If a player, having twelve cards dealt him, discard more cards than he takes in, he must play with less than twelve cards, and his adversary counts as tricks all cards that cannot be played to.
-
-31. If a player, having twelve cards dealt him,take in more cards than he discards, but do not take from the stock one of his adversary's cards,he must play with more than twelve cards, and can reckon nothing that deal.
-
-32. If the elder hand do not take all his cards,he must declare the number he takes or leaves before taking up a card of the stock. If he fail to do so, and the younger hand, on touching the stock (but before taking up a card of it),find that it contains more than three cards, he is entitled to alter his discard, and to take in the card or cards left.
-
-33. If the elder hand leave any cards, he is entitled to look at them; but if he take them up, together with the cards he is about to take in, he can reckon nothing that deal.
-
-34. The younger hand is entitled to take in all the cards that are left in the stock.
-
-35. If the younger hand leave any cards, and take up, together with the cards he is about to take in, more cards than he has discarded, he can reckon nothing that deal.
-
-36. If the younger hand leave any cards he is entitled to see them; but he must declare whether he will look at them or not, after the elder hand has named the suit he will first lead, or has led a card, and before laying a card himself. If the younger hand elect to look at them, the elder hand is also entitled to see them, after he has named the suit he will first lead, or has led a card. If the younger hand elect not to look at them, neither player has a right to see them.
-
-37. If the younger hand leave any cards, and mix them with his discard without showing them to the elder hand, the elder hand, after leading a card, is entitled to see his adversary's discard,and the cards mixed with it.
-
-38. If a player announce that he has eleven or thirteen cards dealt him, the stock may be counted to ascertain how many cards it contains.
-
-39. If the elder hand, having eleven or thirteen cards dealt him, take up a card of the stock without announcing the error, he loses his option of a fresh deal. He cannot alter his discard,and he must leave at least three cards for the younger hand. But, if the stock contain seven cards, and the elder hand have eleven, there must be a fresh deal.
-
-40. If the elder hand elect to stand the deal when he has thirteen cards, and there are eight in the stock, he must discard one card more than he takes in, and he must discard at least two cards. The younger hand must discard one less than he takes in; but, if he only take one card, he need not discard any.
-
-41. If the elder hand elect to stand the deal when he has thirteen cards, and there are seven in the stock, he must discard one more card than he takes in. He must discard at least two cards;and, if he take all his cards, he discards six, and the younger hand can only take two cards.
-
-42. If the elder hand elect to stand the deal when he has eleven cards, and there are eight in the stock, he must discard one less than he takes in; but, if he only take one card, he need not discard any. The younger hand must discard one more than he takes in, and he must discard at least two cards.
-
-43. If the elder hand elect to stand the deal when he has twelve cards, and there are seven in the stock, he must discard the same number of cards as he takes in; and, if he take all his cards, the younger hand can only take two cards.The younger hand must discard one more than he takes in, and he must discard at least two cards.
-
-44. When a player subjects himself to the penalty of reckoning nothing that deal, the adversary has the option of not enforcing the penalty.
-
-45. A player may examine his own discard at any time.
-
-### CALLING AND SHOWING
-
-46. The elder hand must call his point first, or he loses the right to call it. It is sufficient to call the number of cards of the point. The younger hand is not entitled to reply by inquiring what the elder hand's point makes, unless he hold at least an equal number of cards; and the inquiry bars him from counting a superior number of cards for point.
-
-47. It is not compulsory on the younger hand to call his point first; nor is it compulsory on either player to call sequence next after point.
-
-48. It is sufficient to call the number of cards of a sequence if the call be good against the cards. If not good against the cards, the elder hand is bound to state to what card his sequence is. And similarly, in calling a quatorze or trio,the elder hand is bound to state the value of the cards of which it consists, unless the call is good against the cards.
-
-49. If the elder hand first call a sequence which is good against the cards, he can reckon any sequences he holds, whether of superior counting value to the one called or not. And similarly, if the elder hand first call a _trio_ or a _quatorze_ which is good against the cards, he can reckon any _quatorzes_ or _trios_ that he holds.
-
-50. If the elder hand call a smaller point,sequence, quatorze, or trio than he holds, he may correct his miscall before it has been replied to by the younger hand.
-
-51. If the younger hand allow a correct call to be good or equal, when he holds better in his hand, he may correct his reply before the elder hand has made another call; or, in case there is no further call, before the elder hand has led a card.
-
-52. If either player call a larger point, sequence,quatorze, or trio than he holds, and it is allowed to be good, he may correct his miscall before the younger hand has played to the first trick.In case of a correction of such miscall by the younger hand, after the elder hand has led, the elder hand is at liberty to retake the card he led, and to play differently.
-
-53. There is no penalty for a misnomer. It is a misnomer, if a player call a point or sequence, when he holds one of that counting value, but names the suit wrongly; or a sequence, when he holds one of that counting value, but names its rank wrongly ; or a trio or quatorze, when he holds one, but hames its rank wrongly ; provided, however, that he could not possibly have held what he claims, in his hand and discard taken together.
-
-54. If a player who calls a point, sequence,quatorze, or trio that he does not hold, and such call is allowed to be good, do not correct his miscall before the younger hand has played to the first trick, he can reckon nothing that deal, except in the case of a misnomer, or of his having called anything which he could not possibly have held in his hand and discard taken together, when he is liable to no penalty. On discovery of the error, the adversary may reckon anything he has good, which is not barred by a correct call of the player in error, made in addition to his miscall.
-
-55. A player who calls anything which is allowed to be good or equal, must show the cards called at any time they are asked for, orin the case of the younger hand, at any time after the elder hand has led a card. If a player,before he plays a card, voluntarily show anything which he claims to be good or equal, he is liable to no penalty for miscalling what he has shown.
-
-56. When the younger hand has played to the first trick, neither player can reckon anything omitted (except as provided in Law 54).
-
-### PLAYING
-
-57. If a player play with less than twelve cards in hand, he is liable to no penalty. His adversary counts as tricks all cards that cannot be played to.
-
-58. If a player play with more than twelve cards in hand, he can reckon nothing that deal;but his cards, though not good to score, are good to bar his adversary.
-
-59. A card once led or played cannot betaken up, except as provided in Law 52, and as follows:
-
- - I. If a player accidentally drop a card or cards, he may retake them.
- - II. If the leader lead two or more cards consecutively without waiting for his adversary to play, and the adversary plays too many cards, he may, on discovery of the error, retake the extra card or cards. All cards subsequently played in error must be taken up and played over again.
- - III. If a player lead out of turn, the card led may be taken up, unless the adversary have played to the trick, when the error cannot be rectified. 
- - IV. If a player do not follow suit when able,he must; when the error is detected,retake any cards played in error, and substitute the suit led. The players also retake all cards played after the mistake,and the play of the remainder of the cards then proceeds as though no error had been committed.
- - V. If a player, when asked what cards he has in hand which have been allowed to be good or equal, misinform his adversary, the adversary may retake all cards played subsequently to the misinformation, and play differently.
-
-60. A player is entitled to examine both hi sown and his adversary's tricks at any time.
-
-### SCORING
-
-61. Carte blanche scores ten.
-
-62. The largest point is good. The point, when good, scores one for each card.
-
-63. The longest sequence is good; as between sequences of equal length the highest is good. Sequences, when good, score as follows : a huitième scores eighteen; a septième, seventeen; a sixième, sixteen; a quint, fifteen; a quart, four; a tierce, three.
-
-64. The highest _quatorze_ is good. Any _quatorze_ is good against a _trio_. As between _trios_, the highest _trio_ is good. A _quatorze_, when good, scores fourteen. A _trio_, when good, scores three.
-
-65. In playing the cards, each player scores one for every card he leads, or with which he wins a trick. The winner of the last trick scores two instead of one.
-
-66. A player who wins more than six tricks scores ten for the cards. If each player win six tricks the cards are divided, and there is no score for them. A player who wins twelve tricks wins a _capot_, and scores forty for the cards instead of ten.
-
-67. The scores, whether obtained by the elder or younger hand, reckon in the following order :
-
- - I. Carte blanche.
- - II. Point.
- - III. Sequences.
- - IV. Quatorzes and trios.
- - V. Points made in play.
- - VI. The cards.
-
-68. A _repique_ is obtained on the score of thirty being made by a player, in his hand alone, by scores that reckon in order before anything that his adversary can count. A player obtaining a _repique_ adds sixty to his score.
-
-69. A _pique_ is obtained on the score of thirty being made by the elder hand, in hand and play, before his adversary has reckoned anything that deal. A player obtaining a _pique_ adds thirty to his score. A _capot_ reckons after points made in play; and, therefore, does not count toward a _pique_.
-
-70. Errors in counting the hand, if proved, maybe rectified at any time before the player in error has seen his next hand.
-
-71. A partie consists of six deals. The partie is won by the player who makes the higher score in six deals. If both players score the same number in six deals, each deals once more, when the partie is concluded, even if there should be a second tie.
-
-*Note* By agreement, a partie may consist of four deals, the score in the first and last deals counting double. In case of a tie, each deals once more, the scores in the extra deals counting single.
-
-72. The winner of the partie deducts the score of the loser from his own; and the difference, with a hundred added, is the number of points won.
-
-73. If the loser fail to score a hundred, the winner, whether his score reach a hundred or not, adds the score of the loser to his own; and the sum, with a hundred added, is the number of points won.
-
-74. In case of a difference in the written scores, a player's score of his own hand shall be taken as correct.
-
-### INCORRECT PACKS
-
-75. If a pack be discovered to be incorrect, redundant, or imperfect, the deal in which the discovery is made is void. All preceding deals stand good.
-
-### CHANGING CARDS
-
-76. Before the pack is cut to the dealer a player may call for fresh cards at his own expense. He must call for two new packs, of which the dealer has the choice.
-
-77. Torn or marked cards must be replaced, or new packs called for at the expense of the two players.
-
-### BYSTANDERS
-
-78. If a bystander call attention to any error or oversight, and thereby affect the score, he maybe called on to pay all stakes and bets of the player whose interest he has prejudicially affected.
-
-## LAWS OF PIQUET AU CENT
-
-The Laws of Piquet au cent, differ from those of Piquet in the following particulars: The player who cuts the lower card has to deal. If he exposes more than one card in cutting, his adversary may treat the lowest of the exposed cards as the one cut.
-
-The deal is by two cards at a time.
-
-If the elder hand find that he has a card too many or too few, he has the option of a fresh deal before touching the stock.
-
-If the dealer deal with the wrong pack, and the error be discovered before the deal is completed, there must be a fresh deal with the right pack. If not discovered before the deal is completed, the deal holds good.
-
-If a player deal out of his turn, and discover his error before taking up his hand, the deal in error is void, and the right dealer deals. If not discovered before taking up the hand, there is no remedy.
-
-If the younger hand have a carte blanche, he need not declare it until his adversary has discarded and touched the stock.
-
-The younger hand is not obliged to discard any card.
-
-After a player has touched the stock he cannot alter his discard (except as provided in Laws of Piquet 11, 32, and 38).
-
-If the elder hand mix with his hand one of the three bottom cards of the stock, he loses the game ; and, similarly, if the elder hand, having left a card or cards, mix with his hand any of the cards he ought to have left, he loses the game.
-
-If the younger hand take up any of the top five cards of the stock (not being cards declared to be left by the elder hand), he loses the game.
-
-If the elder hand do not take all his cards,he must declare the number he takes or leaves before touching the stock.
-
-If the younger hand leave any cards and elect not to look at them, and either player should then look at them, they must be exposed, and a suit may be called from the offender when next he has to lead.
-
-If the elder hand elect to stand the deal when he has thirteen cards, he must discard one more card than he takes in, but he is not obliged to take in any. He must leave at least three cards for the younger hand.
-
-If the elder hand elect to stand the deal when he has eleven cards and there are eight in the stock, he must discard one less than he takes in, and he must discard one card. The younger hand must discard one more than he takes in, but he is not obliged to take in any. If the elder hand elect to stand the deal when he has twelve cards and there are seven in the stock, he must leave at least three cards for the younger hand. The younger hand must discard one more than he takes in, but he is not obliged to take in any.
-
-The elder hand must call the number his point makes. It is not sufficient to call the number of cards of the point.
-
-It is not sufficient to call the number of cards of a sequence. The elder hand must state to what card his sequence is. And, similarly, if he calls a _quatorze_ or _trio_, he is bound to state the value of the cards of which it consists.
-
-If the elder hand call a smaller point, sequence, quatorze or trio than he holds, or a trio when he holds a quatorze, he must abide by his call, and he cannot reckon anything superior, even though his call is good against the cards. He may,however, correct a misnomer of sequence, trio,or quatorze, before he leads a card, and may reckon anything of equal or inferior counting value, provided his call in error was good against the cards.
-
-The elder hand having called anything which is good or equal must show the cards called,except in the case of quatorzes and trios. If he lead a card without showing his call, he cannot reckon it, and the adversary may show and reckon his point or sequence, even though it be equal or inferior to the one called.
-
-If the elder hand show a sequence and call an inferior one, he cannot reckon the superior one; but the show bars the younger hand from reckoning his sequences, if only equal or inferior to the one shown.
-
-The younger hand having allowed a correct call to be good or equal, must abide by his answer.
-
-If the younger hand disallow a call, and it be discovered that the call of the elder hand is good or equal, the elder hand can show and reckon his superiority, or show his equality, notwithstanding that he has led a card.
-
-If the younger hand say equal or not good to a call, and play to the first trick without showing his superiority or equality, the elder may show and reckon what he has called, notwithstanding that he has led a card.
-
-If a player call a quatorze or trio which he does not hold, and it is allowed to be good,and he play a card without correcting the miscall, he can reckon nothing that deal.
-
-When the elder hand has led a card, or the younger hand played to a trick, they cannot reckon anything omitted.
-
-By agreement, points ending in four count one less than the number of cards.
-
-By agreement, in playing the cards, nines,eights, and sevens are not counting cards.
-
-Errors in adding up, or in marking the score,if proved, may be rectified at any time during the game.
-
-A game is one hundred up. A player scoring a hundred before his adversary has scored fifty wins a double game.
-
-A partie is won by a player who wins three games out of five, a double counting as two games.
-
-A player has no choice of cards on commencing a fresh partie.
-
-
-## CASES AND DECISIONS.
-
-### Case I.
-
- - A calls four cards for point.
- - B replies, " Equal."
- - A says, " Forty-one."
- - B then finds he cannot have a point of forty-one, but that he has a point of five cards.
- - A claims to score the point.
-
-**Decision** 
-
-A cannot score the point. He has not made another call or a further call (Law 51); he has only completed an imperfect call.
-
-B's reply bars him from counting a superior number of cards for point (Law 46). His point, though not good to score, is good to save a _pique_ or a _repique_.
-
-### Case II 
-
-A calls three kings, which B allows to be good. It is presently discovered that A has not three kings. B then claims to reckon four tens. Is he entitled to do so ?
-
-**Decision**
-
-B's admission of three kings being good is subject to A's holding them. B, it is true, might at once have disallowed the call; but, when he supposes A to have three kings, he may desire to sink his tens, and this he may no longer wish to do if he knows A to have a king out.
-
-### Case III
-
-A proposes a fresh deal.
-
-B makes no reply until after A has discarded, when he says he will give a fresh deal.
-
-A, judging from B's hesitation that there is not a powerful hand against him, states that he does not now wish for a fresh deal. B insists that as he has never refused the offer, it is still open,
-
-**Decision** : 
-
-The law does not contemplate the offer of a fresh deal. A fresh deal is a matter of agreement between the players. In this case, though B has not, in words, refused a fresh deal, he has allowed A to carry the game a step further by discarding. This is tantamount to a refusal.
-
-### Case IV
-
-A calls a point headed by ace, and two tierce majors in other suits, and leads a card, but says nothing about aces. Can B reckon three knaves ?
-
-**Decision**
-
-B cannot reckon three knaves. A has declared three aces by implication, and can reckon anything he has omitted before B plays to the first trick (Law 56). B's course is to play a card, saying nothing about knaves, when A loses the score for the aces.
-
-If, however, A is under a rubicon, and B calls knaves, if A objects he must reckon his aces.
-
-### Case V
-
-Elder hand directs the younger to discard for _carte blanche_. The younger having discarded three cards, the elder then shows his hand, and says, "I leave a card." Can the younger hand alter his discard after having seen his adversary's cards ?
-
-**Decision** : Yes. The elder hand should state that he leaves a card before showing his _carte blanche_.
-
-### Case VI
-
-Elder hand discards, and takes up a card of the stock (Law 24).
-
-Younger hand then finds he has a carte blanche, and proposes to show it (Law 19).
-
-Can the elder hand alter his discard, as he has not been informed of the carte blanche? (Law 20.)
-
-If not, can the younger hand reckon the _carte blanche_, as he has not informed the elder hand intime for him to discard for a carte blanche ?
-
-**Decision** : The elder hand cannot alter his discard. The younger hand can reckon the _carte blanche_.
-
-Note : This is a matter of etiquette rather than of law. The younger hand is bound to inform the elder as soon as he is aware he has a carte blanche (Law 20). If he is not aware that he has a _carte blanche_ before the elder has taken up a card of the stock, there is no help for it.
-
-The younger hand cannot be required to do an impossibility. Of course, bona fides is assumed on the part of the younger hand, i.e. that he has not unnecessarily delayed his declaration.
-
-The old law was that the younger hand need not inform the elder of a carte blanche. The distinction between the duties of the elder and younger hands in this respect, was no doubt drawn in order to preclude the occurrence of such a case as the present.
-
-### Case VII
-
-A calls three queens. B says. "Which queendo you not reckon ?" A replies, " Queen ofdiamonds," and then reckons queens. B says,"Three queens are not good; I have three kings."Is B entitled to score his kings?
-
-Decision.-&mdash;No. Asking which queen is out isequivalent to admitting three queens to be good.B, by ascertaining which queen is out, obtainsinformation to which he is only entitled in thecase of A's scoring the queens.
-
-Case VIIL
-
-A calls three kings. B says, "Good. Whichking do you not reckon?" A replies, "King ofdiamonds." On playing the cards it is discoveredthat A has the king of diamonds in hand, andthat he has put out the king of hearts.
-
-PIQUET. 25
-
-B claims that A can score nothing that hand.A contends that it is only a misnomer, for whichhe cannot be punished.
-
-Decision.&mdash;B's claim is correct. It is true thatA actually held three kings; but, as the replyof the elder hand is only a substitute for showingthe kings, he has defined his claim to be forthree kings, including one which he has not got.He is therefore liable to the penalty for scoringwhat he does not hold.
-
-Case IX.
-
-A calls four knaves (holding only three). Breplies, "Good." A then says, "I beg yourpardon, I have only three knaves." B reiDlies,"Not good." B might have held four aces, but,having discarded an ace, has only three.
-
-A thus discovers before he leads a card thatB has an ace out, and so obtains information towhich he is not entitled. Has B any remedy?
-
-Decision.&mdash;B has no remedy. It is one of thoseaccidents that will occasionally happen which cardlaws cannot reach.
-
-Case X.
-
-A (elder hand) has a quint major, and suchother cards that he will probably put B to a card.A places the quint major on the table and says," Play five cards."
-
-2 6 PIQUET.
-
-B accidentally plays six cards.
-
-At the end of the hand, when A plays hislast card, it is found that B has no card to playto it.
-
-B claims to play the hand over again (Law 59,par. II.)
-
-A urges that B was distinctly informed how manycards he had to play; that he cannot benefit byhis own mistake; and that, now he has seen all thecards, he knows which card to keep in order tosave the capot.
-
-Decision.&mdash;The hand must be played over again,B retaking one of the cards he played to the quintmajor.
-
-A might have protected himself by counting thecards originally played by B. If he is too carelessto do so, he must take the consequences.
-
-Case XI.
-
-A (elder hand), having a quint major in clubsand the seven, places the quint major on thetable together with the seven of spades, and says,"Play six cards."
-
-B plays five cards, and then takes the seven ofspades with the eight. A then says, " I made amistake; I intended to have played the seven ofclubs." Can A rectify his error?
-
-Decision.&mdash;A is too late after B has played hissixth card. But prior to that A can rectify his
-
-PIQUET. 2 7
-
-Case XIL
-
-A (elder hand), has a tierce to a knave in clubs,good against the cards. He might also have hada tierce to a queen in hearts, but he has discardedfrom that suit. He calls a point in diamonds, anda tierce, but does not declare in what suit it is,nor to what card it is (Law 48). B (younger hand),plays on the supposition that the tierce is in hearts,and in consequence loses the cards. B then claimsto play the cards again, on the ground that he hasbeen misinformed (Law 59, par. V.), or, at least,that he has not been sufficiently informed.
-
-Decision.&mdash;B has not been misinformed, and hasno right" to have the cards played again. Hemight have protected himself by asking A to showthe tierce (Law 55), or, what amounts to the samething, by asking to what card the tierce is.
-
-Note.&mdash;As a matter of etiquette, it is usualamong piquet players to volunteer information whenthere may be a doubt as to the nature of the claim.Thus the younger hand might have the point, goodor equal, in more than one suit. After the elderhand has led a card, it would be in accordancewith custom for him to say "In hearts," or what-ever the suit may be; or, if he has a high cardof his point out that might influence the play (hispoint nevertheless being good or equal), to showthe cards.
-
-In case no mention is made of the suit, theclaim is generally understood, among players, to
-
-28 PIQUET.
-
-refer to the highest or best combination that canbe held, in the case of the tierces, first given,to the tierce to a queen. If A and B are inthe habit of playing on that tacit understanding,B has just cause of complaint, and A shouldendeavour to repair the injury inflicted on B, thesimplest course probably being not to demur toB's request to play the cards again.
-
-Similar observations apply to quatorzes andtrios. Thus the elder hand has point and quart,both good, and might also have three kings andthree tens, both good against the cards, but hasput out a king. He should not call his handthus :&mdash;" Five a^d four are nine, and three aretwelve." He should say, "and three tens aretwelve."
-
-Case XIII.
-
-B (younger hand) accidentally takes up a cardless than he discards. The mistake is discoveredwhen the hand has been partly played out. Bclaims to take in the card he left on the table,the card in question not having been mixed withhis discard.
-
-Decision.&mdash;B can take up the card he left onthe table, unless he has announced that he willleave a card, when he must play with eleven cards.If B has not renounced in the suit to which thecard belongs, the hand proceeds in the usual way.If he has renounced, Law 59, par. IV., comesinto operation.
-
-PIQUET. 29
-
-Case XIV.
-
-The younger hand (B) discards and takes upthe bottom three cards of the stock before theelder hand (A) has taken in. A then says, " Ileave a card." What is the consequence?
-
-Decision.&mdash;B having taken up a card of thestock cannot alter his discard; and, as in takingin he is obliged to take the cards in order fromthe top of the stock, including cards left by theelder hand, he must take the card left by A,must play with thirteen cards, and can reckonnothing that deal.
-
-Case XV.
-
-The elder hand holds king, knave, ten, nine,eight, seven of diamonds. He calls six cardswhich are not good, and a quint minor whichis good.
-
-During the play of the cards, the elder throwsten, nine, eight, seven of diamonds. The youngerhand then says, " How many diamonds ?" Theelder replies, " Two." The younger, supposingthat the reply is only as regards the quint, playsaccordingly and loses the cards thereby. He thenclaims to play the end of the hand again underLaw 59, par. V.
-
-Decision.&mdash;The question can only be asked withregard to cards reckoned for or called as equal.The reply; therefore, can only be with regard
-
-30 PIQUET.
-
-to those cards. The younger hand has beenmisinformed, and can claim to play the end ofthe hand again.
-
-Note.&mdash;This decision has been much disputed.Compare Case XVI.
-
-Case XVI.
-
-In the contrary case, of a player's replying" One" (or whatever the number may be), whenhe has more which he has not declared, theadversary must take the reply to be in respectof cards reckoned as good or declared as equal.
-
-For example:&mdash;B (younger hand), who has dis-carded at least one spade, remains with threecards in hand, viz., ace, queen of hearts, andking of spades. He has not declared any point,aces, or queens, but has reckoned a quart minorin hearts. A (elder hand) has ace, queen ofspades, and king of hearts. Before leading, hesays, "How many hearts?" B replies, "None."No one disputes that B is justified in this, andthat his reply is understood, by all piquet players,to mean, "None that I have declared."
-
-Note.&mdash;In both this and the previous case thequestion put is irregular. It should strictly takethis form, "Hov/ many of your quint?" or, "Howmany of your quart?" as the case may be. Or,the request may be, "Show me anything youhave declared" (Law 55). But as the irregularityis permitted by custom, it is assumed that the
-
-PIQUET. 31
-
-player who has to answer will frame his replywith reference only to cards called as good ordeclared as equal. This consideration guides thedecision in Case XV.
-
-Case XVIL
-
-A has thirteen cards in his hand. He does notnotice it, but discards five cards and takes in five.After he has taken in it is discovered that he hasin his discard a card belonging to the undealtpack. A claims a fresh deal under Law 75.
-
-Decision.&mdash;There is no proof that when the packwas dealt it was redundant. The surplus card mayhave got into A's hand or discard after the dealwas completed. A is liable to the penalty for play-ing with thirteen cards, and can reckon nothingthat deal.
-
-Case XVIII.
-
-The facts are as in the previous case; but Akeeps in his hand the card belonging to the urj-dealt pack instead of discarding it.
-
-Decision.&mdash;In this case, if A has not played t'tiesurplus card he may return it to the undealt pack,and there is no penalty, unless A has used thiscard in scoring anything that is allowed Xo begood, or in showing anything that is allowf-d tobe equal, and has afterwards led a card. He isthen liable to the penalty for an unfounded claim.
-
-32 PIQUET.
-
-and can reckon nothing that deal) subject how-ever to the possibiUty of his having held what heclaims, in his hand and discard taken together, asprovided in Law 54).
-
-If the surplus card has been played prior to thediscovery of the error, the hands must be takenup and played over again, the surplus card beingfirst removed.
-
-Case XIX.
-
-A plays with thirteen cards; B with twelve.
-
-B wins the twelfth trick, and scores two for it.
-
-A objects that the twelfth trick is not the lasttrick (Law 65), and that his thirteenth card,though not good to score, is good to bar theadversary (Law 58).
-
-Decision.&mdash;The word "last," in Law 65, pre-supposes that each player has twelve cards. Bis entitled to score two for the twelfth trick.
-
-Case XX.
-
-\A says, "Discard for carte blanche." While Bis ,3onsidering what he will put out, A places hisdis,tard face downwards on the table, and takes upsomP cards of the stock. Can A then show hiscart^. blanche?
-
-jy^cisiojt.&mdash;Yes, provided he has not mixed anyof th^ stock with his hand. He must show hishand ^^id his discard separately, as, having taken
-
-PIQUET. 33
-
-up a card of the stock, he must not retake anycard of his discard.
-
-Case XXI.
-
-In continuation of the former case, B, on seeingA take up a card of the stock, says, "You havenot shown your carte blanche." A repUes, "Nomore I have," rehnquishes the stock, mixes hisdiscard vi^ith his hand, and is about to show thecarte blanche, when B objects, that A havingtaken up a card of the stock, and then retakenhis discard, must play with seventeen cards, andcan reckon nothing that deal.
-
-Decision.&mdash;B's contention is so far correct thatA can reckon nothing after the carte blanche,which (so long as he has not mixed any of thestock with his hand) he is still at liberty to showand reckon. This score accrues before the playof the hand commences, and before any cardsare taken in. Consequently, the law which bars /a player from reckoning anything if he plays with /too many cards does not apply to a carte blanche,
-
-Case XXII.
-
-It is the last hand of a partie. A (elder hand)is sixty-two. B (younger hand) is ninety-two.
-
-A holds ace, king, queen, knave, nine of spades;king, knave of hearts; knave of clubs; and ace,queen, knave, ten of diamonds. ;
-
-D /
-
-34 PIQUET.
-
-He has discarded eight, seven of hearts; eight,seven of clubs; and seven of diamonds.
-
-B holds ten of spades; ace, queen, ten, nineof hearts; ace, king, queen, ten, nine of clubs;and king, nine, eight of diamonds (thirteencards).
-
-By mistake, he has only discarded two cards,viz., eight, seven of spades; and he has taken uptogether the three cards left in the stock. As hecannot alter his discard (Law 24), he is obliged toplay with thirteen cards, and can reckon nothingthat deal (Law 35).
-
-The elder hand calls five cards, making fifty.The point is equal. The elder then calls a quartmajor, a tierce to a queen, and four knaves, goodfor twenty-one, and leads five spades. To thesethe younger hand plays ten of spades ] nine, ten,queen of hearts, and eight of diamonds.
-
-It matters not now what the elder hand leads.As the cards happen to lie, he scores most byleading king of hearts. B wins with the ace, and' plays five clubs and divides the cards.
-
-The scores are, A, 91; B (who reckons nothing),6)2. B wins a rubicon (Law 73) of 283 points.
-
-' Now if B had played with twelve cards, hew^uld have lost a rubicon. This is easily provedby\ taking from B's hand the card of least import-ance to him, say the eight of diamonds. A leadsfive \ spades, as before. It is immaterial what Bplays\. A must win at least the last two tricks,and tihe cards, and scores forty.
-
-PIQUET. 35
-
-The scores are, A, 102 ; B, 98 (at most); but asprobably B has seen he cannot save the rubicon,it may be taken that he has let A count thirteen inplay, when the score will be, A, 106 ; B, 92. Awins a rubicon of 298 points.
-
-Hence B profits, by his own blunder, to theamount of 581 points. The example is takenfrom actual play.
-
-Similar examples could be furnished as to thecall of a player, with thirteen cards, barring apique or a repique, and as to the extra cardsaving a capot.
-
-The penalty of scoring nothing that hand, whena player has too many cards, may not only be nopenalty at all, but may give the player in fault anoverwhelming advantage. That this should bepossible is a serious blemish in the game; and itis suggested that it should be provided againstby future legislators.
-
-It is the fashion to say that, in the long' run,the habitually careless player will lose more thanhe will gain, by playing with the wrong numberof cards. This appears to the Author to amountmerely to a lame excuse for an inadequate law.
-
-## TREATISE ON PIQUET
-
-
-### PREFACE TO THE EIEST EDITION.
-
-Since Hoyle's Treatise on Piquet was publishedin 1744, no original work on Piquet has appearedin the English language (so far as the author hasbeen able to discover), though Hoyle has severaltimes been edited with more or less success.
-
-The issue of an authorized code of Laws*affords a good occasion for the publication of afresh treatise on the game. Although the planof it is original, the author has made free use ofthe examples contained in Hoyle's valuable work.The author has also (through the great kindnessof Mr. Clay,) been able to avail himself of thataccomplished player's judgment and experience.For the assistance rendered to him by Mr. Clay,the author takes this opportunity of expressinghis warmest thanks.
-
-Portland Club,
-
-May, 1873.
-
-"■"• Of Piquet ate cent, by the Portland Club, in 1873(and, see p. 81).
-
-### HISTORICAL.
-
-Numerous theories have been broached respecting the origin and etymology of Piquet; but nopositive conclusions have been arrived at.
-
-First as to the origin of the game. By somewriters, of indifferent weight, it is referred to theperiod of the reign of Charles VI. (1380-1422).
-
-Haydn ("Dictionary of Dates"), giving Mezerayas his authority, states that Piquet was the firstknown game on the cards and that it was inventedby Joquemin for the amusement of Charles VI, ofFrance. There is no such name as Joqueminto be found in any of the biographies. The personreferred to is no doubt Jacquemin Gringonneur,to whom is erroneously ascribed the inventionof playing cards in the reign of Charles VI.Some authorities are of opinion that Jacqueminwas the name of a cardmaker, or gringonneur ofthat period, griiigonneiir signifying a maker ofgrangons {certus tesseraru7n Indus. Du Cange,
-
-
-Glossary, Supplement, Vol. ii., col. 651). Persius{^^Rouge et Noir. The Academicians of 1823."London. 1823.), says, "Of all the games at cardsPiquet is the most ancient. ^ * * Its originis somewhat singular; a great Ballet executed atthe Court of Charles VI. suggested the idea of it."
-
-He then describes the ballet. His descriptionis identical with that of the interlude in Le Triomphedes DameSj printed in the Theatre Francois, anddanced some three hundred years later. He pro-bably confuses one with the other.
-
-It is now well ascertained that Piquet is by nomeans the most ancient of card games. PaulBoiteau d'Ambly (^^Les Cartes a jouer et la Carto-viancieJ'' Paris. 1854.), rebuts the idea that Piquetcould have been played in the time of Charles VI.He writes, " C'est an. jeu de tarots que jouaitClia?ies VI. &gt;i&lt; =)^ * JVi le piquet 7ii, a plusforte raison le wliist ii^existaieut. ^ ^ ^ IIny a de con7iu que le tarot.'''
-
-The latest authorities are of opinion that tarotcards {Le., emblematic cards combined with nume-rals), were first used in Italy towards the end of thefourteenth century, and that soon afterwards thetarot game was subjected to the elimination of theemblematic series, leaving the numeral series towork by itself It is, therefore, most unlikely thatcards, with which Piquet could be played, wereknown in France as early as the time of Charles VI.
-
-It is next attempted to fix the invention of Piqueton the period of Charles VII. (1422-1461); and as this date is commonly upheld, especially byFrench writers, it is advisable to give a detailedaccount of their views.
-
-In the " Memoire siir V Origine du Jeu de Piquettrouve dans misioire de France^ sous le Regne deCharles VII'\ by Le Pere Daniel {Journal deTrevoux. May, 1720.), Piquet is credited withbeing a symbolic, allegorical, military, political, andhistorical game. From the names of the personageson the court cards of early French packs, and fromthe marks of the suits, the Pere believed he hadmade out the origin of Piquet, which he supposedto have been devised about 1430.
-
-Chatto, a careful and sound critic ("Facts andSpeculations on the Origin and History of Play-ing Cards." London. 1848.), speaks of Daniel'stheories as "mere gratuitous conceits," and asthe seethings of the father's imagination.
-
-Saint-Foix {^^ JSssais Historiques sur ParishMaestricht. 1778.), patronises the ballet theory.Referring to the interlude in Le Trioinphe des Dames,he adds, "y^ crois que cet Iniermede n^etoit pas7wuveau, &lt;S^ qii'il n^etoii que Vesquisse dhm gra7idBallet execute a la Cour de Charles VII, &amp;= surlequel oil eut idee die jeic du Piqicet, qui certainementnefut imagine que vers la fin du regne de ce Prince.''
-
-Singer (" Researches into the History of PlayingCards." London. 1816.), follows Saint-Foix, butwith great caution. He observes, " The game ofPiquet appears to have been invented in the reignof Charles VIL It has been said that its invention took rise from a Ballet danced at the court of thatMonarch; but it seems quite as probable, that thisgame furnished the device for the Ballet, as it hasdone at a later period."
-
-Leber (" Etudes historiqiies sur les Cartes a jouer."Paris. 1842.), agrees with Daniel in assigning aFrench origin to Piquet, in the time of Charles VII.
-
-In Boiteau's ^'■Cartes a jouer'^ there is a gooddeal of speculation as to the origin of Piquet." Rien de certain ne pent etre avance au sujet de cescommencements des cartes aux couleurs franfaises etdu jeu de piquet qui semble etre ne en mhne tempsqu^elles. Le nom meme du jeu ne s'explique pasJacilement. Quoi quHl en soit, les cartes aux couleurscoeur, carreau, pique et trefle existent sous Charles VIIet neparaissent pas avoir eie connues sous Charles VI.De plus, la creation du jeu de piquet semble se rat-tacher par plus dhm lien au regne de Charles VII.Maintenant, Est-il possible d^admettre que tout acoup aient inventes ce jeu et ces cartes ?&gt;;&lt;**Dans les cettt annees qui vont de 1350 a 14^0 il adu s'introduire ate milieu des cartes antiques plusdhme 7?iodijication qui 7ious echappe. * * *Cest Vopinion de quelques personnes, qu'il a existeun jeu intermediaire entre le iarot meridional ouallemand et le piquet francais. De ce jeu interme-diaire il ny a pas de traces, comme il ny en a pas dutravail qui a fait naitre le piquet. II ne fautpas.done dire, co7nme M. Paul lacroix, que le jeu depiquet est dii a la Hire [the famous Stephen deVignoles, a devoted adherent of Charles VII.] ou d'un semant d'armes de ce capitaine. ^ -^ ^ IIne faut pas non plus accepter les pretendues expli-cations des erudits du siecle dernier, qui 7ie sont,en general, que d^assez niauvaises conjectures. Cesera dans les files de Chinon, la ou Charles VIIperdait si gaiement son royaume, ce sera encore aParis, apres la victoire [1436] et da?is la joie du.triomphe, que la coitr galante et militaire du roimuve par Jeanne d'Arc aura imagine et opere lareforme des cartes. &gt;i&lt; * * La France con-naisait le tarot dans la seconde moitie du XIV^ siecle.* * * La connaissa?ice du jeu s^etant repandue,elle s'appliqua a approprier les cartes a son genie.La combinaison dite du jeu de piquet est nee alors.C^est une simplijication des elemens anciens. Lescouleurs et le nombre des cartes, aussi bien que Idcreation des regies fondajnentales du jeu de piquet,datent de Charles VII et probablement du milieu deson regne, qui est aussi le milieu du XV^ siecle.Jusqu^a ce moment, jusqi^au milieu du XV^ siecle,rhistoire des cartes est enveloppee d'obscurites. Lacreation du jeu francais est la chose importante danscette histoire."
-
-Boiteau admits that nothing certain can be ad-vanced on the subject of the origin of Piquet, andthat just at the period of which he treats, thehistory of cards is wrapped in obscurity. Afterthese admissions one may safely consign his theoryto the region of guesses.
-
-Dr. Willshire ("A descriptive Catalogue ofPlaying and other Cards in the British Museum."
-
-48 PIQUET.
-
-London. 1876.), the most recent, and probablythe best, authority, remarks that, "There is notsatisfactory evidence * to show the date atwhich piquet was first played. * * * En-deavours have been made to associate the origin ofthis game with the epoch of Charles VII, but adecisive solution of the question cannot be ob-tained."
-
-The supposition of Grosley {^^ Mhnoi7-es histo-riques et critiques pour FHistoire de Troyes.''^ i774-))that Piquet was invented by a mathematician ofTroyes, named Picquet, who lived in the reign ofLouis XIII. (1610-1643), ^^d the statement ofStrutt ("Sports and Pastimes." London. 1801.),that Piquet was introduced into France in themiddle of the seventeenth century, may be met byreciting the fact that, about a century earlier,Rabelais (1535) includes Piquet in the list ofgames played by Gargantua. Boiteau believesthat the Piquet mentioned by Rabelais was adifferent game; but this original notion requiresconfirmation.
-
-Complex card games, like Piquet, are not in-vented by, nor for, individuals. They grow out ofearlier and simpler games, until at last, throughthe survival of the fittest modifications, a highlydeveloped game is evolved. As Boiteau wellobserves, " // est impossible de dire, prenant un jeuquelconque, quHl a ete ifive^ite en telle a7inee par tintel. Cest tantot Pun et tantot Vautre qui s^avise
-
-PIQUET. 49
-
-d'ajouter quelques regies ^ un vieux Jeu, d^en changerle nom; des amis adoptenf; quelques societes a lasuite, et voila une invention.'''' It is therefore to theolder card games that one should look for theorigin of Piquet. The opinion of the latest writerson the history of playing cards is that Francereceived her cards, and the games played withthem, from Spain and Germany, and that thesecountries obtained them from Italy. If so, anexamination of the early games and cards of Italy,Spain and Germany may throw some light on thequestion.
-
-The ancient name of the point at Piquet wasronfle, and la Ronfie is one of the Gargantuangames mentioned by Rabelais (1535). There wasalso an Italian game called Ro7ifa, but it is notknown how it was played Ronfa, by some, issaid to mean "ruff"; very likely this may be so,and the word ruffing may also mean discarding andtaking in, as it did at the game of Ruff andHonours, an ancestor of whist. Berni (" Capitolodel Gioco delta Primiera col Commento di MesserPietropaulo da San Chirico. Stampata i?i Romanel Anno M.D.XXVL"), includes Ron/a in a list ofeleven card games, played at that time (1526).
-
-In one place, the facetious commentator, whostyles himself as above, thus refers to the inventionof Ron/a. (The quotation is taken from Singer'stranslation.) "'We have but little certainty whowas the inventor, or who, in the first instance de-velope.d the game, nor is that little confirmed by authority to be relied on. Some say it was Lorenzode Medici the Magnificent, and relate I know notwhat tale of an Abbot. * * * Others willhave it that Ferdinand of Naples, who so distin-guished himself, was the inventor Others Matthias,King of Hungary; many Queen Isabella; somethe Grand Seneschal. * * * We shall leavethe research to those who are desirous of knowinghow many barrels of wine Acestes gave to ^neas;or what was the name of Anchises' nurse; and thelike curiosities, worse than the Egg and Chicken.'"
-
-Since ronfle was the point, and ronfa meant"ruff", and ruffing meant discarding and taking infrom a stock, it is hardly too much to assume thatRonfa was a game in which discarding, taking in,and calling a point, were prominent features.Ronfa or la Ronfle may have been a simple form ofPiquet; or, the similarity of the words ronfa^ ronfleand ruffvcidiy be mere coincidences.
-
-When Italian cards, and the games played withthem, travelled to Spain, a game called Cientos wasplayed in that country. Singer says, "As thisgame was of Spanish original, and has some ap-pearance of having resembled Piquet :j^ * +may not the French have adopted it, with somealterations, merely changing its name ? " Boiteauconfirms the idea of the adoption thus :&mdash;" Le cent[piquet). Le piquet s'appelle encore aujourd^huile cent ou la grande brisque dans la Charenter
-
-Singer assumes that the game originated inSpain. It is more probable that Cientos was a modified Italian game, possibly Ronfa^ with achange of name.
-
-From Spain or France the game came to Eng-land, where it was called Cent.
-
-There is no similar record of a game likeRonfa or Cientos having reached Germany, whenItalian cards journeyed to that part of Europe.The material leading to the supposition that sucha game was played in Germany, whence it is geo-graphically and historically probable it travelledto France, is very slender. What little there isdepends on the amount of reliance to be placedon Merlin (^^ Origine des Cartes a jouer.^^ Paris.1869.). The following quotation is taken fromWillshire :&mdash;
-
-"'We desired,'" "writes M. Merlin," '"tobe able to point out in a satisfactory mannerwhat were the names and structure of the [early]German games, but have not met with informa-tion precise enough on the subject. We must becontented with communicating a few remarks withwhich the examination of the cards has furnishedus.
-
-"' For figures we meet with kings, superior andinferior valets [the superior knave, obermann, isthe equivalent of the queen in French and Englishpacks]. * * *
-
-'"The point cards are the ten, nine, eight,seven, six and two, a composition resembling ourown Piquet [packs], in which the ace has beendisplaced by the two. This structure is * * *
-
-
-that of the Saxon game Schwerter Karte&mdash;cartesa Vepee.
-
-'"What appears to confirm our conjecture asto the analogy of piquet with this jeu a Vepee^ isthe fact that in the modern cards manufacturedat Vienna for playing the German game, w= * *the six is suppressed, as it is in the French piquet[pack] since the end of the seventeenth cen-tury.'"
-
-It seems not improbable that an Italian game,bearing a likeness to Piquet, grew into Cientos inSpain and into le Cent in France; and, that agame played with sword packs, in which thenumber and value of the cards was the same asin piquet packs, was known in Germany; and thata modification of this Sword Game (to coin aname for it), afterwards found a home in Franceunder the title of Picquet (the old spelling). Buthow, or when, the most advanced form of theolder games finally established its supremacy asPiquet, history does not relate.
+It seems not improbable that an Italian game, bearing a likeness to Piquet, grew into Cientos in Spain and into le Cent in France; and, that a game played with sword packs, in which the number and value of the cards was the same as in piquet packs, was known in Germany; and that a modification of this Sword Game (to coin a name for it), afterwards found a home in France under the title of Picquet (the old spelling). But how, or when, the most advanced form of the older games finally established its supremacy as Piquet, history does not relate.
 
 Next as to the etymology of Piquet.
 
-"The new World of Words" collected and pub-lished by E. P.[hillips]," (London. Ed. 1696.),states that Piquet is "perhaps so called as adiminutive of Pique, as it were a small Contestor Combat." The first edition is dated 1658;but Piquet does not occur in it, nor in the editionsof 1662 and 1671.
+"The new World of Words" collected and published by E. Phillips]," (London. Ed. 1696.),states that Piquet is "perhaps so called as a diminutive of Pique, as it were a small Contestor Combat." The first edition is dated 1658, but Piquet does not occur in it, nor in the editions of 1662 and 1671.
 
-Skeat ("Etymological Dictionary." Oxford.
+Skeat ("Etymological Dictionary." Oxford.  1882.), remarks on E. P.'s proposed derivation,"This is ingenious and perhaps true."
 
-PIQUKT. 53
+According to the Abbe Bullet (" Recherches sur les Cartes a jouer" Lyon. 1757) the word Piquet is derived from Celtic. Piquo he says, in Celtic signifies to choose, and pic and repic (the old spelling of pique and repique), have the sense of doubled and redoubled. The old spelling of pique was picq and of repique repicq but that is a trifle. The ancient name of the point, ronfle,  Bullet compounds of two Celtic words rum, a gathering together, and bell (in composition, fell), a combat; hence rumfell, rumfle, ronfle, an assemblage of cards of the same suit.
 
-1882.), remarks on E. P.'s proposed derivation,"This is ingenious and perhaps true."
+"Pick" probably does belong to the Celtic languages, but there is no consequent reason for associating it with the game of Piquet. Skeat says of Celtic, "This is a particularly slippery subject to deal with," and "we must take care not to multiply the number [of borrowed Celtic words] unduly." Prior to the appearance of his "Recherches",  the Abbe was engaged on a Celtic dictionary, and he refers many words of doubtful etymology to Celtic. The coincidences he points out are generally regarded as more curious than valuable.
 
-According to the Abbe Bullet (" Recherches surles Cartes a jouer:' Lyon. lyS?-)? ^^^ wordPiquet is derived from Celtic. Piquo^ he says,in Celtic signifies to choose, and pic and repic(the old spelling of pique and repique), have thesense of doubled and redoubled. The old spellingof pique was picq and of repique repicq^ but that isa trifle. The ancient name of the point, ronfle^Bullet compounds of two Celtic words&mdash;rum^ agathering together, and bell (in composition, fell)^a combat; hence rumfell^ rwnfle^ ronfie^ an assem-blage of cards of the same suit.
+Grosley's fable that the game was invented by a man named Picquet would hardly be worth notice, but that it has been repeated (guardedly, it is true), by others. Persius says, " It appears very probable that this game bears the name of its inventor." And Littre has, "The game is supposed to have been named after its inventor."
 
-"Pick" probably does belong to the Celticlanguages, but there is no consequent reason forassociating it with the game of Piquet. Skeatsays of Celtic, "This is a particularly slipperysubject to deal with," and "we must take carenot to multiply the number [of borrowed Celticwords] unduly." Prior to the appearance of his"■Recherches,^'' the Abbe was engaged on a Celticdictionary, and he refers many words of doubtfuletymology to Celtic. The coincidences he pointsout are generally regarded as more curious thanvaluable.
+It has already been pointed out that games like Piquet are not invented by any one person.
 
-Grosley's fable that the game was invented bya man named Picquet would hardly be worthnotice, but that it has been repeated (guardedly,it is true), by others. Persius says, " It appearsvery probable that this game bears the name of
+In the absence of a better etymology, the suggestion that the name of the game may have been derived from the spade suit, is submitted for consideration.
 
-54 PIQUET.
+In the oldest known playing cards, combined with tarots, the suit of spades was represented by bona fide swords, and was named spade in Italian, espadas in Spanish. The sword also obtained, as a suit mark, in cards used in Germany; but the Germans soon altered it into laub or grün the mark being shaped like a plum leaf.
 
-its inventor." And Littre has, "The game issupposed to have been named after its inventor."
+In numeral cards, unconnected with tarots, the suit of spades was called picche in Italian, picas in Spanish, as early as the time of Charles VII of France.
 
-It has already been pointed out that games UkePiquet are not invented by any one person.
+The French appear to have adopted the German symbol, grün, and to have called it pique, after the Italian name. Leber, in a sentence translated by Chatto, says, "In the southern parts of Europe the French Pique is La  Picca or La Spada.'"
 
-In the absence of a better etymology, the sug-gestion that the name of the game may have beenderived from the spade suit, is submitted for con-sideration.
+Merlin asserts that a game was played in Germany with sword cards, which in their composition resemble piquet packs; and conjectures that the French Piquet was analogous to this nameless game.
 
-In the oldest known playing cards, combinedwith tarots, the suit of spades was represented bybofia fide swords, and was named spade in Italian,espadas in Spanish. The sword also obtained, asa suit mark, in cards used in Germany; but theGermans soon altered it into laub or griin^ themark being shaped like a plum-leaf
+The suggestion, offered with hesitation, is that Piquet may be a developed form of the analogous German game, and that, being played with pique cards in France, it may there consequently have obtained the name of Piquet.
 
-In numeral cards, unconnected with tarots, thesuit of spades was called picche in Italian, picas inSpanish, as early as the time of Charles VIL ofFrance.
+Neither Cent nor Piquet are mentioned by Shakespeare. And it is somewhat remarkable that though Cent frequently occurs in English books of the Shakespearian period, Piquet, so far as is known, never does. In Nares (" Glossary of Words in Works of English Authors of the Time of Shakespeare "), Cent and many other games find a place, but Piquet does not appear. From this it may be concluded that Cent was played in England until about the middle of the seventeenth century, when the word Cent went out of use,and was replaced by the word Piquet.
 
-The French appear to have adopted the Germansymbol, griin^ and to have called it pique, after theItalian name. Leber, in a sentence translated byChatto, says, "' In the southern parts of Europethe French Fique is La Ficca or La Spada.'"
+That the two games were practically identical will presently be made evident. The change from Cent to Piquet, in England, may therefore be regarded as one of name only, and may perhaps be thus accounted for. From the time of the marriage of Mary with Philip of Spain (1554), the English equivalent of the Spanish name of the game was in vogue. In 1625, Charles I. married the daughter of Henry IV. of France. When a French Princess came on the scene the French name, Piquet, was contemporaneously substituted for the Spanish name.
 
-Merlin asserts that a game was played in Ger-many with sword cards, which in their compositionresemble piquet packs; and conjectures that theFrench Piquet was analogous to this namelessgame.
+Cent was sometimes corrupted into Saunt, Saint, Cente, Sent, and Sant; and the word occasionally has the prefix "Mount." So far as is known, the meaning of this prefix has never been explained. A few quotations from authors of the period (1532 to 1656), may prove of interest.
 
-The suggestion, offered with hesitation, is thatPiquet may be a developed form of the analogous
+The earliest known reference to Cent is in "A Manifest Detection of the most vyle and detestable Use of Dice play, and other Practises like the same; A Myrour very necessary for all younge Gentilmanand others sodenly enabled by worldly Abiidance,to loke in. Newly set forth for theire Behoufe.", a very rare tract, printed in 1532, and said to be by Gilbert Walker. The Percy Society's reprint(1850.), is quoted:
 
-PIQUET. 55
+" After the table was removed, in came one of the waiters with a fair silver bowl, full of dice and cards. [...] Then each man choose his game."
 
-German game, and that, being played with piquecards in France, it may there consequently haveobtained the name of Piquet.
+The writer goes on to say, "Because I alleged ignorance [of dice] [...] we fell to Saunt, five games a crown." This looks as though the stake was on the old-fashioned partie, best of five games.
 
-Neither Cent nor Piquet are mentioned byShakespeare. And it is somewhat remarkablethat though Cent frequently occurs in Englishbooks of the Shakespearian period, Piquet, sofar as is known, never does. In Nares' (" Glossaryof Words in Works of English Authors of the Timeof Shakespeare "), Cent and many other games finda place, but Piquet does not appear. From this itmay be concluded that Cent was played in Eng-land until about the middle of the seventeenthcentury, when the word Cent went out of use,and was replaced by the word Piquet.
+Another early reference is to be met with in Turberville's "Book of Faulconrie " (1575.) "At coses or at Saunt to sit, Or set their rest at prime."
 
-That the two games were practically identicalwill presently be made evident. The change fromCent to Piquet, in England, may therefore beregarded as one of name only, and may perhapsbe thus accounted for. From the time of themarriage of Mary with Philip of Spain (1554),the English equivalent of the Spanish name ofthe game was in vogue. In 1625, Charles I.married the daughter of Henry IV. of France.When a French Princess came on the scene theFrench name, Piquet, was contemporaneously sub-stituted for the Spanish name.
+In the " Book of Hows hold Charges and other Paiments laid out by the L. [ord] North and his Commandement" (Nichol's "Progresses of Queen Elizabeth"), there are several entries of losses at play. In the entry, 1578, May 15 to 17, there occurs, "Lost at Saint, xv.s."
 
-Cent was sometimes corrupted into Saunt, Saint,Cente, Sent, and Sant; and the word occasionallyhas the prefix "Mount." So far as is known, the
+This is interesting, as showing that at that time Cent was a fashionable game, and played at court.Lord North used frequently to play with the Queen,and there are several entries of money lost to her,but the names of the games are omitted.
 
-56 PIQUET.
+North brooke calls the game Cente. In "A Treatise, wherein Dicing, Daucing, Vaine Plaies or Enterludes are reprooved ". (London. 1577.), the author thus addresses the reader :
 
-meaning of this prefix has never been explained.A few quotations from authors of the period (1532to 1656), may prove of interest.
+"What is a man now a dales if he knows not fashions ? [...] To plaie their twentie, fortie,or 100./. at Gardes, Dice, and Post, Cente, Glekeor such other games: if he cannot thus do he is called a miser, a wretch, a lobbe, a cloune, and one that knoweth no fellowship nor fashions, and less honestie."
 
-The earliest known reference to Cent is in "AManifest Detection of the most vyle and detestableUse of Diceplay, and other Practises lyke the same;A Myrour very necessary for all younge Gentilmanand others sodenly enabled by worldly Abiidance,to loke in. Newly set forth for theire Behoufe.",a very rare tract, printed in 1532, and said- to beby Gilbert Walker. The Percy Society's reprint(1850.), is quoted:&mdash;
+The "honestie" is not apparent in all cases. In "Nobody and Somebody", an anonymous play (circa 1592.), Lord Sicophant confers with Somebody, the stage villain, as to introducing " Deceitfull Cards " at Court, the guilt to be made to rest with Nobody. During the conversation, Sicophant shows cards prepared for cheating at various games,and, (/. 1533), says, "These are for saunt."
 
-"' After the table was removed, in came oneof the waiters with a fair silver bowl, full of diceand cards. * * * Then each man choose hisgame.'"
+This is no mere effort of imagination on the part of the playwright. The use of "Deceitfull Cards" at Saunt, about this time, was unfortunately a fact.They are mentioned in "Dice Play"; and the action of Baxter vers. Woodyard and others", brought in 1605, was for cheating at this game with prepared cards, as the following extract from Moore's "Reports" (1688.) shows:
 
-The writer goes on to say, " ' Because I allegedignorance [of dice] * * * we fell to Saunt,five games a crown.'" This looks as though thestake was on the old-fashioned partze, best offive games.
+" Accor sur le case sur deceit enter eux practise pluy disceaver al Cards, al un game le Mountsant, per inducer d'un Carde appel le Bumcarde per queils devise que le  [plaintiff] qu' aveoit que tiels games  que ils pleroit, ..."
 
-Another early reference is to be met with inTurberville's "Book of Faulconrie " (1575.) ^&mdash;
+In Minsheu's "Pleasant and delightfull Dialogues, Spanish and English " (London. 1599.), the game is also called Mount Sant. In the third Dialogue between "five gentlemen friendes," Rodricke, Sir Lorenzo and Mendoza converse thus:
 
-"At coses or at Saunt to sit,Or set their rest at prime."
-
-In the " Book of Howshold Charges and otherPaiments laid out by the L. [ord] North and hisCommandement" (Nichol's "Progresses of QueenElizabeth"), there are several entries of losses at
-
-PIQUET. 57
-
-play. In the entry, 1578, May 15 to 17, thereoccurs, "Lost at Saint, xv.s."
-
-This is interesting, as showing that at that timeCent was a fashionable game, and played at court.Lord North used frequently to play with the Queen,and there are several entries of money lost to her,but the names of the games are omitted.
-
-Northbrooke calls the game Cente. In "ATreatise, wherein Dicing, Daucing, Vaine Plaies orEnterludes are reprooved ". (London. 1577.), theauthor thus addresses the reader :&mdash;
-
-"What is a man now a dales if he knows notfashions ? &gt;k * * To plaie their twentie, fortie,or 100./. at Gardes, Dice, &amp;c., Post, Cente, Glekeor such other games: if he cannot thus do he iscalled a miser, a wretch, a lobbe, a cloune, and onethat knoweth no fellowship nor fashions, and lesshonestie."
-
-The " honestie'' is not apparent in all cases. In" No-body and Some-body", an anonymous play{circa 1592.), Lord Sicophant confers with Some-body, the stage villain, as to introducing " Deceit-full Cards " at Court, the guilt to be made to restwith No-body. During the conversation, Sicophantshows cards prepared for cheating at various games,and, (/. 1533), says, "These are for saunt."
-
-This is no mere effort of imagination on the partof the playwright. The use of " Deceitfull Cards "at Saunt, about this time, was unfortunately a fact.They are mentioned in "Dice Play"; and theaction of Baxter vers. Woodyard and others",
-
-58 PIQUET.
-
-brought in 1605, was for cheating at this gamewith prepared cards, as the following extract fromMoore's "Reports" (1688.) shows:&mdash;
-
-''^ Accoji sur le case sur deceit e7iter eux practise pluy disceaver al Cards, al un ga7?ie le Mountsant,per inducer d^un Carde appel le Bumcarde per queils devise que le pP [plaintiff] 71^ ave?'oit que iielsga77ies que ils plero7it, ^^ joy7idro7it asctm foils a lourpleasure, per quel coso7iage &amp;= deceiie, colore ludendi,ils defraud le pP de 16/. les def pleade non culp',6^ le Jury eux trove culf ^^ assesse da77iages"
-
-In Minsheu's "Pleasant and delightfull Dialogues,Spanish and English " (London. 1599.), the gameis also called Mount Sant. In the third Dialoguebetween " five gentlemen friendes," Rodricke, SirLorenzo and Mendoza converse thus:&mdash;
-
-*'R. Here are the cards. What shall we play at?
+"R. Here are the cards. What shall we play at?
 
 ******
 
 L. At Mount Sant.
 
-M. It makes my head to be in a swoune to be alwaiescountmg."
+M. It makes my head to be in a swoune to be always countmg."
 
 In "A Woman kilde with Kindnesse," a play,by Thomas Hey wood, acted before the year 1604,Cent is called Saint: "Husband, shall we play at
 
 Saint?" and in Gervas Markham's "Famous
 
-or Noble Curtezan" (1609.), Cent is called Mount-cent :&mdash;
+or Noble Curtezan" (1609.), Cent is called Mount-cent :-
 
 "Were it Mount-cent, primero, or at chesse,I wan with most, and lost still with the lesse."
 
-PIQUET. 59
+Brewer (" Lingua, or the Combat of the Tongueand five Senses." 1607.), reverts to the older spelling Saunt. "As for Memory, he's a false hearted fellow, he always deceives them; they respect nothing, except it be to play a Game at Chests, Primero, Saunt, Maw, or such like."
 
-Brewer (" Lingua, or the Combat of the Tongueand five Senses." 1607.), reverts to the older spell-ing Saunt. "As for Memory, he's a false heartedfellow, he always deceives them; they respect nothim, except it be to play a Game at Chests, Pri-mero, Saunt, Maw, or such like."
-
-In "The Dumb Knight" (1608.), by LewisMachin, there is a direct statement that the nameof the game was derived from a hundred. Theplay also contains, in punning allusions to the loveaffairs of two of the characters, important materialsfor establishing the great similarity of Cent toPiquet.
+In "The Dumb Knight" (1608.), by Lewis Machin, there is a direct statement that the name of the game was derived from a hundred. The play also contains, in punning allusions to the love affairs of two of the characters, important materials for establishing the great similarity of Cent to Piquet.
 
 " Enter aloft to cards the Queen and Phylocles.
 
-Q. Come, my Lord, take your place, here are cards, andhere are my crowns.
+Q. Come, my Lord, take your place, here are cards, and here are my crowns.
 
-P. And here are mine; at what game will your Majestyplay ?
+P. And here are mine; at what game will your Majesty play ?
 
 Q. At Mount-Saint.
 
-P. A royal game, and worthy of the nameAnd meetest even for Saints to exercise;Sure it was of a woman's first invention.
+P. A royal game, and worthy of the name And meetest even for Saints to exercise;Sure it was of a woman's first invention.
 
 Q. It is not Saint, but Cent, taken from hundreds.
 
@@ -748,189 +179,132 @@ Q. Nay, I have two, yet one doth me little good.
 
 P. Indeed, mine are two queens, and one I'll throw away.
 
-* * * -;:- * *
+[...]
 
-P. Can you decard, madam ?Q. Hardly, but I must do hurt."
+P. Can you decard, madam ? Q. Hardly, but I must do hurt."
 
-Here the mention of showing, of the blank(carte blanche), of double games (counted in theold fashioned partie), of four kings, of throwingaway, and of the decard (discard) prove conclu-sively the likeness of the two games.
+Here the mention of showing, of the blank (carte blanche), of double games (counted in the old fashioned partie), of four kings, of throwing away, and of the decard (discard) prove conclusively the likeness of the two games.
 
-In Taylor's "Motto" (1621.), Cent, under thespelling Sant, is enumerated among the games atwhich the prodigal "flings his money free withcarelessnesse":&mdash;
+In Taylor's "Motto" (1621.), Cent, under the spelling Sant, is enumerated among the games at which the prodigal "flings his money free with carelessnesse":
 
 " Ruffe, Slam, Trump, Nody, Whisk, Hole, Sant, New Cut."
 
-In the "Annalia Dubrensia. Upon the yerelycelebration of Mr, Robert Dover's Olimpick gamesupon Cotswold Hills" (1636.), a very rare book ofwhich a copy is preserved in the Grenville Library,contributed to by thirty-two authors of the period,including Michael Drayton, Ben Jonson, Trussell,and others of less note, the game is spelt Cent.In the eulogium on Dover by William Dennythis passage occurs :&mdash;
+In the "Annalia Dubrensia. Upon the yerely celebration of Mr, Robert Dover's Olimpick games upon Cotswold Hills" (1636.), a very rare book of which a copy is preserved in the Grenville Library,contributed to by thirty-two authors of the period,including Michael Drayton, Ben Jonson, Trussell,and others of less note, the game is spelt Cent.In the eulogium on Dover by William Dennythis passage occurs :-
 
 " Cent for those Gentry, who their states have marr'd.That Game befitts them, for they must discard.
 
-PIQUET. 61
+This again shows that discarding was part of the game.
 
-This again shows that discarding was part of thegame.
+Sir William Davenant, Poet Laureate after Ben Jonson, in " The Witts, a Comedy present'd at the Private House in Black Fryers" (1636.), spells the game Sent:
 
-Sir William Davenant, Poet Laureate after BenJonson, in " The Witts, a Comedy present'd at thePrivate House in Black Fryers" (1636.), spells thegame Sent:&mdash;
+"While their glad sons are left seven for their chance at hazard: hundred and all made at Sent."
 
-"While their glad sons are left seven for their chanceAt hazard: hundred and all made at Sent."
+The inference is, as before, that " Sent" was played a hundred up.
 
-The inference is, as before, that " Sent" was playeda hundred up.
+The following quotation from "The Discovery of a most Exquisite Jewel, found in the Kennel of Worcester Streets, the Day after the Fight"(1651.), by Sir Thomas Urquhart of Cromarty, shows that the name of the game was sometimes anglicised into Hundred: " Verily I think they make use of Kings as we do of card Kings in playing at the Hundred; any one whereof, if there be appearance of a better game without him (and that the exchange of him for another incoming card is likely to conduce more for drawing the stake), is by good gamesters without any ceremony discarded."
 
-The following quotation from "The Discoveryof a most Exquisite Jewel, found in the Kennelof Worcester Streets, the Day after the Fight"(1651.), by Sir Thomas Urquhart of Cromarty,shows that the name of the game was sometimesanglicised into Hundred: " Verily I think theymake use of Kings as we do of card Kings inplaying at the Hundred; any one whereof, if therebe appearance of a better game without him (andthat the exchange of him for another incomingcard is likely to conduce more for drawing thestake), is by good gamesters without any cere-mony discarded."
+If further evidence is required that the game of Cent was so called from its being played a hundred up, it may be obtained from a little book, published in 1656, entitled "The Scholer's Practicall Cards," by F. Jackson, M.A. It is chiefly occupied with instructions how to spell, write, cypher, and cast accounts, by means of cards. Several games are mentioned in it, and among them Saunt which the author explains by centum, a hundred.
 
-If further evidence is required that the gameof Cent was so called from its being played ahundred up, it may be obtained from a littlebook, published in 1656, entitled "The Scholer'sPracticall Cards," by F. Jackson, M.A. It ischiefly occupied with instructions how to spell.
+Probably the earliest mention of Piquet, in print, is by Rabelais (1535). As already stated, he includes it in the list of games played by Gargantua; and it is to be noted that le Cent and la Ronfle are also to be found there.
 
-62 PIQUET.
+It is not until after the lapse of rather more than a hundred years that Piquet appears with any frequency in French books, or at all in English books. It will be convenient first to take a few of the most interesting French references of the seventeenth century, and then to review Piquet in England from that time to the present.
 
-write, cypher, and cast accounts, by means ofcards. Several games are mentioned in it, andamong them Saunt which the author explains bycentum, a hundred.
+The earliest work on Piquet extant is, probably," Royal lev dv Piqvet plaisant et recreatif. Reveu et corrige en cette dernière Edition, pour le contentement de ceux qui font Profession d'en observer les règles." (Rouen. 1647). This is the earliest edition to be met with in the British Museum. The book was translated into English in 1651, with the following title : "The Royall and delightfull game of Picquet written in French and now rendered into English out of the last French edition. London. Printed for J. Martin and J. Ridley, and are to be sold at the Castle in Fleet-street nere Ram alley."
 
-Probably the earliest mention of Piquet, in print,is by Rabelais (1535). As already stated, he in-cludes it in the list of games played by Gargantua;and it is to be noted that le Cent and la Ronfie arealso to be found there.
+The following is the translation of the preface:
 
-It is not until after the lapse of rather morethan a hundred years that Piquet appears withany frequency in French books, or at all inEnglish books. It will be convenient first totake a few of the most interesting French refer-ences of the seventeenth century, and then toreview Piquet in England from that time to thepresent.
+" There comming to my hands, not long since, a small treatise, concerning the game of PICQUET, and having perused the same ; I have since thought fit to communicate it to the World ; as being a game approved of everywhere,especially among the Gentry, and persons of Honour. It is a kind of Divertion, so sweet, and pleasing, as that it makes the houres slide away insensibly: it easeth the Gouty person ; cleares up the melancholicke spirit; and refresheth the pensive Lover. These considerations are of sufficient force to put in any one a desire to the Play: But that which should most stir you up to the purchasing of this Booke, is,that you have here laid downe before you, an absolute, and exact account of the whole Game, and have all the difficulties, that may arise therein, fully resolved. If you therefore but observe the Rules and Maximes here delivered ; you shall avoid all the quarrells, which usually arise amongst Gamesters, for want of being thoroughly informed in the Game; and shall preserve mutuall Society, which is the Bond that unites all things. Be sure, therefore, that you purchase this Booke : For in so doing, you shall not only much advantage your selves, but me also."
 
-The earliest work on Piquet extant is, probably,"Z^ Royal lev dv Piqvet plaisant 6^ recreatif.Reueu et corrige en cette derniere Edition, pour leContentement de ceux qui font Profession d^enobserver les Regies." {Rouen. 1647.). This is theearliest edition to be met with in the BritishMuseum. The book was translated into Englishin 1651, with the following title :&mdash;" The Royall anddelightfull game of Picquet written in French andnow rendred into English out of the last Frenchedition. London. Printed for J. Martin andJ. Ridley, and are to be sold at the Castle inFleet-street nere Ram alley."
+According to this treatise the game was played with thirty-six cards, the sixes remaining in the pack; the set or number up was a matter of agreement, but was usually fixed at a hundred,it being " in the choice of the Gamesters to make it more or lesse." In cutting for deal, more than one card must be "lifted," as the top one might be known by the back. In this remark is seen the reason for several of the severe rules which formerly obtained at Piquet, such, for instance, as allowing no change of discard after touching- not looking at, but touching- the stock. In the days when cards were not so well manufactured as now, it is easy to understand that a pack might frequently contain marked cards, and, therefore, no one was allowed even to touch the stock without penalty.
 
-PIQUET. 63
+In cutting for deal, "whichsoever of the two dips the least card " deals. The deal was either by two at a time, or by three or four at a time,to each player, at the option of the dealer; but he was bound to continue dealing through the game as he began, or, at least, to announce,before the cut, that he would change his method.The same object is apparent here as before, viz.,that no advantage should be taken of a marked card. Twelve cards were given to each player,and twelve were left in the stock, of which the elder hand might take eight, the younger, four; each player being bound to discard one card.With thirty-six cards it was possible for both players to hold a carte blanche, and this case is provided for, the two annulling each other. The point was called the ruffe, in the French Treatise, ronfle. The description of the way of counting the point explains why points ending in a four counted one less than the number of cards. The point was not formerly reckoned by cards but by tens: dixaines); and " For every Ten that he can reckon, he is to set up One. As, for example,for Thirty, he is to reckon Three, for Fourty,Foure: and so upward. Where, by the way, it is to be noted, that you are to reckon as much for Thirty five as for Forty; and as much for Forty five as for Fifty: and so of the rest: but for thirty six, thirty seven, Thirty eight, or Thirty nine, you are to reckon no more than for Thirty five: in like manner as for Thirty one. Thirty two, Thirty three or Thirty four, you are to reckon no more than for Thirty." When the game came to be played with thirty-two cards, points ending in a two or in a three could no longer be held, but those ending in a four could, and, the old method of reckoning being continued, it seemed as though a point ending in a four was an arbitrary exception to the rule of reckoning one for each card.
 
-The following is the translation of the preface:&mdash;
+A curious expression is used in respect of the highest sequence making good all lower ones in the same hand, notwithstanding the adversary may hold intermediate ones. The best sequence is said to " drown " all the sequences held by, the opponent. Cards under a ten did not reckon in play. It seems that in Paris it was permitted to amend incorrect calls of point or sequence,but not in Provence or Languedoc, where "the First word is always to stand."
 
-** There comming to my hands, not long since, a smallTreatise, concerning the game of PICQUET, and havingperused the same ; I have since thought fit to communicateit to the World ; as being a game approved of everywhere,especially among the Gentry, and persons of Honour. Itis a kind of Divertion, so sweet, and pleasing, as that itmakes the houres slide away insensibly: it easeth the Goutyperson ; cleares up the melancholicke spirit; and refresheththe pensive Lover. These considerations are of sufficientforce to put in any one a desire to the Play: But that whichshould most stir you up to the purchasing of this Booke, is,that you have here laid downe before you, an absolute, andexact account of the whole Game, and have all the dif-ficulties, that may arise therein, fully resolved. If you there-fore but observe the Rules and Maximes here delivered ; youshall avoid all the quarrells, which usually arise amongstGamesters, for want of being thoroughly informed in theGame; and shall preserve mutuall Society, which is theBond that unites all things. Be sure, therefore, that youpurchase this Booke : For in so doing, you shall not onlymuch advantage your selves, but me also."
+A few years later was published " Maison Academie pique " (Paris. 1654.), in which appears "lev dv Picqvet"" as then played. The general directions for play are almost identical with those in " Royal lev dv piqvet "
+That Piquet was much played in France about this time is made evident by the publication of these books, by its repeated mention in Moliere'splays, and by its having been chosen as the title of the ballet, already referred to.
 
-According to this treatise the game was playedwith thirty-six cards, the sixes remaining in thepack; the set or number up was a matter ofagreement, but was usually fixed at a hundred,it being " in the choice of the Gamesters to makeit more or lesse." In cutting for deal, more thanone card must be "lifted," as the top one might beknown by the back. In this remark is seen thereason for several of the severe rules which for-merly obtained at Piquet, such, for instance, asallowing no change of discard after touching&mdash;
+"" Les Fâcheux" by Moliere (1661.), contains an interesting Piquet hand, which deserves more than a passing notice. The description, freely translated, runs thus:
 
-64 PIQUET.
+"Console me, Marquis, for the extraordinary partie at Piquet I lost yesterday against St. Bouvain, a man to whom I could deal and give fifteen points. It is a maddening coup which crushes me, and which makes me wish all players at the devil; a coup enough to make a man go and hang himself. I only wanted two points; he required a pique. I dealt; he proposed a fresh deal. I having pretty good cards in all suits, refused. He takes six cards. Now observe my bad luck : I carry ace of clubs; ace, king,knave, ten, eight of hearts; and throw out (as I considered it best to keep my point), king, queen of diamonds, and queen, ten of spades. I took in the queen to my point, which made me a quint major. To my amazement, my adversary showed the ace and a sixieme minor in diamonds, the suit of which I had discarded king and queen. But, as he required a pique, I was not alarmed, expecting to make at least two points in play. In addition to his seven diamonds he had four spades, and, playing them, he put me to a card, for I did not know which of my aces to keep. I thought it best to throw the ace of hearts, but he had discarded all his four clubs, and capoted me with the six of hearts! I was so vexed I could not say a word. Confound it! why do I have such frightful luck?"
 
-not looking at, but touching&mdash;the stock. In thedays when cards were not so well manufacturedas now, it is easy to understand that a pack mightfrequently contain marked cards, and, therefore, noone was allowed even to touch the stock withoutpenalty.
+Supplying the unnamed cards, St. Bouvain's hand would be knave, ten, nine, eight, seven,six of diamonds; king, queen, nine, seven of clubs; and nine, seven of hearts. He discards the four clubs and the two hearts; he takes in ace of diamonds; six of hearts; and ace, king,knave, eight of spades.
 
-In cutting for deal, "whichsoever of the twodips the least card " deals. The deal was eitherby two at a time, or by three or four at a time,to each player, at the option of the dealer; buthe was bound to continue dealing through thegame as he began, or, at least, to announce,before the cut, that he would change his method.The same object is apparent here as before, viz.,that no advantage should be taken of a markedcard. Twelve cards were given to each player,and twelve were left in the stock, of which theelder hand might take eight, the younger, four;each player being bound to discard one card.With thirty-six cards it was possible for bothplayers to hold a carte blanche, and this case isprovided for, the two annulling each other. Thepoint was called the ruffe, in the French Treatise,ronfle. The description of the way of countingthe point explains why points ending in a fourcounted one less than the number of cards. Thepoint was not formerly reckoned by cards but bytens idixaines); and " For every Ten that he canreckon, he is to set up One. As, for example,for Thirty, he is to reckon Three, for Fourty,Foure: and so upward. Where, by the way, it is
+Alcippe (his adversary), deals himself king,queen of diamonds; queen, ten of spades; ace,king, knave, ten, eight of hearts; and ace, knave,eight of clubs. He discards the diamonds, spades,and knave, eight of clubs; he takes in nine, seven,six of spades; queen of hearts; and ten, six of clubs.
 
-PIQUET. 65
+St. Bouvain's point and sixieme are good for twenty-three; he plays the diamonds and spades,which include six counting cards, making him twenty-nine; and there is one card to be played. Alcippe reckons nothing, and has to play eleven cards. He must keep either ace of hearts or ace of clubs. He elects to keep the club. St. Bouvain wins the last trick with the six of hearts (this is a non counting card; "but, if it wins, it reckons one for the last trick), and piques and capots his opponent.
 
-to be noted, that you are to reckon as much forThirty five as for Forty; and as much for Fortyfive as for Fifty: and so of the rest: but for thirtysix, thirty seven, Thirty eight, or Thirty nine, youare to reckon no more than for Thirty five: inlike manner as for Thirty one. Thirty two, Thirtythree or Thirty four, you are to reckon no morethan for Thirty." When the game came to beplayed with thirty-two cards, points ending in atwo or in a three could no longer be held, butthose ending in a four could, and, the old methodof reckoning being continued, it seemed as thougha point ending in a four was an arbitrary exceptionto the rule of reckoning one for each card.
+Moliere has skilfully heaped up the various small worries that may annoy an irritable player during a hand. The score is one source of annoyance : St. Bouvain wants a pique, Alcippe only wants two points, and has such cards that,though a pique is not impossible it is in the highest degree improbable. As Fielding ("Tom Jones ") truly remarks, " The gamester who loses a party at Piquet by a single point, laments his bad luck ten times as much as he who never came within a prospect of the game." Again, Alcippe has the chance offered him of a fresh deal, which implies that his adversary has very bad cards.The fresh deal is refused, and, notwithstanding, St. Bouvain wins. Then the elder hand, having a right to take eight cards, only takes six, which is a disagreeable surprise after proposing a fresh deal, as Alcippe would naturally wonder how it could be that, notwithstanding the bad hand, St. Bouvain can afford to leave two cards; and,lastly, Alcippe is put to a card, which is by no means pleasant at any time, but is most unpleasant of all to a player with two aces, who only requires one trick to win the partie, and who loses it if he keeps the wrong one.
 
-A curious expression is used in respect of thehighest sequence making good all lower ones inthe same hand, notwithstanding the adversary mayhold intermediate ones. The best sequence issaid to " drown " all the sequences held by, theopponent. Cards under a ten did not reckon inplay. It seems that in Paris it was permittedto amend incorrect calls of point or sequence,but not in Provence or Languedoc, where "theFirst word is alwaies to stand."
+Alcippe, though he boasts his superior play, and declares that he lost by bad luck, really makes two mistakes which lose him the game. First, he does not discard to the score. His game, when wanting to score only two, is to protect himself from a capot by throwing out his point. If he discards ace, knave, ten, eight of hearts, and knave, eight of clubs, he is morally certain to win. Next, he plays badly in throwing the ace of hearts. It is evident that, in order to save the game, St. Bouvain's last card must be a non counting card. Now, he may hold any one of three non counting hearts, or either of two non counting clubs. This being so, it is three to two in favour of keeping the heart.
 
-A few years later was published "Z&lt;2 MaisonAcade7?iique^^ (Paris. 1654.), in which appears "Z&lt;?lev dv Picqvef'' as then played. The generaldirections for play are almost identical with thosein "Z^ Royal lev dv nqvety
+In 1676 was produced " Triomphe des Dames" with the ballet interlude, about which so much has been written by Piquet historians. As it has often been stated that this play was never printed, it maybe as well to give the title and publisher's name in full:
 
-That Piquet was much played in France aboutthis time is made evident by the publication of
+" Triomphe des Dames. Comedie mêlée d'Ornmnents avec Explication ou Combat à la Barriere et de toutes les Devises, par Thomas Comeille, representee par la Trouppe du Roy. Etablie au Faurbourg S. Germain. Paris. Jean Ribon. 1676."
 
-F
+The "'Theatre Francois" describes the ballet thus:
 
-66 PIQUET.
+"En 1676, on represente sur le Theâtre de l'Hotel Guenegaud une Comédie de Thomas Corneille, en cinq actes, intitulée le Triomphe des Dames, qui n'a point été imprimée, et dont le Ballet du Jeu de Piquet etoit un des intermedes. [...] Les Rois, les Dames et les Valets, apres avoir forme, par leurs danses, des tierces et des quatorzes; apres s'etre rangés, tous les noirs d'un cdte, les rouges de l'autre, finirent par une contre danse, ou toutes les couleurs etoient mêlées confusement, et sans suite."
 
-these boo^s, by its repeated mention in Moliere'splays, andvby its having been chosen as the title ofthe ballet, already referred to.
+"La Maison Academique" after several editions, gave place to the more comprehensive "Academie Universelle des Jeux." This work, variously edited and augmented, was the French authority on games for about a century and a half The later editions are mainly reprints of the previous ones ; and,probably owing to the book's not keeping pace with the times, it gradually lost its prestige. Modern "Academie" there are still; but they are no more like the older ones than modern" Hoyles" are like the "Short Treatises" of Hoyle.
 
-^^ Les Fdcheux,^' by Moliere (1661.), contains aninteresting Piquet hand, which deserves more thana passing notice. The description, freely trans-lated, runs thus:&mdash;
+The Academies properly so called, nearly all agree on two points. They give Piquet the first or second place among card games; and they derive a good deal of their Piquet inspiration from " Royal lev dv Piqvet."
 
-"Console me, Marquis, for the extraordinary partie atPiquet I lost yesterday against St. Bouvain, a man to whomI could deal and give fifteen points. It is a maddeningcoup which crushes me, and which makes me wish allplayers at the devil;&mdash;a coup enough to make a man goand hang himself. I only wanted two points; he requireda pique. I dealt; he proposed a fresh deal. I, havingpretty good cards in all suits, refused. He takes six cards.Now observe my bad luck : I carry ace of clubs; ace, king,knave, ten, eight of hearts; and throw out (as I consideredit best to keep my point), king, queen of diamonds, andqueen, ten of spades. I took in the queen to my point,which made me a quint major. To my amazement, myadversary showed the ace and a sixieme minor in diamonds,the suit of which I had discarded king and queen. But, ashe required a pique, I was not alarmed, expecting to makeat least two points in play. In addition to his seven dia-monds he had four spades, and, playing them, he put me toa card, for I did not know which of my aces to keep. Ithought it best to throw the ace of hearts, but he had dis-carded all his four clubs, and capoted me with the six ofhearts! I was so vexed I could not say a word. Confoundit! why do I have such frightful luck?"
+The French Academic was translated into English about 1768. The title of the book is : " The Academy of Play; Containing a full Description of and the Laws of Play, Now observed in the several Academies of Paris, Relative to The following Games, viz. [Here follow the names of thirty-three card games.] From the French of the Abbe Bellecour. London: Printed for F. Newbery, the Corner of St. Paul's Church-Yard Ludgate-Street
 
-Supplying the unnamed cards, St. Bouvain'shand would be knave, ten, nine, eight, seven,six of diamonds; king, queen, nine, seven of
+The preface says, "The Game of Piquet is [...] here treated in a manner more clear, and more conformable to the present Practice, as in all the Rules here given, we have followed the determinations of the most able Players."
 
-PIQUET. 67
+The " Determinations of the most able Players " enable the reader to trace the origin of the proverbthat " Piquet is not a game of surprise," a saying not always true of the game. It refers to changing the suit when playing the cards :
 
-clubs; and nine, seven of hearts. He discardsthe four clubs and the two hearts; he takes inace of diamonds; six of hearts; and ace, king,knave, eight of spades.
+" You have to observe that as there is no advantage to be taken by surprise, at the Game of Piquet he that in playing, changes his Suit, is to name the Suit in which he then leads; in default of which, the other Party, supposing that he still continues to lead in the former Suit, has a right to take up the Card that he has played, even tho' it should be in the Suit in which he then leads."
 
-Alcippe (his adversary), deals himself king,queen of diamonds; queen, ten of spades; ace,king, knave, ten, eight of hearts; and ace, knave,eight of clubs. He discards the diamonds, spades,and knave, eight of clubs; he takes in nine, seven,six of spades; queen of hearts; and ten, six ofclubs.
+And this is the penalty, when " surprises " of a more serious nature are detected :
 
-St. Bouvain's point and sixieme are good fortwenty-three; he plays the diamonds and spades,which include six counting cards, making himtwenty-nine; and there is one card to be played.Alcippe reckons nothing, and has to play elevencards. He must keep either ace of hearts or aceof clubs. He elects to keep the club. St. Bouvainwins the last trick with the six of hearts (this is anon-counting card; "but, if it wins, it reckons onefor the last trick), and piques and capots hisopponent.
+" Qui reprend des cartes dans son écart, est surpris a en changer, ou fait d'autres tours de fripon, perd la partie, et doit être chasse comme un coquin avec qui on ne doit plus jouer. La peine de cet article ne saurait être assez forte, puisque c'est pour punir un fripon avéré."
 
-Moliere has skilfully heaped up the varioussmall worries that may annoy an irritable playerduring a hand. The score is one source of an-noyance :&mdash;St. Bouvain wants a pique, Alcippeonly wants two points, and has such cards that,though a pique is not impossible it is in thehighest degree improbable. As Fielding ("TomJones ") truly remarks, " The gamester who losesa party at Piquet by a single point, laments his
+This is quaintly translated as follows :-
 
-F2
+" He who takes in any part of his Discard, or is detected in changing his Cards, or in any other kind of fraud ; loses the party, and ought to be drove out as a cheat; with whom no one ought to play.  The punishment here cannot be sufficiently severe, as it is intended to chastise a manifest scoundrel."
 
-68 PIQUET.
+The only points of importance in which the Abbe's "Academy" differs from " The Royall and delightfull game of Picquet", (the same alterations being present in the corresponding French editions),are that thirty-two cards are substituted for thirty-six, and consequently that the number taken after discarding is five instead of eight elder hand, and three instead of four younger hand: that dealing by four cards at a time is no longer permitted; that the ronfle or ruffe is called the point; that sometimes every card of the point is allowed to reckon; and that the counting in play of cards below a ten is optional.
 
-bad luck ten times as much as he who never camewithin a prospect of the game." Again, Alcippehas the chance offered him of a fresh deal, whichimplies that his adversary has very bad cards.The fresh deal is refused, and, notwithstanding,St. Bouvain wins. Then the elder hand, having aright to take eight cards, only takes six, which isa disagreeable surprise after proposing a freshdeal, as Alcippe would naturally wonder how itcould be that, notwithstanding the bad hand,St. Bouvain can afford to leave two cards; and,lastly, Alcippe is put to a card, which is by nomeans pleasant at any time, but is most unpleasantof all to a player with two aces, who only requiresone trick to win the partie, and who loses it if hekeeps the wrong one.
+The above changes in the mode of play were introduced about the end of the seventeenth century.
 
-Alcippe, though he boasts his superior play, anddeclares that he lost by bad luck, really makes twomistakes which lose him the game. First, he doesnot discard to the score. His game, when wantingto score only two, is to protect himself from acapot by throwing out his point. If he discardsace, knave, ten, eight of hearts, and knave, eightof clubs, he is morally certain to win. Next, heplays badly in throwing the ace of hearts. It isevident that, in order to save the game, St. Bou-vain's last card must be a non-counting card.Now, he may hold any one of three non-countinghearts, or either of two non-counting clubs. Thisbeing so, it is three to two in favour of keeping theheart.
+Piquet, according to popular belief, was imported into England from France.
 
-PIQUET. 69
+"Vat have you oi grand plaisir in dis towne,Vidout it come from France, dat vill go down ? Picquet, basset; your vin, your dress, your dance ;'Tis all you see, tout a la mode de France."
 
-In 1676 was produced "Z^ Triomphe des Dames,^''with the ballet interlude, about which so much hasbeen written by Piquet historians. As it has oftenbeen stated that this play was never printed, it maybe as well to give the title and publisher's name infull:&mdash;
+-Farquhar. Epilogue to " Sir Harry Wildair" (1701).-
 
-"Z^ Triomphe des Dairies. Comedie mcsUe d^ Ornmnentsaziec Explication ou Combat a la Barriere et de toutes lesDevises, par 77^.[omas] Comeille, representSepar la Trouppedu Roy. Etallie au Fourbotirg S. Germain. Paris. JeanRibon. 1676."
+But, as has been seen, the game first came to this country as Cent; and there is nothing to show whether it was of French or of Spanish importation.
 
-The '"''Theatre Francois'''' describes the balletthus:&mdash;
+Be this as it may, Cent was deposed in England,in favour of Piquet, about the middle of the seventeenth century. One of the earliest writers to refer to Piquet under its new name is John Hall, in his" Horae Vacivse" (1646). He says: "For Cardes,the Philologil of them is not for an essay; a man's fancy would be sum'd up at Cribbidge; Gleeke requires a vigilant memory: Maw, a pregnant agility;Picket a various invention; Primero, a dexterous kinde of rashness."
 
-^''En 1676, on represent a stir le Thedtre deV HotelGuenegaud tine Co7nedie de Thomas Corneille, en cinqactes, intittilee le Triomphe des Dames, qui n'a point iteimprimee, 6^ dont le Ballet du Jeu de Piquet etoit tut desIntermedes. * * * Les Rois, les Dames ^ les Valets^apres avoir forme, par letirs danses, des tierces et des qua-torzes; apres s''etre ranges, tous les noirs d^un cdte, ^ lesrouges de Vautre, finirent par tin contre-danse, ou toutes lescoukurs ctoient melees confusement, et sans stiite."
+In 1659, a curious pamphlet (now rare) was pubhshed, entitled,-" Shufling, Cutting, and Dealings in A Game at Pickquet: being Acted from the Year, 1653. to 1658. By O. P. [Oliver Protector] And others; With great Applause. It represents Cromwell, after the Long Parliament, playing cards with some old officers, friends, and opponents, the players expressing their political sentiments through allusions to the game of Piquet:
 
-'''■La Maison Academiquej'^ after several editions,gave place to the more comprehensive ^^AcademieUniverselle des Jeux.'''' This work, variously editedand augmented, was the French authority on gamesfor about a century and a half The later editionsare mainly reprints of the previous ones ; and,probably owing to the book's not keeping pacewith the times, it gradually lost its prestige.Modern '■''Academies''^ there are still; but they
+"Oliver P. I am like to have a good beginning on't: I have thrown out all my best Cards, and got none buta Company of Wretched ones; so I may very vi^ell be capetted [capoted]."
 
-70 PIQUET.
+One of the characters says, " I am nothing buta Ruff" (Ronfle or point). Another, "I got more the last Game when I plaid Cent: for I had a hundred, and all made."
 
-are no more like the older ones than modern"Hoyles" are like the "Short Treatises" ofHoyle.
+A similar squib was published in "Melanges Historiques de Bois Jourdain ", some half century later. It alludes to the state of France on the accession of Louis XV. The following is a specimen :
 
-The Academies^ properly so called, nearly allagree on two points. They give Piquet the firstor second place among card games; and theyderive a good deal of their Piquet inspirationfrom "Z(? Royal lev dv Piqvet.''''
+"Le Jeu de Piquet, 1716. Les Exilés Un quatorze de roi [Louis XIV.] avait gâté notre jeu; une quinte de roi[Louis XV.] le rend plus beau."
 
-The French Academic was translated into Eng-lish about 1768. The title of the book is :&mdash;" TheAcademy of Play; Containing a full Descriptionof; and the Laws of Play, Now observed in theseveral Academies of Paris, Relative to The fol-lowing Games, viz. [Here follow the names ofthirty-three card games.] From the French of theAbbe Bellecour. London: Printed for F. Newbery,the Corner of St. PauVs Church-Yard^ Ludgate-Streetr
+In "The Wild Gallant" (1662.), Dryden's first acted play, there is drawn the singular picture of a man playing Piquet against an imaginary adversary who however arrives in time to pick up the stakes :-
 
-The preface says, "The Game of Piqiiet is* * * here treated in a manner more clear,and more conformable to the present Practice, asin all the Rules here given, we have followed theDeterminations of the most able Players."
+"A Table set with Cards upon it.
 
-The " Determinations of the most able Players "enable the reader to trace the origin of the proverbthat " Piquet is not a game of surprise," a sayingnot always true of the game. It refers to changingthe suit when playing the cards :&mdash;
-
-*' You have to observe that as there is no advantage to betaken by surprize, at the Game of Piquet he that inplaying, changes his Suit, is to name the Suit in which he
-
-PIQUET. 71
-
-then leads; in default of which, the other Party, supposingthat he still continues to lead in the former Suit, has a rightto take up the Card that he has played, even tho' it shouldbe in the Suit in which he then leads."
-
-And this is the penalty, when " surprises " of amore serious nature are detected :&mdash;
-
-'' Qui reprend des cartes dans son ecart, est stu'pris a enchanger, on fait cTatitres tours de fripon, pe7-d la partie, etdoit etre chasse co77ime ti-n coquiit avec qtti on ne doit plusjotter. La peine de cet article ne saurait et7-e assez forte,pidsque dest pourptinir un fripon avere."
-
-This is quaintly translated as follows :&mdash;
-
-" He who takes in any part of his Discard, or is detectedin changing his Cards, or in any other kind of fraud ; losesthe party, and ought to be drove out as a cheat; with whomno one ought to play.
-
-The punishment here cannot be sufficiently sevej'e, as it isintended to chastise a 77ia7iifest scoti7id7'el."
-
-The only points of importance in which theAbbe's " Academy " differs from " The Royall anddelightfull game of Picquet", (the same alterationsbeing present in the corresponding French editions),are that thirty-two cards are substituted for thirty-six, and consequently that the number taken afterdiscarding is five instead of eight elder hand, andthree instead of four younger hand: that dealing byfour cards at a time is no longer permitted; thatthe ro?ifie or ruffe is called the point; that some-times every card of the point is allowed to reckon;
-
-72 PIQUET.
-
-and that the counting in play of cards below a tenis optional.
-
-The above changes in the mode of play wereintroduced about the end of the seventeenthcentury.
-
-Piquet, according to popular belief, was importedinto England from France.
-
-"Vat have you oi grand plaisir in dis towne,Vidout it come from France, dat vill go down ?Picquet, basset; your vin, your dress, your dance ;'Tis all you see, totit a la mode de France.''''
-
-&mdash;Farquhar.Epilogue to " Sir Harry Wildair" (1701).-
-
-But, as has been seen, the game first came tothis country as Cent; and there is nothing to showwhether it was of French or of Spanish importation.
-
-Be this as it may, Cent was deposed in England,in favour of Piquet, about the middle of the seven-teenth century. One of the earliest writers to referto Piquet under its new name is John Hall, in his" Horae Vacivse" (1646). He says:&mdash;"For Cardes,the Philologil of them is not for an essay; a man'sfancy would be sum'd up at Cribbidge; Gleeke re-quires a vigilant memory: Maw, a pregnant agility;Picket a various invention; Primero, a dexterouskinde of rashness."
-
-In 1659, a curious pamphlet (now rare) waspubhshed, entitled,&mdash;" Shufling, Cutting, and Deal-ings in A Game at Pickquet: being Acted from the
-
-PIQUET. 73
-
-Year, 1653. to 1658. By O. P. [Oliver Protector]And others; With great Applause.'' It representsCromwell, after the Long Parliament, playing cardswith some old officers, friends, and opponents, theplayers expressing their political sentiments throughallusions to the game of Piquet:&mdash;
-
-"Oliver P. I am like to have a good beginning on't:I have thrown out all my best Cards, and got none buta Company of Wretched ones; so I may very vi^ell becapetted [capoted]."
-
-One of the characters says, " I am nothing buta Ruff" {7'onfle or point). Another, "I got morethe last Game when I plaid Cent: for I had ahundred, and all made."
-
-A similar squib was published in '•''MelangesHistoriques de Bois Jourdain ", some half centurylater. It alludes to the state of France on theaccession of Louis XV. The following is a speci-men :&mdash;
-
-"Le Jeu de Piquet, 1716. Les Exili^s&mdash;Un qtcatorzede rot [Louis XIV.] avait gate notre jeu; une quinte de roi[Louis XV.] le rend phis beau.^''
-
-In "The Wild Gallant" (1662.), Dryden's firstacted play, there is drawn the singular picture of aman playing Piquet against an imaginary adversary^who however arrives in time to pick up the stakes :&mdash;
-
-"A Table set with Cards upon-it.
-
-Trice. * * * Ay, it shall be he : Jack Loveby, whatthink'st thou of a game at Piquet, we two hand to fist? You
-
-74 PIQUET.
-
-and I will play one single game for ten pieces : 'Tis deepstake, Jack, but 'tis all one between us two : You shall deal.Jack :&mdash;Who I, Mr. Justice? That's a good one ; you mustgive me use for your hand then; that's six i' the hundred.[The advantage of the deal was formerly estimated at aboutseven points in a hundred..]&mdash;Come, lift, lift;&mdash;mine's a ten;Mr. Justice :&mdash;Mine's a king ; oh, ho, Jack, you deal. Ihave the advantage of this, i' faith, if I can keep it. {Hedeals tzvelve apiece, two by two, and looks on his ozvn cards. ^I take seven, and look on this&mdash;Now for you, Jack Loveby.
+Trice. [...] Ay, it shall be he : Jack Love by, what think'st thou of a game at Piquet, we two hand to fist? You and I will play one single game for ten pieces : 'Tis deep stake, Jack, but 'tis all one between us two : You shall deal.Jack : - Who I, Mr. Justice? That's a good one ; you must give me use for your hand then; that's six i' the hundred.[The advantage of the deal was formerly estimated at about seven points in a hundred..] -Come, lift, lift;-mine's a ten; Mr. Justice : Mine's a king ; oh, ho, Jack, you deal. I have the advantage of this, i' faith, if I can keep it. (He deals twelve a piece, two by two, and looks on his own cards. I take seven, and look on this-Now for you, Jack Loveby.
 
 Enter Loveby, behind.
 
 Lov. How's this ? Am I the man he fights with ?
 
-Trice. I'll do you right, Jack ; As I am an honest man,you must discard this; There's no other way : If you weremy own brother, I could do no better for you.&mdash;Zounds, therogue has a quint-major, and three aces younger hand.&mdash;{Looks on the other cards.) Stay ; What am I for the point?But bare forty, and he fifty-one : fifteen, and five for thepoint, twenty, and three by aces, twenty-three; Well, I amto play first: one, twenty-three; two, twenty-three ; three,twenty-three ; four, twenty-three; now I must play into hishand : five : now you take it. Jack;&mdash;five, twenty-four,twenty-five, twenty-six, twenty-seven, twenty-eight, twenty-nine, thirty and the cards forty.
+Trice. I'll do you right, Jack ; As I am an honest man,you must discard this; There's no other way : If you were my own brother, I could do no better for you.-Zounds, the rogue has a quint-major, and three aces younger hand.-{Looks on the other cards.) Stay ; What am I for the point?But bare forty, and he fifty-one : fifteen, and five for the point, twenty, and three by aces, twenty-three; Well, I am to play first: one, twenty-three; two, twenty-three ; three,twenty-three ; four, twenty-three; now I must play into his hand : five : now you take it. Jack;-five, twenty-four,twenty-five, twenty-six, twenty-seven, twenty-eight, twenty-nine, thirty and the cards forty.
 
 Lov. [aside'] Hitherto it goes well on my side.
 
-Trice. Now I deal: How many do you take, Jack ? All.Then I am gone : what a rise is here ? Fourteen by aces,and a sixieme-major; I am gone, without looking into mycards.&mdash;[Takes up an ace and bites it.) Ay^ I thought so:If ever man play'd with such cursed fortune, I'll be hanged,and all for want of this damned ace.&mdash;There's your ten pieces,you rooking, beggarly rascal as you are.
+Trice. Now I deal: How many do you take, Jack ? All.Then I am gone : what a rise is here ? Fourteen by aces,and a sixieme-major; I am gone, without looking into my cards.-[Takes up an ace and bites it.) Ay I thought so:If ever man play'd with such cursed fortune, I'll be hanged,and all for want of this damned ace.-There's your ten pieces,you rooking, beggarly rascal as you are.
 
 Loveby enters.
 
@@ -938,25 +312,23 @@ Lov. What occasion have I given you for these words,Sir? Rook and Rascal! I am n
 
 Trice. How's this? How's this?
 
-PIQUET. 75
+Lov. And though for this time I put it up because I am a winner- (Snatches the gold.)
 
-Lov. And though for this time I put it up because I am awinner&mdash;{Snatches the gold.)
+Trice. What a devil dost thou put up ? Not my gold, I hope, Jack ?
 
-Trice. What a devil dost thou put up ? Not my gold, Ihope, Jack ?
+Lov. By your favour, but I do ; and 'twas won fairly : a sixieme, and fourteen aces, by your own confession."
 
-Lov. By your favour, but I do ; and 'twas won fairly : asixieme, and fourteen aces, by your own confession."
+In " Flora's Vagaries," a comedy printed in 1670,Piquet is again introduced :-
 
-In " Flora's Vagaries," a comedy printed in 1670,Piquet is again introduced :&mdash;
+" Grimani, Well, lay by your work, we will have a game at cards. Giacomo, go fetch some cards and counters,picket you play well at.
 
-" Grimani, Well, lay by your work, w'e will have a gameat cards. Giacomo, go fetch some cards and counters,picket you play well at.
+Otrante [his daughter]. I am no Gamester, but if you please to play-
 
-Otrante [his daughter]. I am no Gamester, but if youplease to play&mdash;
-
-Gri. Sit down, come, lift, I deal. How many take you in?Otr. I take seven. Sir.
+Gri. Sit down, come, lift, I deal. How many take you in? Otr. I take seven. Sir.
 
 Gri. Take them and I will have all the rest. So now,what say you to the point ?
 
-Otr. a little game, some three-and-fifty.Gri. 'Tis good, hunch out.Otr. Quart major.Gri. And that too.
+Otr. a little game, some three-and-fifty. Gri. 'Tis good, hunch out. Otr. Quart major. Gri. And that too.
 
 Otr. Three kings.
 
@@ -968,23 +340,15 @@ Gri. I had forgot my aces.
 
 Otr. You have lost you aces, fourteen."
 
-The action of the play then causes the gameto stop.
+The action of the play then causes the game to stop.
 
-It is interesting to observe that the score wasmarked with counters, and that the mode of playwas as now, except that the pack was composed
+It is interesting to observe that the score was marked with counters, and that the mode of play was as now, except that the pack was composed of thirty-six cards, otherwise Otrante could not take seven cards, and could not have a point of fifty-three, as with a thirty-two card pack this point cannot be made. (See pp. 63-65, for an account of the old mode of playing.)
 
-76 PIQUET.
+The occurrence of Piquet in dramatic and other writings of this period is very common.
 
-of thirty-six cards, otherwise Otrante could nottake seven cards, and could not have a point offifty-three, as with a thirty-two card pack this pointcannot be made. (See pp. 63-65, for an accountof the old mode of playing.)
+About this time appeared, "Wit's Interpreter: the English Parnassus." The third edition, with many additions, by "J. C", is dated 1671. One part containing " Games and Sports now used at this day among the Gentry of England, (Sec", has instructions for playing "The Ingenious Game called Picket." Picket is also included among the card games in Cotton's "Compleat Gamester" (1674). In both cases "The Royall and delightfull game of Picquet" has been plagiarised. In the edition of "The Compleat Gamester" of 1709 a note is added,that "These were the Rules of the Game when it was played with the sixes, but however the Rules hold for the Game as it is played at present without the Sixes, only when it is played without the Sixes the Elder Hand is to take Five of the Eight Cards in the Stock." This fixes the time when the alteration of the pack became generally recognised in England.
 
-The occurrence of Piquet in dramatic and otherwritings of this period is very common.
-
-About this time appeared, "Wit's Interpreter: theEnglish Parnassus." The third edition, with manyadditions, by "J. C", is dated 1671. One part con-taining " Games and Sports now us'd at this dayamong the Gentry of England, (Sec", has instruc-tions for playing "The Ingenious Game calledPicket." Picket is also included among the cardgames in Cotton's "Compleat Gamester" (1674).In both cases "The Royall and delightfull game ofPicquet" has been plagiarised. In the edition of"The Compleat Gamester" of 1709 a note is added,that "These were the Rules of the Game whenit was play'd with the sixes, but however the Ruleshold for the Game as it is play'd at present withoutthe Sixes, only when it is play'd without the Sixesthe Elder Hand is to take Five of the Eight Cardsin the Stock." This fixes the time when the altera-tion of the pack became generally recognised inEngland.
-
-At the beginning of the eighteenth century,card-playing was the rage in all parts of Europe.The games most in favour, with people of fashionin England, were Ombre, Piquet and Basset(now called Faro). In "The Confederacy" by
-
-PIQUET. 77
-
-Vanbrugh (1705), Clarissa exclaims, "We'll playat Ombre, Piquet, Basset, and so forth, and closethe evening with a handsome supper and ball."Other games are referred to, but not so frequently.In "Sir Harry Wildair," (1701), for example, thefollowing conversation occurs :&mdash;
+At the beginning of the eighteenth century, card playing was the rage in all parts of Europe. The games most in favour, with people of fashion in England, were Ombre, Piquet and Basset (now called Faro). In "The Confederacy" by Vanbrugh (1705), Clarissa exclaims, "We'll play at Ombre, Piquet, Basset, and so forth, and close the evening with a handsome supper and ball. "Other games are referred to, but not so frequently. In "Sir Harry Wildair," (1701), for example, the following conversation occurs :-
 
 "Sir Harry. The capot at Piquet, the paroli at Basset,and then Ombre ! Who can resist the charms of Matadores ?
 
@@ -992,23 +356,21 @@ Lady Lurewell. Ay, Sir Harry ; and then the sept leva ! Quinze le vci! Trente le
 
 Sir H. Right, right, Madam !
 
-Lady'Lure. Then the nine of diamonds at Comet [PopeJoan], three fives at Cribbage, and Pam [Knave of Chibs] inLanterloo [Loo], Sir Harry !
+Lady'Lure. Then the nine of diamonds at Comet [PopeJoan], three fives at Cribbage, and Pam [Knave of Chibs] in Lanterloo [Loo], Sir Harry !
 
-Sir H. Ay, Madam, these are charms indeed. Then thepleasure of picking your husband's pocket over night to playat Basset next day."
+Sir H. Ay, Madam, these are charms indeed. Then the pleasure of picking your husband's pocket over night to play at Basset next day."
 
-About this date Piquet is sometimes speltPiquette, as though the idea had gained groundthat the word is a diminutive oi pique {see p. 52).The first volume of Thomas D'Urfey's celebratedpoems, " Wit and Mirth: or Pills to purge Melan-choly," (1719.), contains "A Poole at Piquette, TheWords made and set to a Tune, by Mr. D'Urfey,made at Ramsbury Mannor."
+About this date Piquet is sometimes spelt Piquette, as though the idea had gained ground that the word is a diminutive of pique (see p. 52). The first volume of Thomas D'Urfey's celebrated poems, " Wit and Mirth: or Pills to purge Melancholy," (1719.), contains "A Poole at Piquette, The Words made and set to a Tune, by Mr. D'Urfey,made at Ramsbury Mannor."
 
 "Within an Arbour of delight,
 
-As sweet as Bowers ElisianWhere famous Sidney us'd to write
+As sweet as Bowers Elisian Where famous Sidney used to write
 
 I lately had a Vision :Methought beneath a Golden State,
 
 The Turns of Chance obeying,Six of the World's most noted great.
 
 At Piquette were a playing.
-
-7 8 PIQUET.
 
 '' The first two were the brave Eugene
 
@@ -1044,49 +406,33 @@ And was o'er Europe roaming,But her full Point Quatorze and Quint
 
 Won all and left him foaming."
 
-Again, in Pope's " Moral Essays in four Epistles,"(1733.), in the first of which the character of LordGodolphin is sketched, it is stated that
+Again, in Pope's " Moral Essays in four Epistles,"(1733.), in the first of which the character of Lord Godolphin is sketched, it is stated that
 
 " His pride is in Piquette,Newmarket fame, and judgment in a bet."
 
-PIQUET. 79
+In 1719 Richard Seymour published "The Court Gamester: or full and easy Instructions for [...] Ombre, Picquet, and the Royal Game of Chess." Much of the Piquet is derived from the original source; but there are considerable additions, and quaint remarks peculiar to this treatise which deserve quotation. Speaking of tierces and other sequences, Seymour observes,''These Terms may sound a little like conjuring,to Persons that don't understand them; but they are only the French Terms that we make use of,because we have not English whereby to express the same thing in one Word." Further on, after explaining the annulling of minor sequences by major ones, he adds, "Thus, among Cards as well as Men, the Great still overcome the Small."
 
-In 1719 Richard Seymour published "TheCourt Gamester: or full and easy Instructionsfor * * * Ombre, Picquet, and the Royal Gameof Chess." Much of the Piquet is derived fromthe original source; but there are considerableadditions, and quaint remarks peculiar to thistreatise which deserve quotation. Speaking oftierces and other sequences, Seymour observes,''These Terms may sound a little like conjuring,to Persons that don't understand them; but theyare only the French Terms that we make use of,because we have not English whereby to expressthe same thing in one Word." Further on, afterexplaining the annulling of minor sequences bymajor ones, he adds, "Thus, among Cards aswell as Men, the Great still overcome the Small."
+The directions are repeated in seven editions up to 1750; in the fifth edition it is stated that "Piquet is now become so common that even the meanest people have become instructed, and let into all the Tricks and Secrets of it." This, however, is doubtful, for though Piquet was much played in the clubs, and in fashionable society, in the middle of the eighteenth century, it never appears, in this country, to have been the game of the masses, as it is in France.
 
-The directions are repeated in seven editionsup to 1750; in the fifth edition it is stated that"Piquet is now become so common that eventhe meanest people have become instructed, andlet into all the Tricks and Secrets of it." This,however, is doubtful, for though Piquet was muchplayed in the clubs, and in fashionable society,in the middle of the eighteenth century, it neverappears, in this country, to have been the gameof the masses, as it is in France.
+Apropos of club play, about this time, a story is told in Walpole's " Letters " of Selwyn's walking into White's, in November, 1752, where he found James Jeffries playing Piquet with Sir Edward Falkener, who was at that time Joint Postmaster- General. "Oh," quoth Selwyn, "he is now robbing the mail!"
 
-Apropos of club play, about this time, a storyis told in Walpole's " Letters " of Selwyn's walkinginto White's, in November, 1752, where he foundJames Jeffries playing Piquet with Sir EdwardFalkener, who was at that time Joint Postmaster-
+The " Court Gamester" was eventually amalgamated with the "Compleat Gamester"; and,in the eighth edition (1754) a number of Hoyle's rules and cases are plagiarised.
 
-So PIQUET.
+Bath was the head quarters of fashionable card-,playing about the middle of the eighteenth century. It is related of a notorious gambler, named Lookup, that he won large sums of money of Lord Chesterfield, chiefly at Piquet, and that, with his winnings, he built some houses at Bath, which he jocularly called " Chesterfield Row." Lookup died in 17705 with cards in his hand, while playing the game of humbug, or two-handed whist. Foote,on hearing this, said, " Lookup is humbugged out of the world at last."
 
-General. "Oh," quoth Selwyn, "he is nowrobbing the mail!"
+The Bath play continued until about the year 1840, a coterie of distinguished Piquet players constantly meeting there during the early part of the present century; and the club play continued at White's and Graham's. When the Bath play declined, and Graham's club was broken up, Piquet pretty well died out in England, almost the only place where it was regularly played being the Portland Club. Recently Piquet has revived; and it is now (1890) so much played in England, that it may be called a popular game.
 
-The " Court Gamester" was eventually amal-gamated with the "Compleat Gamester"; and,in the eighth edition (1754) a number of Hoyle'srules and cases are plagiarised.
+The last work on the game which calls for notice here is Hoyle's " Short Treatise on the Game of Piquet." (1744.), This is original, and not, like the others, taken from the older books. Though somewhat obscure in style, it contains much valuable instruction, and also the laws of the game, which were the only authority in this country until the code of the Portland Club was published in 1873. Hoyle^s laws were twenty-six in number,and were all observed by strict players. Editors of Hoyle, however, subsequent to 1800, took the liberty of adding nine other laws on their own account. These added laws had no weight, and,in several instances, the practice of club players was opposed to them.
 
-Bath was the head quarters of fashionable card-,playing about the middle of the eighteenth cen-tury. It is related of a notorious gambler, namedLookup, that he won large sums of money of LordChesterfield, chiefly at Piquet, and that, with hiswinnings, he built some houses at Bath, which hejocularly called " Chesterfield Row." Lookup diedin 17705 with cards in his hand, while playing thegame of humbug, or two-handed whist. Foote,on hearing this, said, " Lookup is humbugged outof the world at last."
+Hoyle does not fix the number the game is to be played up, probably because it was still a matter of agreement in his day. His editors, however, in copies published after Hoyle's death, say the game is a hundred-and-one up. Piquet au cent is played a hundred-and-one up in some parts of France at the present day (1873); but the practice in this country, and in Paris when Piquet au cent is played, is to make the game a hundred up. Piquet au cent is now (1885), however, almost entirely superseded by the Rubicon Game. The introduction of this form of Piquet necessitated the redrawing of the Portland code. In this task the Turf Club assisted; and, since 1882, the joint code of these two clubs has ruled the game among English players.
 
-The Bath play continued until about the year1840, a coterie of distinguished Piquet playersconstantly meeting there during the early part ofthe present century; and the club play continuedat White's and Graham's. When the Bath playdeclined, and Graham's club was broken up, Piquetpretty well died out in England, almost the onlyplace where it was regularly played being the Port-land Club. Recently Piquet has revived; and itis now (1890) so much played in England, that itmay be called a popular game.
+It is somewhat remarkable that so fine a game as Piquet should have been almost entirely neglected by writers on games from 1744 to 1873 (nearly a hundred-and-thirty years), except by editors of Hoyle. This is the more singular, as it is generally admitted that Hoyle's laws and directions for play, though excellent as far as they go, are by no means complete. In the following pages an attempt has been made to supplement Hoyle's work, by giving a full description of the modern game (Piquet au cent being now seldom played), and by enlarging more thoroughly on the various points of play.
 
-The last work on the game which calls for noticehere is Hoyle's " Short Treatise on the Game ofPiquet." (1-744.), This is original, and not, like
-
-PIQUET. 81
-
-the others, taken from the older books. Thoughsomewhat obscure in style, it contains much valu-able instruction, and also the laws of the game,which were the only authority in this country untilthe code of the Portland Club was published in1873. Hoyle^s laws were twenty-six in number,and were all observed by strict players. Editorsof Hoyle, however, subsequent to 1800, took theliberty of adding nine other laws on their ownaccount. These added laws had no weight, and,in several instances, the practice of club playerswas opposed to them.
-
-Hoyle does not fix the number the game isto be played up, probably because it was still amatter of agreement in his day. His editors,however, in coj^ies published after Hoyle's death,say the game is a hundred-and-one up. Piquetau cent is played a hundred-and-one up in someparts of France at the present day (1873); butthe practice in this country, and in Paris whenPiquet au cent is played, is to make the game ahundred up. Piquet au ce?it is now (1885), how-ever, almost entirely superseded by the RubiconGame. The introduction of this form of Piquetnecessitated the redrawing of the Portland code.In this task the Turf Club assisted; and, since1882, the joint code of these two clubs has ruledthe game among English players.
-
-It is somewhat remarkable that so fine a gameas Piquet should have been almost entirely neg-lected by writers on games from 1744 to 1873G
-
-82 PIQUET.
-
-(nearly a hundred-and-thirty years), except byeditors of Hoyle. This is the more singular, asit is generally admitted that Hoyle's laws anddirections for play, though excellent as far asthey go, are by no means complete. In thefollowing pages an attempt has been made tosupplement Hoyle's work, by giving a full de-scription of the modern game (Piquet au centbeing now seldom played), and by enlargingmore thoroughly on the various points of play.
-
-^M^
-
-DESCKIPTION OF THE GAME,
+DESCRIPTION OF THE GAME,
 
 INTRODUCTORY.
 
-The Game of Piquet is played by two persons,with a pack of thirty-two cards&mdash;the sixes, fives,fours, threes, and twos, being thrown out from acomplete pack. It is convenient to have twopacks, each being used alternately.
+The Game of Piquet is played by two persons,with a pack of thirty-two cards-the sixes, fives,fours, threes, and twos, being thrown out from acomplete pack. It is convenient to have twopacks, each being used alternately.
 
 DEALING.
 
@@ -1104,7 +450,7 @@ G2
 
 they deem advisable (but see carte blanche, p. 95).They then take in an equivalent number of cardsfrom the stock. The elder hand has the privilegeof thus exchanging five of his cards. He maytake any less • number, but he must exchange one.He separates his discard from his hand, places itaside, face downwards on the table, and takesfrom the top of the stock the number of cardsdiscarded.
 
-If the elder hand takes all his five cards heleaves three for the younger hand. If he discardsless than five cards (leaving more than three inthe stock) he announces the fact by saying, "Ionly take four,"&mdash;or three, or less, as the casemay be; or, "I leave a card,"&mdash;or two, or morecards, as the case may be.
+If the elder hand takes all his five cards heleaves three for the younger hand. If he discardsless than five cards (leaving more than three inthe stock) he announces the fact by saying, "Ionly take four,"-or three, or less, as the casemay be; or, "I leave a card,"-or two, or morecards, as the case may be.
 
 When the elder hand discards less than fivecards he is entitled to look at the cards heleaves. For example: If he discards four cards,he takes the top four cards of the stock, andlooks at the fifth, the one left on the top of thestock after he has taken his four. If he discardsbut three cards, he may similarly look at the twocards left, and so on. He returns the cards thuslooked at to the top of the stock without showingthem to his adversary.
 
@@ -1132,11 +478,11 @@ CALLrNG AND SHOWING.
 
 The discarding and taking in being over, theplayers next announce or m/l certain combina-tions of the cards in hand, and, if good, score forthem. These combinations are point, sequences,and quatorzes and trios.
 
-The point must be announced first (Law 46).It is scored by the player who calls the suit ofgreatest number. If each player's best suit con-tains an equal number of cards, the point is thenscored by the one who calls the suit of greateststrength, according to the following way of valuingit:&mdash;The ace is valued at eleven, each of the courtcards at ten a-piece, and the other cards at thenumber of pips on each.
+The point must be announced first (Law 46).It is scored by the player who calls the suit ofgreatest number. If each player's best suit con-tains an equal number of cards, the point is thenscored by the one who calls the suit of greateststrength, according to the following way of valuingit:-The ace is valued at eleven, each of the courtcards at ten a-piece, and the other cards at thenumber of pips on each.
 
-The elder hand calls his point, thus:&mdash;Supposehis best suit to consist of five cards. He wouldcall, "Five cards." If the younger hand has nosuit of equal or greater number, he replies, "Good."The elder hand then names the suit, saying, " Inspades," or as the case may be, and counts onefor each card, saying, " Five."
+The elder hand calls his point, thus:-Supposehis best suit to consist of five cards. He wouldcall, "Five cards." If the younger hand has nosuit of equal or greater number, he replies, "Good."The elder hand then names the suit, saying, " Inspades," or as the case may be, and counts onefor each card, saying, " Five."
 
-If the point called by the elder hand happensto be equal in number to the best suit of hisadversary, the younger hand says, "Equal," Theelder then announces the value of his cards.Thus:&mdash;The elder's point is ace, king, knave,nine, eight; he would say, "Forty-eight," or,
+If the point called by the elder hand happensto be equal in number to the best suit of hisadversary, the younger hand says, "Equal," Theelder then announces the value of his cards.Thus:-The elder's point is ace, king, knave,nine, eight; he would say, "Forty-eight," or,
 
 " Making eight." If the younger hand's five cardsmake less than forty-eight, he replies, " Good," andthe elder then names the suit. If the youngerhand's point makes exactly forty-eight, he says,"Equal." The elder hand then names the suitin which his equality is, but does not count any-thing for it.
 
@@ -1152,25 +498,25 @@ It is usual, but not compulsory, to call se-quences next after point; quatorze o
 
 The elder hand should first call his best sequence.Any three or more cards of the same suit held in
 
-hand in the order given at p. 83 constitute a se-quence. Sequences, and the amounts reckonedfor them when good, are as under:&mdash;</p><table class="calibre8"><tr class="calibre9"><td class="calibre10"><p class="calibre5">aence of eight cards (named</p></td><td class="calibre10"><p class="calibre5">a huitieme) scores eighteen.</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">,, seven ,</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">septieme)</p></td><td class="calibre10"><p class="calibre5">, seventeen</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">,, six ,</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">sixieme )</p></td><td class="calibre10"><p class="calibre5">, sixteen.</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">,, five ,</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">quint )</p></td><td class="calibre10"><p class="calibre5">, fifteen.</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">,, four ,</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">quart )</p></td><td class="calibre10"><p class="calibre5">, four.</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">three ,</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">tierce )</p></td><td class="calibre10"><p class="calibre5">, three.</p></td></tr></table><p class="calibre5">It will be observed that tierces and quarts reckonone for each card; and that higher sequencesreckon one for each card, with ten added.
+hand in the order given at p. 83 constitute a se-quence. Sequences, and the amounts reckonedfor them when good, are as under:-</p><table class="calibre8"><tr class="calibre9"><td class="calibre10"><p class="calibre5">aence of eight cards (named</p></td><td class="calibre10"><p class="calibre5">a huitieme) scores eighteen.</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">,, seven ,</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">septieme)</p></td><td class="calibre10"><p class="calibre5">, seventeen</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">,, six ,</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">sixieme )</p></td><td class="calibre10"><p class="calibre5">, sixteen.</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">,, five ,</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">quint )</p></td><td class="calibre10"><p class="calibre5">, fifteen.</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">,, four ,</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">quart )</p></td><td class="calibre10"><p class="calibre5">, four.</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">three ,</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">tierce )</p></td><td class="calibre10"><p class="calibre5">, three.</p></td></tr></table><p class="calibre5">It will be observed that tierces and quarts reckonone for each card; and that higher sequencesreckon one for each card, with ten added.
 
 Sequences are further defined by name accord-ing to the card which heads them. Thus, asequence of king, queen, knave, is named a tierceto a king; ace, king, queen, is called a tiercemajor; and so on for other sequences headedby an ace. A sequence of nine, eight, seven,is called a tierce minor; and so on for othersequences of the lowest cards.
 
-Whether or not a sequence is good is deter-mined by {a) the number of cards it contains,and by {b) the highness of the cards. A highersequence is superior to or good against a lowerone containing the same number of cards; buta sequence containing a greater number of cards,even though low ones, is good against a highersequence containing fewer cards. For example :&mdash;A tierce major is good against any other tierce;a quart minor is good against a tierce major.
+Whether or not a sequence is good is deter-mined by {a) the number of cards it contains,and by {b) the highness of the cards. A highersequence is superior to or good against a lowerone containing the same number of cards; buta sequence containing a greater number of cards,even though low ones, is good against a highersequence containing fewer cards. For example :-A tierce major is good against any other tierce;a quart minor is good against a tierce major.
 
-The elder hand, when calling his sequence,names it thus :&mdash;"A quint minor," "A quart toa queen," or whatever it may be. The youngerhand says, "Good," "Equal," or "Not good,"as in the case of the point. If good or equal,the elder hand then names the suit in whichhis sequence is. If not good, the younger callshis sequence, and names the suit in which it is,after the elder has finished calling and has leda card.
+The elder hand, when calling his sequence,names it thus :-"A quint minor," "A quart toa queen," or whatever it may be. The youngerhand says, "Good," "Equal," or "Not good,"as in the case of the point. If good or equal,the elder hand then names the suit in whichhis sequence is. If not good, the younger callshis sequence, and names the suit in which it is,after the elder has finished calling and has leda card.
 
-When a player has a sequence that is good, hereckons one for each card of it, and an additionalten if it is a sequence of five or more cards {seep. Z^). The player whose sequence' is allowed tobe good, is also entitled to reckon all smallersequences in his hand, notwithstanding that hisadversary holds a sequence of intermediate value.For example:&mdash;A has a quart to a queen (queen,knave, ten, nine) in one suit and a tierce minor(nine, eight, seven) in another suit; B has a quartto a knave (knave, ten, nine, eight) in a thirdsuit. A calls a quart to a queen, which is good.He scores four for it, and then calls the tierceminor, and scores three for that. B's quart toa ten counts nothing, and does not prevent Afrom reckoning the tierce minor.
+When a player has a sequence that is good, hereckons one for each card of it, and an additionalten if it is a sequence of five or more cards {seep. Z^). The player whose sequence' is allowed tobe good, is also entitled to reckon all smallersequences in his hand, notwithstanding that hisadversary holds a sequence of intermediate value.For example:-A has a quart to a queen (queen,knave, ten, nine) in one suit and a tierce minor(nine, eight, seven) in another suit; B has a quartto a knave (knave, ten, nine, eight) in a thirdsuit. A calls a quart to a queen, which is good.He scores four for it, and then calls the tierceminor, and scores three for that. B's quart toa ten counts nothing, and does not prevent Afrom reckoning the tierce minor.
 
 If the two players' sequences are equal, theequality is called by both, and neither scoresanything for sequence, even though one playermay hold a second sequence of equal value, orkn inferior sequence. The equality of the superior
 
 90 PIQUET.
 
-sequence nullifies the whole. Thus : &mdash; A callsa tierce major; B says, "Equal." A and B areprecluded from scoring a second tierce major orany smaller sequence.
+sequence nullifies the whole. Thus : - A callsa tierce major; B says, "Equal." A and B areprecluded from scoring a second tierce major orany smaller sequence.
 
-If the elder hand inadvertently calls a low se-quence, holding a higher one, he may correcthis miscall before it has been replied to bythe younger hand. After the younger hand hasreplied, "Good," or "Equal," the elder mustabide by his call, and can only reckon sequencesequal to, or lower than, the one he called. Thus :&mdash;A has a quart minor and a tierce minor. If hefirst calls a tierce minor, and it is admitted to begood, he can reckon two tierce minors, but hecannot reckon the quart.
+If the elder hand inadvertently calls a low se-quence, holding a higher one, he may correcthis miscall before it has been replied to bythe younger hand. After the younger hand hasreplied, "Good," or "Equal," the elder mustabide by his call, and can only reckon sequencesequal to, or lower than, the one he called. Thus :-A has a quart minor and a tierce minor. If hefirst calls a tierce minor, and it is admitted to begood, he can reckon two tierce minors, but hecannot reckon the quart.
 
-There is one exception to this. If the elderhand calls a sequence that is good against thecards {i.e., better than any sequence the youngerhand could possibly have in hand and discardtaken together), he can reckon any sequence heholds, even though it is better than the one firstcalled. For example:&mdash;A has a quart to a king,and a tierce to a queen, good against the cards.If he first calls a tierce to a queen, he may after-wards reckon his quart.
+There is one exception to this. If the elderhand calls a sequence that is good against thecards {i.e., better than any sequence the youngerhand could possibly have in hand and discardtaken together), he can reckon any sequence heholds, even though it is better than the one firstcalled. For example:-A has a quart to a king,and a tierce to a queen, good against the cards.If he first calls a tierce to a queen, he may after-wards reckon his quart.
 
 Some players show all that they claim as goodor equal; this, however, is not compulsory, unlessthe cards are asked for.
 
@@ -1186,9 +532,9 @@ After sequence (but see p. 87), quatorzes {i.e.,four aces, kings, queens, knaves
 
 92 PIQUET.
 
-ten added); a trio if good counts three. Anyquatorze is good against a trio; thus, four tensare good against three aces. If each player hasa quatorze the highest is good; the same if eachhas a trio; and, as in the case of sequences, any-thing that is good enables the player to count allsmaller combinations of four or three in his hand,and nullifies any that the adversary may hold ofintermediate value. For example:&mdash;A has fourtens and three knaves; B, three aces. A. scoresfourteen for tens, and three for knaves; and Bdoes not count his aces.
+ten added); a trio if good counts three. Anyquatorze is good against a trio; thus, four tensare good against three aces. If each player hasa quatorze the highest is good; the same if eachhas a trio; and, as in the case of sequences, any-thing that is good enables the player to count allsmaller combinations of four or three in his hand,and nullifies any that the adversary may hold ofintermediate value. For example:-A has fourtens and three knaves; B, three aces. A. scoresfourteen for tens, and three for knaves; and Bdoes not count his aces.
 
-A quatorze or trio is called thus:&mdash;"Four aces,""Three queens," or as the case may be. Theyounger hand then says, "Good," or " Not good,"as before. The cards of a quatorze or trio arenever shown on the table. The adversary, how-ever, has a right to demand their production ifhe thinks fit.
+A quatorze or trio is called thus:-"Four aces,""Three queens," or as the case may be. Theyounger hand then says, "Good," or " Not good,"as before. The cards of a quatorze or trio arenever shown on the table. The adversary, how-ever, has a right to demand their production ifhe thinks fit.
 
 The reason that quatorzes are not shown isthat when aces, kings, queens, knaves, or tensare called, the adversary knows what the cardsare. When a player might hold a quatorze, butonly calls three of that rank (as, e.g.^ A calls threekings, when he might have held four), the adver-sary is entitled to know which card is not reckoned.In the case of the example given, B might say,"Show your kings," by which means he wouldascertain the king that is not called. But theusual course is for B to say, "Which king doyou not reckon?", and A is bound to reply.
 
@@ -1234,19 +580,19 @@ If either player has dealt to him a hand whichcontains neither king, queen, nor 
 
 "Discard for carte blanche." As ^soon as theadversary has discarded, the carte blanche isshown him. (See also Laws 18-20, pp. 3, 4.)
 
-If the elder hand scores, z'n hand and play ^ thirtyor more before his adversary counts anything thathand, he wins a pique. A pique entitles the playerto add thirty to his score; but in all other respectsthe hand is played as already explained. For ex-ample :&mdash;A has a quint major, which is good for pointand sequence, and three aces, which are also good.He counts twenty for the point and quint, and threefor the aces, and then leads the quint major and thetwo aces, or one of the aces and some other card.This makes him thirty; and, as his adversary has notscored anything, it is a pique. A, when he leadsthe card which makes him thirty, instead of counting"Thirty," counts "Sixty." It is not necessary thatthe card led which makes thirty should win the trick.The elder hand, having reckoned twenty-nine whenhis adversary has reckoned nothing, and having thelead, wins a pique even if he leads a losing card.
+If the elder hand scores, z'n hand and play ^ thirtyor more before his adversary counts anything thathand, he wins a pique. A pique entitles the playerto add thirty to his score; but in all other respectsthe hand is played as already explained. For ex-ample :-A has a quint major, which is good for pointand sequence, and three aces, which are also good.He counts twenty for the point and quint, and threefor the aces, and then leads the quint major and thetwo aces, or one of the aces and some other card.This makes him thirty; and, as his adversary has notscored anything, it is a pique. A, when he leadsthe card which makes him thirty, instead of counting"Thirty," counts "Sixty." It is not necessary thatthe card led which makes thirty should win the trick.The elder hand, having reckoned twenty-nine whenhis adversary has reckoned nothing, and having thelead, wins a pique even if he leads a losing card.
 
-If a player scores, in hand alone., thirty points ormore by scores that reckon in order before anythingthat his adversary can count, he wins a repique. Arepique entitles the player to add sixty to his score.Thus:&mdash;If a player has point, quint, and quatorze (allgood), he repiques his adversary. He counts fivefor point, fifteen for sequence, making twent}'-, andfourteen for quatorze, making thirty-four. Instead
+If a player scores, in hand alone., thirty points ormore by scores that reckon in order before anythingthat his adversary can count, he wins a repique. Arepique entitles the player to add sixty to his score.Thus:-If a player has point, quint, and quatorze (allgood), he repiques his adversary. He counts fivefor point, fifteen for sequence, making twent}'-, andfourteen for quatorze, making thirty-four. Instead
 
 of counting "Thirty-four," he counts "Ninety-four."In all other ways, the hand is played as alreadyexplained.
 
-Equalities do not save a pique or a repique.In the case of an equality, the game proceeds asthough no such mode of scoring existed. Thus:&mdash;A has point equal, quint and quatorze, both good,and leads a card. He wins a pique.
+Equalities do not save a pique or a repique.In the case of an equality, the game proceeds asthough no such mode of scoring existed. Thus:-A has point equal, quint and quatorze, both good,and leads a card. He wins a pique.
 
 SCORING.
 
 During the progress of the hand, each playercontinues to repeat aloud the amount of hisscore that hand for the time being {see Example,pp. 103-5). ^t th^ ^^d of ^^^ hand, the numberscored is written on a scoring card, each playerrecording both his own and his opponent's score,in separate columns.
 
-Although the scores are, for the sake of con-venience, recorded only at the end of the hand,they are recordable when they accrue, whethermade by the elder or younger hand, in the ordergiven in the following table of precedence:&mdash;
+Although the scores are, for the sake of con-venience, recorded only at the end of the hand,they are recordable when they accrue, whethermade by the elder or younger hand, in the ordergiven in the following table of precedence:-
 
 1. Carte blanche.
 
@@ -1266,13 +612,13 @@ It is important to bear in mind this order ofaccretion in the case of piques or 
 
 To take another example; A (elder hand) hasa huitieme (good for twenty-six) and a tierce(good for three more). He then leads a card,and thus reaches thirty. B (younger hand) hasthree tens which are good. The three tenssave a pique, as they reckon in order before thepoint made in play by A.
 
-Carte blanche, taking precedence of all otherscores, saves piques and repiques. Carte blanchecounts towards piques and repiques just the sameas other scores. Thus: &mdash; A player showing acarte blanche, and, after discarding, having point
+Carte blanche, taking precedence of all otherscores, saves piques and repiques. Carte blanchecounts towards piques and repiques just the sameas other scores. Thus: - A player showing acarte blanche, and, after discarding, having point
 
 PIQUET. 99
 
 and quint (both good), would repique his ad-versary.
 
-A capot does not count towards a pique, as theforty for the capot is added after the play of thehand is over. For instance:&mdash;A (elder hand) hasace, king, queen, knave, eight of spades; ace,king, knave, ten, eight, seven of hearts; and aceof diamonds. His point and quart are good.These, with three aces, reckon thirteen. Hewins every trick, and his total score is twenty-six.He adds forty for the capot, making him sixty-six.He does not gain a pique, as he only madetwenty-six in hand and play.
+A capot does not count towards a pique, as theforty for the capot is added after the play of thehand is over. For instance:-A (elder hand) hasace, king, queen, knave, eight of spades; ace,king, knave, ten, eight, seven of hearts; and aceof diamonds. His point and quart are good.These, with three aces, reckon thirteen. Hewins every trick, and his total score is twenty-six.He adds forty for the capot, making him sixty-six.He does not gain a pique, as he only madetwenty-six in hand and play.
 
 A player who reckons nothing that deal as apenalty {see Laws 25, 27, 28, 29, 31, 33, 35, 54,and 58) is not piqued or repiqued if he holds anycards which, but for the penalty, would havescored before his adversary reached thirty. Hiscards though not good to score, are good to bar hisadversary.
 
@@ -1284,13 +630,13 @@ H 2
 
 lOO PIQUET.
 
-The winner of a partie deducts the points scoredby his opponent from his own, and adds a hundredto the difference. Thus :&mdash;A scores in the six deals131; B scores 113. A wins 131 - 13 = 118 points.Should the loser score less than a hundred in thesix deals, the winner (whether he has made ahundred or not), adds the points scored by hisadversary to his own, instead of deducting them,and also adds a hundred to his score. Thus:&mdash;A scores 125; B scores 81. A wins 125 + 181= 306. This is called winning a rubicon. (Seealso Laws 61-74, pp. 12-14.)
+The winner of a partie deducts the points scoredby his opponent from his own, and adds a hundredto the difference. Thus :-A scores in the six deals131; B scores 113. A wins 131 - 13 = 118 points.Should the loser score less than a hundred in thesix deals, the winner (whether he has made ahundred or not), adds the points scored by hisadversary to his own, instead of deducting them,and also adds a hundred to his score. Thus:-A scores 125; B scores 81. A wins 125 + 181= 306. This is called winning a rubicon. (Seealso Laws 61-74, pp. 12-14.)
 
 When, during the last hand of a partie, a playerfinds (before the play of the hand begins) that hecannot save his rubicon, he is not required tocount any points in play. He throws down hishand, and tells his adversary to count every trick(thirteen), and the cards (ten). He may, if hepleases, play to divide the cards; but in that case,he has to add to his score the points he makes inplay. Or, his adversary may play for a capot; butthat does not affect the case, as, if capoted, theloser has no points in play to score.
 
 Scoring cards and pencils are required. Thediagram (p. loi) shows a card ruled for six parties,or for five parties if the totals are recorded on thesame card.
 
-The game is played for so much a point, or for somuch a hundred, odd money not being reckonedin the final total. Thus :&mdash;A and B play fiveparties, at ten shillings a hundred (about equal to
+The game is played for so much a point, or for somuch a hundred, odd money not being reckonedin the final total. Thus :-A and B play fiveparties, at ten shillings a hundred (about equal to
 
 PIQUET.
 
@@ -1302,9 +648,9 @@ I02
 
 PIQUET.
 
-At chouette piquet {see p. io6), the points of eachpartie are reckoned as multiples of ten, adding oneto the tens for units above five, and neglectingunits from one to five. Thus, 416 counts 420;141 counts 140. As the score must always end ina naught, the naughts are omitted when enteringthe figures. Taking, as an example, the parties onthe scoring card, p. loi, the totals might be enteredas under:&mdash;</p><table class="calibre8"><tr class="calibre9"><td class="calibre10"><p class="calibre5">First Partie.</p></td><td class="calibre10"><p class="calibre5">Second Partie.</p></td><td class="calibre10"><p class="calibre5">Third Partie.</p></td><td class="calibre10"><p class="calibre5">etc.</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">A + 30B- 15C - 15</p></td><td class="calibre10"><p class="calibre5">A + 84B -42C -42</p></td><td class="calibre10"><p class="calibre5">A - 96B + 48
+At chouette piquet {see p. io6), the points of eachpartie are reckoned as multiples of ten, adding oneto the tens for units above five, and neglectingunits from one to five. Thus, 416 counts 420;141 counts 140. As the score must always end ina naught, the naughts are omitted when enteringthe figures. Taking, as an example, the parties onthe scoring card, p. loi, the totals might be enteredas under:-</p><table class="calibre8"><tr class="calibre9"><td class="calibre10"><p class="calibre5">First Partie.</p></td><td class="calibre10"><p class="calibre5">Second Partie.</p></td><td class="calibre10"><p class="calibre5">Third Partie.</p></td><td class="calibre10"><p class="calibre5">etc.</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">A + 30B- 15C - 15</p></td><td class="calibre10"><p class="calibre5">A + 84B -42C -42</p></td><td class="calibre10"><p class="calibre5">A - 96B + 48
 
-C + 48</p></td></tr></table><p class="calibre5">Instead of writing each score at length, as above,and taking out the results at the end, it is foundconvenient in practice to add and subtract thetotals after every partie, and to keep a separatescoring card for that purpose, as shown below:&mdash;</p><table class="calibre8"><tr class="calibre9"><td class="calibre10"><p class="calibre5">A +</p></td><td class="calibre10"><p class="calibre5">30 +</p></td><td class="calibre10"><p class="calibre5">114</p></td><td class="calibre10"><p class="calibre5">+</p></td><td class="calibre10"><p class="calibre5">18 +</p></td><td class="calibre10"><p class="calibre5">32 +</p></td><td class="calibre10"><p class="calibre5">19</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">B -</p></td><td class="calibre10"><p class="calibre5">15 -</p></td><td class="calibre10"><p class="calibre5">57</p></td><td class="calibre10"><p class="calibre5">-</p></td><td class="calibre10"><p class="calibre5">9 -</p></td><td class="calibre10"><p class="calibre5">37 -</p></td><td class="calibre10"><p class="calibre5">50</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">C -</p></td><td class="calibre10"><p class="calibre5">15 -</p></td><td class="calibre10"><p class="calibre5">57</p></td><td class="calibre10"><p class="calibre5">&mdash;</p></td><td class="calibre10"><p class="calibre5">9 +</p></td><td class="calibre10"><p class="calibre5">5 +</p></td><td class="calibre10"><p class="calibre5">31</p></td></tr></table><p class="calibre5">A wins 190 ; C, 310 ; B loses 500. At tenshillings a hundred, when fractions of fifty pointsare not reckoned, A wins 150 (or fifteen shillings);C wins 300 (or thirty shillings). B, on the score,actually loses 500 (or fifty shillings); but in con-sequence of fractional parts of fifty points notcounting in the final total of amounts receivable,B gets off with a loss of forty-five.
+C + 48</p></td></tr></table><p class="calibre5">Instead of writing each score at length, as above,and taking out the results at the end, it is foundconvenient in practice to add and subtract thetotals after every partie, and to keep a separatescoring card for that purpose, as shown below:-</p><table class="calibre8"><tr class="calibre9"><td class="calibre10"><p class="calibre5">A +</p></td><td class="calibre10"><p class="calibre5">30 +</p></td><td class="calibre10"><p class="calibre5">114</p></td><td class="calibre10"><p class="calibre5">+</p></td><td class="calibre10"><p class="calibre5">18 +</p></td><td class="calibre10"><p class="calibre5">32 +</p></td><td class="calibre10"><p class="calibre5">19</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">B -</p></td><td class="calibre10"><p class="calibre5">15 -</p></td><td class="calibre10"><p class="calibre5">57</p></td><td class="calibre10"><p class="calibre5">-</p></td><td class="calibre10"><p class="calibre5">9 -</p></td><td class="calibre10"><p class="calibre5">37 -</p></td><td class="calibre10"><p class="calibre5">50</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">C -</p></td><td class="calibre10"><p class="calibre5">15 -</p></td><td class="calibre10"><p class="calibre5">57</p></td><td class="calibre10"><p class="calibre5">-</p></td><td class="calibre10"><p class="calibre5">9 +</p></td><td class="calibre10"><p class="calibre5">5 +</p></td><td class="calibre10"><p class="calibre5">31</p></td></tr></table><p class="calibre5">A wins 190 ; C, 310 ; B loses 500. At tenshillings a hundred, when fractions of fifty pointsare not reckoned, A wins 150 (or fifteen shillings);C wins 300 (or thirty shillings). B, on the score,actually loses 500 (or fifty shillings); but in con-sequence of fractional parts of fifty points notcounting in the final total of amounts receivable,B gets off with a loss of forty-five.
 
 PIQUET. 103
 
@@ -1328,7 +674,7 @@ He takes in queen of spades; ace of clubs;and seven of diamonds.
 
 I04 PIQUET.
 
-The game then proceeds thus:&mdash;
+The game then proceeds thus:-
 
 A (calls his point), "Five cards."
 
@@ -1394,7 +740,7 @@ CONDUCT OF THE GAME.
 
 SHUFFLING.
 
-The pack should be thoroughly shuffled afterevery hand. Owing to the nature of the game,cards of the same suit are often played together.Thus :&mdash;A has a sixieme major in spades; B, asixieme minor in hearts. A puts down his sixieme,and says, "Play six cards." B has no spade, andplays his sixieme minor. A then, seeing he cannotwin another trick, lays down the remainder of hissorted hand; on these cards B places the remainderof his sorted hand. Each scores seven in play.If the cards are now taken up together and arenot well shuffled, the consequence will be that,when this pack is dealt again, the sixiemes will bepretty equally divided between the players, and thecards in the stock will run in suits; or if the packis so cut that one of the sixiemes is at or near thebottom, those cards will form the major part of thestock. Even if the cards are moderately shuffled,the cards will have a tendency to keep together insuits, as any one may convince himself by givingan ordinary shuffle to a sorted pack, and thenturning it face upwards.
+The pack should be thoroughly shuffled afterevery hand. Owing to the nature of the game,cards of the same suit are often played together.Thus :-A has a sixieme major in spades; B, asixieme minor in hearts. A puts down his sixieme,and says, "Play six cards." B has no spade, andplays his sixieme minor. A then, seeing he cannotwin another trick, lays down the remainder of hissorted hand; on these cards B places the remainderof his sorted hand. Each scores seven in play.If the cards are now taken up together and arenot well shuffled, the consequence will be that,when this pack is dealt again, the sixiemes will bepretty equally divided between the players, and thecards in the stock will run in suits; or if the packis so cut that one of the sixiemes is at or near thebottom, those cards will form the major part of thestock. Even if the cards are moderately shuffled,the cards will have a tendency to keep together insuits, as any one may convince himself by givingan ordinary shuffle to a sorted pack, and thenturning it face upwards.
 
 Io8 PIQUET.
 
@@ -1432,7 +778,7 @@ If you are not in the habit of showing what youcall, and have put out a card of 
 
 no PIQUET.
 
-example:&mdash;You are younger hand, and have dis-carded the king of spades. You have taken inspades, and your point, which is good, is ace,knave, ten, eight of spades. When caUing thepoint, you should say, " Thirty-nine in spades, andI do not reckon the king." Your adversary willthen know, as he is entitled to know, and as hecould know if he asked to see your point, that heneed only keep one guard to his queen whenplaying the cards.
+example:-You are younger hand, and have dis-carded the king of spades. You have taken inspades, and your point, which is good, is ace,knave, ten, eight of spades. When caUing thepoint, you should say, " Thirty-nine in spades, andI do not reckon the king." Your adversary willthen know, as he is entitled to know, and as hecould know if he asked to see your point, that heneed only keep one guard to his queen whenplaying the cards.
 
 You would be equally entitled not to reckon theking, if you had it in hand, and wished to concealyour strength, in hopes of persuading your oppo-nent to unguard his queen when playing the cards.But as calling without showing draws special at-tention to the absence of the king, it seemspreferable always to show your point, and to saynothing about what you do not reckon. In thecase supposed, put ace, knave, ten, eight of spadeson the table, and say, "Good for four," and let youradversary think what he pleases about the king.
 
@@ -1442,7 +788,7 @@ If you have, or might have, two points of thesame counting value, it is also you
 
 PIQUET. Ill
 
-Thus :&mdash;You have king, queen, ten, eight of onesuit, and might have ace, queen, ten, seven ofanother. If thirty-eight is good or equal, youshould say, " In spades," or " In hearts," or asthe case may be, without waiting to be askedin which suit your point is. • If younger hand,you need not announce the suit until the elderhas led a card.
+Thus :-You have king, queen, ten, eight of onesuit, and might have ace, queen, ten, seven ofanother. If thirty-eight is good or equal, youshould say, " In spades," or " In hearts," or asthe case may be, without waiting to be askedin which suit your point is. • If younger hand,you need not announce the suit until the elderhas led a card.
 
 Similar observations apply to sequences andtrios {see Case XIL, pp. 27, 28).
 
@@ -1482,7 +828,7 @@ Suppose you hold three clubs, and have onlycalled two of them. You are entitled 
 
 different, and he ought not knowingly to play-any other number. He must then submit to theconsequences of his blunder. Some players thinkthat even in the first instance, the wrong numberof cards should not be played with intention.This is a question of ethics, which can only bedecided by the custom of the card-table. Norule has ever been laid down. It is believed,after consultation with several players of repute,that the general custom is as here stated. Theleader can always protect himself by countingthe cards played.
 
-Another undecided point in playing the cards,which often occurs, is this:&mdash;At the end of ahand the leader says, "All the others are yours."*As a matter of fact, they are not yours, youhaving discarded a winning card. What is yourproper course?
+Another undecided point in playing the cards,which often occurs, is this:-At the end of ahand the leader says, "All the others are yours."*As a matter of fact, they are not yours, youhaving discarded a winning card. What is yourproper course?
 
 In the opinion of players well qualified tojudgp, you should make no reply to such anobservation. If your adversary then proceeds toplay his cards, you must play to them in theusual way, and let him win such tricks as hecan. If he throws down his hand, and you havediscarded a winning card, and therefore cannotwin the remaining tricks, you should request himto play the cards one by one. Such a request is,no doubt, equivalent to informing your adversarythat you have a winning card out, and the con-sequence may be somewhat disastrous to you.This is a misfortune which cannot be helped.
 
@@ -1512,7 +858,7 @@ GENERAL RULES.
 
 Before deciding on your discard, you shouldascertain whether you hold anything which isgood against the cards, or is equal, and whatthere is against you that may be reckoned asgood, or called as equal.
 
-For example:&mdash;You take up A's hand, p. 103{q.v.). There are against you, a six-card point,a quint major, and four tens. You have nothinggood, and may be repiqued. In addition, thereare two five-card points against you, a quartminor, a tierce major, three kings and three
+For example:-You take up A's hand, p. 103{q.v.). There are against you, a six-card point,a quint major, and four tens. You have nothinggood, and may be repiqued. In addition, thereare two five-card points against you, a quartminor, a tierce major, three kings and three
 
 PIQUET. 11 7
 
@@ -1520,7 +866,7 @@ queens. You should make yourself aware of allthis before throwing out a card; an
 
 When discarding, elder hand, your main object,with moderately good cards, should be to plan anattack. You should freely unguard kings andqueens, and should throw out whole suits, witha view to making a large score if you take into the suits you keep.
 
-On the contrary, your first care, younger hand,should be to protect your weak places. Youshould keep guards to kings and queens; andyou should seldom denude yourself entirely of asuit of which you hold one or two small cardsonly, as these may guard high cards taken in.The elder hand will probably lead his best suit;and that is not unlikely to be the one in whichyou were originally weak. For instance:&mdash;Sup-pose you, being younger hand, take up the cardsalready referred to (A's hand, p. 103), includingnine, eight of diamonds. You should not partwith both the diamonds, but should discard twosmall clubs and one diamond.
+On the contrary, your first care, younger hand,should be to protect your weak places. Youshould keep guards to kings and queens; andyou should seldom denude yourself entirely of asuit of which you hold one or two small cardsonly, as these may guard high cards taken in.The elder hand will probably lead his best suit;and that is not unlikely to be the one in whichyou were originally weak. For instance:-Sup-pose you, being younger hand, take up the cardsalready referred to (A's hand, p. 103), includingnine, eight of diamonds. You should not partwith both the diamonds, but should discard twosmall clubs and one diamond.
 
 Keeping the best suit for point is essential inmost cases, and especially younger hand. Thepoint is of much greater consequence than be-ginners suppose. Gaining the point makes anaverage difference of more than ten to the score,
 
@@ -1540,15 +886,15 @@ PIQUET. 119
 
 point or of the cards, even if you keep the kingof spades. But suppose you had the nine ofhearts instead of the knave. You should thenthrow the clubs and diamonds, and keep twounbroken suits. Going for two suits is oftenthe resource of a player in difficulties.
 
-It is sometimes advisable to throw a whole suit,younger hand, either because it consists of threeuseless cards, or because keeping it may injureyour hand in other respects. In the second case,the rejected suit should be one in which you arenot likely to be attacked. Thus :&mdash;If the suitdiscarded consists of king, knave, and a smallone, the elder hand will probably avoid leadingthat suit should he happen to hold ace, queenof it. King, queen, and a small card is a suitwhich may be discarded without much probabilityof being attacked in it.
+It is sometimes advisable to throw a whole suit,younger hand, either because it consists of threeuseless cards, or because keeping it may injureyour hand in other respects. In the second case,the rejected suit should be one in which you arenot likely to be attacked. Thus :-If the suitdiscarded consists of king, knave, and a smallone, the elder hand will probably avoid leadingthat suit should he happen to hold ace, queenof it. King, queen, and a small card is a suitwhich may be discarded without much probabilityof being attacked in it.
 
 It is a common error with beginners at Piquetnot to take all their cards, especially if taking thefull number involves parting with high cards. Thehands where all the cards should not be taken arefew. There is not so great an objection, however,to the younger hand's leaving a card as to theelder hand's doing so; for, in the latter case, thecard left may be taken by the adversary, but,in the former case, it is merely excluded fromthe player's hand. The principal situation forleaving a card, elder hand, is where there is achance of a great score, and no repique againstyou.
 
-Cards in sequence, or that may form a se-quence with those taken in, should be kept inpreference to others of equal value. Thus:&mdash;If you are obliged to discard an ace or a kingfrom an ace, king suit, discard the ace, as youmay take in so as to hold a sequence to aking; if you discard the king you cannot holda major sequence in that suit. But other con-siderations may cause you to select the king.Looking again at A's hand, p. 103, it will beseen that A throws the king in preference to theace. His reason is that he has two aces andonly one king; he may take in aces to form atrio or quatorze.
+Cards in sequence, or that may form a se-quence with those taken in, should be kept inpreference to others of equal value. Thus:-If you are obliged to discard an ace or a kingfrom an ace, king suit, discard the ace, as youmay take in so as to hold a sequence to aking; if you discard the king you cannot holda major sequence in that suit. But other con-siderations may cause you to select the king.Looking again at A's hand, p. 103, it will beseen that A throws the king in preference to theace. His reason is that he has two aces andonly one king; he may take in aces to form atrio or quatorze.
 
-Again:&mdash;Queen, knave, ten is a better suit tokeep than king, knave, ten, unless it is deemedadvisable to hold a king rather than a queen. Itis generally right to retain a virgin tierce to aqueen, especially younger hand, unless you seea chance of a great score in other suits.
+Again:-Queen, knave, ten is a better suit tokeep than king, knave, ten, unless it is deemedadvisable to hold a king rather than a queen. Itis generally right to retain a virgin tierce to aqueen, especially younger hand, unless you seea chance of a great score in other suits.
 
-Trios should be kept if they can be retainedwithout injuring the hand in other respects.Thus:&mdash;If about to discard a king or a queenof a suit, and you have two other kings, discardthe queen; but if you have two other queens,discard the king.
+Trios should be kept if they can be retainedwithout injuring the hand in other respects.Thus:-If about to discard a king or a queenof a suit, and you have two other kings, discardthe queen; but if you have two other queens,discard the king.
 
 It is seldom advisable to put out a high cardfor the sake of keeping a low trio, especiallywhen there is a higher one or a quatorze againstyou. Many a hand is ruined by going for qua-torzes of knaves or tens.
 
@@ -1558,9 +904,9 @@ CALCULATIONS.
 
 The Piquet student should be acquainted withthe following odds.
 
-The odds that the elder hand (if he takes allhis cards) will take in&mdash;</p><table class="calibre8"><tr class="calibre9"><td class="calibre10"><p class="calibre5">One named card</p></td><td class="calibre10"><p class="calibre5">are</p></td><td class="calibre10"><p class="calibre5">3 to I</p></td><td class="calibre10"><p class="calibre5">against him</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Two ,, cards</p></td><td class="calibre10"><p class="calibre5">are .</p></td><td class="calibre10"><p class="calibre5">18 to I</p></td><td class="calibre10"><p class="calibre5"></p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Three „</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">113 to I</p></td><td class="calibre10"><p class="calibre5"></p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Four ,, ,</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">968 to I</p></td><td class="calibre10"><p class="calibre5"></p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Five ,, ,</p></td><td class="calibre10"><p class="calibre5">.</p></td><td class="calibre10"><p class="calibre5">15503 to I</p></td><td class="calibre10"><p class="calibre5"></p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">One card (at least) of two named cards</p></td><td class="calibre10"><p class="calibre5">are 5 to 4</p></td><td class="calibre10"><p class="calibre5"></p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">One ,,</p></td><td class="calibre10"><p class="calibre5">„ three ,,</p></td><td class="calibre10"><p class="calibre5">3 to 2 on him</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Two cards ,,</p></td><td class="calibre10"><p class="calibre5">,, ,, ,,</p></td><td class="calibre10"><p class="calibre5">6 to I</p></td><td class="calibre10"><p class="calibre5">against him</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">One card ,,</p></td><td class="calibre10"><p class="calibre5">,, four ,,</p></td><td class="calibre10"><p class="calibre5">5 to 2</p></td><td class="calibre10"><p class="calibre5">on him</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Two cards ,,</p></td><td class="calibre10"><p class="calibre5">,, ,, ,,</p></td><td class="calibre10"><p class="calibre5">' 3 to I</p></td><td class="calibre10"><p class="calibre5">against him</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Three cards ,,</p></td><td class="calibre10"><p class="calibre5">,, ,, ,,</p></td><td class="calibre10"><p class="calibre5">33 to 1</p></td><td class="calibre10"><p class="calibre5">,,</p></td></tr></table><p class="calibre5">PIQUET.
+The odds that the elder hand (if he takes allhis cards) will take in-</p><table class="calibre8"><tr class="calibre9"><td class="calibre10"><p class="calibre5">One named card</p></td><td class="calibre10"><p class="calibre5">are</p></td><td class="calibre10"><p class="calibre5">3 to I</p></td><td class="calibre10"><p class="calibre5">against him</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Two ,, cards</p></td><td class="calibre10"><p class="calibre5">are .</p></td><td class="calibre10"><p class="calibre5">18 to I</p></td><td class="calibre10"><p class="calibre5"></p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Three „</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">113 to I</p></td><td class="calibre10"><p class="calibre5"></p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Four ,, ,</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">968 to I</p></td><td class="calibre10"><p class="calibre5"></p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Five ,, ,</p></td><td class="calibre10"><p class="calibre5">.</p></td><td class="calibre10"><p class="calibre5">15503 to I</p></td><td class="calibre10"><p class="calibre5"></p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">One card (at least) of two named cards</p></td><td class="calibre10"><p class="calibre5">are 5 to 4</p></td><td class="calibre10"><p class="calibre5"></p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">One ,,</p></td><td class="calibre10"><p class="calibre5">„ three ,,</p></td><td class="calibre10"><p class="calibre5">3 to 2 on him</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Two cards ,,</p></td><td class="calibre10"><p class="calibre5">,, ,, ,,</p></td><td class="calibre10"><p class="calibre5">6 to I</p></td><td class="calibre10"><p class="calibre5">against him</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">One card ,,</p></td><td class="calibre10"><p class="calibre5">,, four ,,</p></td><td class="calibre10"><p class="calibre5">5 to 2</p></td><td class="calibre10"><p class="calibre5">on him</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Two cards ,,</p></td><td class="calibre10"><p class="calibre5">,, ,, ,,</p></td><td class="calibre10"><p class="calibre5">' 3 to I</p></td><td class="calibre10"><p class="calibre5">against him</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Three cards ,,</p></td><td class="calibre10"><p class="calibre5">,, ,, ,,</p></td><td class="calibre10"><p class="calibre5">33 to 1</p></td><td class="calibre10"><p class="calibre5">,,</p></td></tr></table><p class="calibre5">PIQUET.
 
-The odds that the younger hand (if he takes allhis cards) will take in&mdash;
+The odds that the younger hand (if he takes allhis cards) will take in-
 
 One named card are . . . 17 to 3 against him
 
@@ -1578,15 +924,15 @@ One card ,, ,, four ,, 29 to 28 on him
 
 These calculations properly applied will directthe player in discarding.
 
-Thus:&mdash;It is 3 to I that the elder hand does nottake in a named card. It is, therefore,-more advan-tageous to carry the best suit for point, and highcards for the chance of the cards, than to throwout any of these in hopes of taking in a card tocomplete a quatorze of queens, knaves, or tens{see Examples III., IV., and Y., pp. 127-130,
+Thus:-It is 3 to I that the elder hand does nottake in a named card. It is, therefore,-more advan-tageous to carry the best suit for point, and highcards for the chance of the cards, than to throwout any of these in hopes of taking in a card tocomplete a quatorze of queens, knaves, or tens{see Examples III., IV., and Y., pp. 127-130,
 
 The odds against taking in two or more namedcards, or two of three named cards, elder hand, areso considerable, that, except in desperate cases,good cards should not be discarded on such aspeculation. But the odds are very slight againsttaking one at least of two named cards, or two atleast of four named cards ; and they are in favourof taking one at least of three or four named cards.
 
-To apply these :&mdash;If the elder hand has a quartmajor and two other aces dealt him, the odds thathe' will take in either the ten to his quart, or theother ace, are only 5 to 4 against him.
+To apply these :-If the elder hand has a quartmajor and two other aces dealt him, the odds thathe' will take in either the ten to his quart, or theother ace, are only 5 to 4 against him.
 
 PIQUET. 123
 
-Again:&mdash;If the elder hand carries three aces andthree kings, the odds against his taking either theother ace or the other king are only 5 to 4 against him.
+Again:-If the elder hand carries three aces andthree kings, the odds against his taking either theother ace or the other king are only 5 to 4 against him.
 
 If the elder hand has a quatorze dealt him, andthere is only one superior quatorze against him, heshould, as a rule, keep the quatorze, as the oddsthat he will take in one card at least of four namedcards are 5 to 2 in his favour. But this rule mayrequire reconsideration, with a low quatorze, if, tokeep it, cards must be put out that in other waysspoil the hand, as, by compelling the player todiscard from point or sequence, or to put out highcards that risk the loss of the cards, or of a capot.
 
@@ -1604,7 +950,7 @@ The odds against the younger hand's taking ineven one named card are so consider
 
 It is only 5 to 2 against the younger hand's takingin one, at least, of two named cards. Hence, insome cases, he would discard on this chance {seeExample XVIII., p. 139; and Example XXXII.,p. 150).
 
-Again :&mdash;It is only 3 to 2 against the youngerhand's taking in one, at least, of three namedcards. Therefore, if he must take in one of threecards to save a pique or a repique, it would beright for him to discard for this chance, even if, inorder to do so, he must put out a valuable card,as a king, or one of his point. (For a further illus-tration of this calculation, see Example XXXI.,p. 149.)
+Again :-It is only 3 to 2 against the youngerhand's taking in one, at least, of three namedcards. Therefore, if he must take in one of threecards to save a pique or a repique, it would beright for him to discard for this chance, even if, inorder to do so, he must put out a valuable card,as a king, or one of his point. (For a further illus-tration of this calculation, see Example XXXI.,p. 149.)
 
 It is 29 to 28 in favour of the younger hand'staking in one of four named cards. So, having noace dealt him, he may calculate on taking in at
 
@@ -1836,7 +1182,7 @@ PIQUET.
 
 137
 
-The following case applies to the youngerhand:&mdash;</p>
+The following case applies to the youngerhand:-</p>
 <div class="calibre7">
 <img alt="Picture #17" src="images/000023.jpg" class="calibre1" />
 </div>
@@ -1982,7 +1328,7 @@ Example XXVILDiscarding for a qiiatorze.</p>
 <div class="calibre7">
 <img alt="Picture #30" src="images/000041.jpg" class="calibre1" />
 </div>
-<p class="calibre5">The proper discard, elder hand, seems to bequart minor in spades and ace of clubs, for thefollowing reasons :&mdash;It is only 5 to 4 against takingqueen or knave of spades. There are also twocombinations in diamonds (viz., ace, ten; or ten,nine), either of which gives the elder hand aquint; and, all these circumstances being con-sidered, there is a probability of a good scoreby discarding as proposed. On the other hand,if the elder hand discards the four spades only,he may leave one of the following cards : king ofclubs, ace of diamonds, or, ace, queen, or knaveof spades; and in any of these cases he would,
+<p class="calibre5">The proper discard, elder hand, seems to bequart minor in spades and ace of clubs, for thefollowing reasons :-It is only 5 to 4 against takingqueen or knave of spades. There are also twocombinations in diamonds (viz., ace, ten; or ten,nine), either of which gives the elder hand aquint; and, all these circumstances being con-sidered, there is a probability of a good scoreby discarding as proposed. On the other hand,if the elder hand discards the four spades only,he may leave one of the following cards : king ofclubs, ace of diamonds, or, ace, queen, or knaveof spades; and in any of these cases he would,
 
 L
 
@@ -2094,7 +1440,7 @@ CALLING THE POINT.
 
 You should not thoughtlessly call your bestsuit for point, when you have two points. Youshould consider which of the two it is to youradvantage to declare.
 
-For example:&mdash;You (elder hand) have king,queen, knave, eight of hearts; and ace, queen,ten, eight of clubs. You call four cards, allowedto be good. You propose to attack in hearts;you should therefore declare that suit for point.
+For example:-You (elder hand) have king,queen, knave, eight of hearts; and ace, queen,ten, eight of clubs. You call four cards, allowedto be good. You propose to attack in hearts;you should therefore declare that suit for point.
 
 PIQUET. 153
 
@@ -2106,9 +1452,9 @@ You know, or ought to know, that thirty-eight,in hearts, is good against the car
 
 It may be asked, If you know your point isgood, why not declare it at once?
 
-The answer is that, when you may hold thesame number of cards in more than one suit, itis generally advisaj^le to call the number of cardsof your point, even though good against the cards,in hopes of compelling your adversary to discoversome portion of his hand or discard by his reply.Thus:&mdash;You have forty-seven in one suit, andmight have had forty-five in another. The bestpoint the younger hand can hold is forty-six. Ifto your call of "Five cards" he repHes, "Equal,"you know five cards in his hand; if he replies,"Good," you know he has discarded from hispoint.
+The answer is that, when you may hold thesame number of cards in more than one suit, itis generally advisaj^le to call the number of cardsof your point, even though good against the cards,in hopes of compelling your adversary to discoversome portion of his hand or discard by his reply.Thus:-You have forty-seven in one suit, andmight have had forty-five in another. The bestpoint the younger hand can hold is forty-six. Ifto your call of "Five cards" he repHes, "Equal,"you know five cards in his hand; if he replies,"Good," you know he has discarded from hispoint.
 
-Again: &mdash; If any four-card point which theyounger hand can hold must be good, and youhave a point of thirty-one, you should call threecards, though holding four. You may thus induce
+Again: - If any four-card point which theyounger hand can hold must be good, and youhave a point of thirty-one, you should call threecards, though holding four. You may thus induce
 
 154 PIQUET.
 
@@ -2118,13 +1464,13 @@ REPLYING TO THE CALL OF POINT.
 
 When you are younger hand, and the elder callsa number of cards for point, equal to yours, youshould not declare the equality if his point mustbe good.
 
-Thus:&mdash;The elder hand calls, "Five cards." Youhave already noted that the only five-card suit hecan hold is ace, queen, knave, ten, eight of hearts,making forty-nine. Your five-card suit (ace, queen,knave, ten, seven) only makes forty-eight Youshould not reply, " Equal" to the call of five cards,but should at once allow five cards to be good.
+Thus:-The elder hand calls, "Five cards." Youhave already noted that the only five-card suit hecan hold is ace, queen, knave, ten, eight of hearts,making forty-nine. Your five-card suit (ace, queen,knave, ten, seven) only makes forty-eight Youshould not reply, " Equal" to the call of five cards,but should at once allow five cards to be good.
 
 When you reply, " Not good" to a point, youshould at the same time observe in which suitthe call is.
 
-For example: &mdash; Elder hand calls five cards.You have already seen that the only five-cardpoint he can hold is in hearts. You, therefore,know five cards in his hand ; this knowledge maybe of great use to you in playing the cards.
+For example: - Elder hand calls five cards.You have already seen that the only five-cardpoint he can hold is in hearts. You, therefore,know five cards in his hand ; this knowledge maybe of great use to you in playing the cards.
 
-Or: &mdash; Elder hand calls five cards which areequal. He may then decline to say what theymake, if he knows your five cards must be betterthan his. Nevertheless, if he can only hold onefive-card point, you know what the cards are.Or, he may declare that his cards make, say.
+Or: - Elder hand calls five cards which areequal. He may then decline to say what theymake, if he knows your five cards must be betterthan his. Nevertheless, if he can only hold onefive-card point, you know what the cards are.Or, he may declare that his cards make, say.
 
 PIQUET.
 
@@ -2132,7 +1478,7 @@ PIQUET.
 
 forty-four. Forty-four is not good; all the same,you know that his point consists of five cards,without an ace, and ending in a tierce minor.You will thus probably be able to tell five cardsin your opponent's hand.
 
-The following table, if learnt by heart, willfacilitate a knowledge of the cards of a pointwhich is not good :&mdash;
+The following table, if learnt by heart, willfacilitate a knowledge of the cards of a pointwhich is not good :-
 
 A point of 34 must contain35 „„ 36 „
 
@@ -2172,7 +1518,7 @@ A point of 34 must contain35 „„ 36 „
 
 9, two tenth cards, and an ace.three tenth cards and an ace.
 
-For points from forty-four to fifty-one it is onlynecessary to add a tenth card to these. Forexample:&mdash;A point of forty-eight must containeight, and four tenth cards; eight, nine, two tenthcards, and an ace; or seven, three tenth cards,and an ace. Fifty can only be made in oneway, viz., with nine, three tenth cards, and an
+For points from forty-four to fifty-one it is onlynecessary to add a tenth card to these. Forexample:-A point of forty-eight must containeight, and four tenth cards; eight, nine, two tenthcards, and an ace; or seven, three tenth cards,and an ace. Fifty can only be made in oneway, viz., with nine, three tenth cards, and an
 
 156 PIQUET.
 
@@ -2182,7 +1528,7 @@ CALLING SEQUENCES.
 
 When, elder hand, you have called a point,which is equal, or not good, and you can con-sequently tell that your sequence in some othersuit is not good, you should not call any se-quence.
 
-For instance:&mdash;Your point is forty-one, viz.,ace, king, queen, ten of spades. It is not good.The only better point against you is quart majorand one small diamond. Your best sequence isa quart to a queen in hearts. You should notcall the quart, as it cannot be good or equal,and by calling it you only expose your hand.By not calling it, you leave it doubtful whetheryou have put out any hearts ; and this may beof use to you in playing the cards.
+For instance:-Your point is forty-one, viz.,ace, king, queen, ten of spades. It is not good.The only better point against you is quart majorand one small diamond. Your best sequence isa quart to a queen in hearts. You should notcall the quart, as it cannot be good or equal,and by calling it you only expose your hand.By not calling it, you leave it doubtful whetheryou have put out any hearts ; and this may beof use to you in playing the cards.
 
 SINKING.
 
@@ -2198,13 +1544,13 @@ You should be on your guard against thismanoeuvre (called sinking). It is especi
 
 Your adversary, for instance, is a player whorarely discards from his point. He calls fivecards (good against the cards), and declares fivespades, when he might have six. You shouldimmediately suspect that he may be sinking acard of his point, and should not hesitate toattack him in another suit from which he islikely to have discarded, and in which you havea tenace. The game being for him to keep hisother suits unbroken, you will probably find himunguarded in the suit he has discarded.
 
-Or:&mdash;Your adversary may hold a tierce in asuit other than his point. The tierce is good,or equal, and he does not call it. He mayhave put it out; or, he may be unguarded some-where, and calling the tierce would render thisevident; or, he may wish you to attack him inthe suit in which he holds the tierce, and may
+Or:-Your adversary may hold a tierce in asuit other than his point. The tierce is good,or equal, and he does not call it. He mayhave put it out; or, he may be unguarded some-where, and calling the tierce would render thisevident; or, he may wish you to attack him inthe suit in which he holds the tierce, and may
 
 PIQUET.
 
 be trying to make you think he has put outthat suit
 
-Again:&mdash;He may have a quart to a knave, andmay only call a tierce to a knave, which is good,or equal. Or, he may have a trio which he doesnot call; or, a quatorze, and may only call a trio.
+Again:-He may have a quart to a knave, andmay only call a tierce to a knave, which is good,or equal. Or, he may have a trio which he doesnot call; or, a quatorze, and may only call a trio.
 
 It will be for you to judge of the probabilitiesin these and similar cases, and to act accordingly.You should especially suspect an experiencedplayer of concealing cards which, if called, wouldreveal weakness, affecting the play of the cards,in other places.
 
@@ -2214,11 +1560,11 @@ EXAMPLES OF SINKING.
 
 Example I.
 
-The elder hand, having put out three smallhearts and two small clubs, holds the followingcards :&mdash;</p>
+The elder hand, having put out three smallhearts and two small clubs, holds the followingcards :-</p>
 <div class="calibre7">
 <img alt="Picture #37" src="images/000032.jpg" class="calibre1" />
 </div>
-<p class="calibre5">His point and quart major are admitted to begood. He then proceeds to call a tierce to aking in diamonds (sinking the ten of diamonds&mdash;
+<p class="calibre5">His point and quart major are admitted to begood. He then proceeds to call a tierce to aking in diamonds (sinking the ten of diamonds-
 
 PIQUET. 159
 
@@ -2256,7 +1602,7 @@ A coup such as this will generally succeed inpractice; but it is difficult to se
 
 B is in a very awkward position. Probablyhis best game is to keep the clubs, as then hesaves the capot, unless A has thrown four clubsand a spade, a most unlikely discard.
 
-When put to a card, the general rule is to countthe cards remaining against {see pp. 170, 171).There is one other consideration, viz., what cardsthe adversary cannot in reason have discarded.Thus:&mdash;If a player might have a quart which hedoes not call, and his hand is such that it wouldhave been very bad play to discard from a quart,the presumption is he did not go out with thequart originally, and therefore that he has takenin to that suit {co?iipare Example IV., pp. 162, 163).
+When put to a card, the general rule is to countthe cards remaining against {see pp. 170, 171).There is one other consideration, viz., what cardsthe adversary cannot in reason have discarded.Thus:-If a player might have a quart which hedoes not call, and his hand is such that it wouldhave been very bad play to discard from a quart,the presumption is he did not go out with thequart originally, and therefore that he has takenin to that suit {co?iipare Example IV., pp. 162, 163).
 
 M
 
@@ -2332,7 +1678,7 @@ PLAYING THE CARDS.
 
 COUNTING THE HAND.
 
-In playing the cards, you must be guided agood deal by what your adversary has called,and also, to some extent, by what he has notcalled (but see Sinking, pp. 156-165). You willgenerally know several cards in the adverse hand,or will be able to mark some that have beenput out; sometimes you will know all the cards,especially after some of the tricks have beenplayed. For instance : &mdash; If the younger handfails to follow suit to your first lead of a suitof which you could only have five cards, it isevident he has put out three of that suit. Youthen know every card in his hand, and shouldregulate your play accordingly.
+In playing the cards, you must be guided agood deal by what your adversary has called,and also, to some extent, by what he has notcalled (but see Sinking, pp. 156-165). You willgenerally know several cards in the adverse hand,or will be able to mark some that have beenput out; sometimes you will know all the cards,especially after some of the tricks have beenplayed. For instance : - If the younger handfails to follow suit to your first lead of a suitof which you could only have five cards, it isevident he has put out three of that suit. Youthen know every card in his hand, and shouldregulate your play accordingly.
 
 In default of actual knowledge of the contentsof'your opponent's hand, you should count hiscards so far as he has called them, and shouldconsider what cards he is least likely to havediscarded. You then mentally assign to him thecards he has most probably kept, and so fill uphis number {see Examples I. and II., pp. 175-177).
 
@@ -2342,11 +1688,11 @@ HABIT OF ADVERSARY.
 
 You should also take into account the personalhabit of your adversary in discarding, calling, andplaying.
 
-For instance:&mdash;Some players habitually makebold discards, and throw entire suits. Theseare often found unguarded. Others, on the con-trary, are timid discarders. These are generallyguarded, even elder hand. The timid discarderis apt to leave a card, or to put out one of hispoint, in order to keep himself guarded. In thelatter case he may, if unguarded, have sunk acard; but timid players seldom sink anything,except in very pronounced cases.
+For instance:-Some players habitually makebold discards, and throw entire suits. Theseare often found unguarded. Others, on the con-trary, are timid discarders. These are generallyguarded, even elder hand. The timid discarderis apt to leave a card, or to put out one of hispoint, in order to keep himself guarded. In thelatter case he may, if unguarded, have sunk acard; but timid players seldom sink anything,except in very pronounced cases.
 
 The same division of players into bold andtimid applies to their play of the cards. A timidplayer, for example, will never give away a chanceif he can make sure of dividing the cards. Againstsuch an adversary it would be useless to unguarda king in play (as in Examples III. and IV.,pp. 178-180), because, when he finds himself withfive tricks and an ace in hand, he is certain todash out the ace.
 
-Some, again, always throw high cards whenattacked in suits in which they are guarded, inorder to induce the leader to continue the suit.Thus:&mdash;With queen, nine, eight, they will throwthe nine to the ace. If a player, who habituallydoes this, plays the eight to the ace, you mayconclude he has not got the nine, and that heis unguarded.
+Some, again, always throw high cards whenattacked in suits in which they are guarded, inorder to induce the leader to continue the suit.Thus:-With queen, nine, eight, they will throwthe nine to the ace. If a player, who habituallydoes this, plays the eight to the ace, you mayconclude he has not got the nine, and that heis unguarded.
 
 168 PIQUET.
 
@@ -2364,9 +1710,9 @@ You should next lead a small heart, not thequeen. You thus discover w^hether the
 
 If your adversary has not called kings, and itis possible that he has discarded a king, yoursecond lead should be queen of hearts, as youmay find the knave single against you.
 
-Again:&mdash;Several tricks have been played, andyou are in doubt what to lead. You have asuit headed by ace, king. You would generallybe right to lead the ace, in order to see onemore card before determining on your subsequenttactics. This point of play is of more importancethan at first sight appears. It will be incidentallynoticed in the Examples.
+Again:-Several tricks have been played, andyou are in doubt what to lead. You have asuit headed by ace, king. You would generallybe right to lead the ace, in order to see onemore card before determining on your subsequenttactics. This point of play is of more importancethan at first sight appears. It will be incidentallynoticed in the Examples.
 
-Conversely, you should play so as to avoidgiving information. Thus:-&mdash;When you have thechoice of throwing a card you have called, orone you have not, you should prefer the former.
+Conversely, you should play so as to avoidgiving information. Thus:--When you have thechoice of throwing a card you have called, orone you have not, you should prefer the former.
 
 PIQUET. 169
 
@@ -2398,7 +1744,7 @@ PLAYING TO SAVE A CAPOT.
 
 When you are put to a card {i.e., when youradversary has won eleven tricks and you remainwith two cards, and are in doubt which of themto keep), you should keep the card of the suitof which the greater number is against you.
 
-For example:&mdash;You remain with ace of spadesand ace of hearts, and have to play one of themto a club or a diamond led. By counting all thecards played, and your discard, you find that there
+For example:-You remain with ace of spadesand ace of hearts, and have to play one of themto a club or a diamond led. By counting all thecards played, and your discard, you find that there
 
 PIQUET, 171
 
@@ -2416,9 +1762,9 @@ If, however, one trick does not make the dif-ference of saving, or winning, the 
 
 172 PIQUET.
 
-you can tell that the adversary has none of thesuit to which your winning card belongs. Forinstance:&mdash;You remain with ace, queen of a suit,and the lead; and there is nothing in the previouscall or play to show that your adversary does nothold the king guarded. The presumption, then,is that he has the king guarded, and you shouldlead the queen, in hopes of making the last trick.
+you can tell that the adversary has none of thesuit to which your winning card belongs. Forinstance:-You remain with ace, queen of a suit,and the lead; and there is nothing in the previouscall or play to show that your adversary does nothold the king guarded. The presumption, then,is that he has the king guarded, and you shouldlead the queen, in hopes of making the last trick.
 
-These rules are liable to modification in conse-quence of the state of the score. For example:&mdash;Although the rule is to make sure of the cards,nevertheless, when one point saves the rubicon,or wins or saves the partie, you should risk thecards for the sake of the last trick. Again :&mdash;Ifyou are elder hand and have the best of the partie,and can ensure dividing the cards, you shouldnever risk the loss of them; but, if the youngerhand has the best of the partie, it is often to yourinterest, as elder, to risk the loss of the cards,if, by so doing, you obtain a chance of winningthem.
+These rules are liable to modification in conse-quence of the state of the score. For example:-Although the rule is to make sure of the cards,nevertheless, when one point saves the rubicon,or wins or saves the partie, you should risk thecards for the sake of the last trick. Again :-Ifyou are elder hand and have the best of the partie,and can ensure dividing the cards, you shouldnever risk the loss of them; but, if the youngerhand has the best of the partie, it is often to yourinterest, as elder, to risk the loss of the cards,if, by so doing, you obtain a chance of winningthem.
 
 For an instance of playing to divide the cards,see Example XL, p. 189.
 
@@ -2780,7 +2126,7 @@ In one case, the score in play is A, two; B, three.In the other, it is A, three;
 
 A's proper lead depends on the score {seepp. 172, 173).
 
-Again:&mdash;A has tierce major, and two smallspades; and, king, queen of diamonds.
+Again:-A has tierce major, and two smallspades; and, king, queen of diamonds.
 
 B has called four knaves and three aces.
 
@@ -2798,7 +2144,7 @@ If B throws the king of spades to the ace, Acan only score to ninety-nine.
 
 If B throws the ten to the ace, each playermakes one more point in play.
 
-The card for B to play to the ace depends onthe score Thus:&mdash;If B requires four points to
+The card for B to play to the ace depends onthe score Thus:-If B requires four points to
 
 192 PIQUET.
 
@@ -2874,7 +2220,7 @@ B's point is in hearts. A can score thirteenby in and out play, unless B has thr
 
 A leads seven of hearts; B plays the nine.If, instead of the seven, A leads ace, king ofhearts, as he probably would in an ordinaryhand, he cannot reckon thirteen in play.
 
-B leads anything&mdash;say, queen of hearts. Awins with the king, and leads ace, eight of hearts.It is compulsory on A to lead eight of heartsafter the ace.
+B leads anything-say, queen of hearts. Awins with the king, and leads ace, eight of hearts.It is compulsory on A to lead eight of heartsafter the ace.
 
 B wins the eight of hearts, and next leads aclub, which A wins.
 
@@ -2972,7 +2318,7 @@ A, in pursuance of his tactics, calls four kingsand three aces (not reckoning th
 
 A leads his four diamonds. To three of thediamonds B plays nine of spades, eight of hearts,and seven of clubs. B has now to play one othercard. If he believes the ace of clubs to be out,he will naturally throw the nine of clubs. If hedoes so, he is capoted.
 
-The scores will then be:&mdash;A, seventeen in hand,thirteen in play, and forty for the cards and capot;total, seventy. This, added to his former score offorty-three, makes him a hundred and thirteen.B scores eight, making him ninety-eight. A winsa rubicon of three hundred and eleven.
+The scores will then be:-A, seventeen in hand,thirteen in play, and forty for the cards and capot;total, seventy. This, added to his former score offorty-three, makes him a hundred and thirteen.B scores eight, making him ninety-eight. A winsa rubicon of three hundred and eleven.
 
 PIQUET.
 
@@ -3026,9 +2372,9 @@ THE SHOW.
 
 The Show, elder hand (when small cards arecounted in play), is twenty-eight; younger hand isfourteen. That is, it is about an even chance theelder hand will score twenty-eight or more, andthat the younger hand will score fourteen or more.
 
-The above results have been obtained empiri-cally thus :&mdash;
+The above results have been obtained empiri-cally thus :-
 
-In 10,000 hands&mdash;</p><table class="calibre8"><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">The Elder Hand scored</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">28 or more</p></td><td class="calibre10"><p class="calibre5">27 or less</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Times</p></td><td class="calibre10"><p class="calibre5">5129</p></td><td class="calibre10"><p class="calibre5">4871</p></td></tr></table><p class="calibre5">It is therefore slightly in favour of a score of atleast twenty-eight, elder hand.In 10,000 hands-&mdash;■</p><table class="calibre8"><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">The Younger Hand scored</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">14 or more i 13 or less
+In 10,000 hands-</p><table class="calibre8"><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">The Elder Hand scored</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">28 or more</p></td><td class="calibre10"><p class="calibre5">27 or less</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Times</p></td><td class="calibre10"><p class="calibre5">5129</p></td><td class="calibre10"><p class="calibre5">4871</p></td></tr></table><p class="calibre5">It is therefore slightly in favour of a score of atleast twenty-eight, elder hand.In 10,000 hands--■</p><table class="calibre8"><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">The Younger Hand scored</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">14 or more i 13 or less
 
 j 1</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Times</p></td><td class="calibre10"><p class="calibre5">4997 5003</p></td></tr></table><p class="calibre5">PIQUET.
 
@@ -3038,7 +2384,7 @@ The show, when small cards are not countedin play (as was formerly the case), is
 
 ODDS AT VARIOUS SCORES.
 
-The odds at various scores may be deducedapproximately from the following tables :&mdash;
+The odds at various scores may be deducedapproximately from the following tables :-
 
 In 10,000 Hands, the Elder Hand scored
 
@@ -3136,9 +2482,9 @@ o
 
 o
 
-To Work the Tables.&mdash;Add together all thehands which score less than the amount, required;and separately add together all the hands whichscore the number required or more. The sumof the one, as against that of the other, will givethe required odds approximately.
+To Work the Tables.-Add together all thehands which score less than the amount, required;and separately add together all the hands whichscore the number required or more. The sumof the one, as against that of the other, will givethe required odds approximately.
 
-Examples.&mdash;(i). It is the last hand of a partie.The elder hand is 90. Required the odds infavour of his saving the rubicon.
+Examples.-(i). It is the last hand of a partie.The elder hand is 90. Required the odds infavour of his saving the rubicon.
 
 The odds are 9023 to 977, or nearly 9^ to ithat he will score 10 or more.
 
@@ -3158,9 +2504,9 @@ The odds are 7280 to 2720, or about 8 to 3in his favour.
 
 The odds given by the table are 9966 to 34,or 293 to I. The elder hand must get a repiqueand capot to win. In a few cases, the youngerhand may score a quatorze, when he may win, not-withstanding the elder hand's repique and capot.Making a full allowance for this contingency, theodds are about 290 to i.
 
-(6). In less desperate cases, the calculation ofthe odds becomes rather more complicated, as theconsideration of the score made by the youngerhand has to be taken into account. Thus :&mdash;Itis required to find the odds that the elder handwill score 90 more than the younger.
+(6). In less desperate cases, the calculation ofthe odds becomes rather more complicated, as theconsideration of the score made by the youngerhand has to be taken into account. Thus :-Itis required to find the odds that the elder handwill score 90 more than the younger.
 
-This cannot be discovered from the tables; butit may be approximated to as follows :&mdash;
+This cannot be discovered from the tables; butit may be approximated to as follows :-
 
 Including the cases in which the elder scoresbetween 90 and 100, the odds against him are
 
@@ -3182,7 +2528,7 @@ The tables necessarily neglect variations which may arise in consequence of disc
 
 2o8 PIQUET.
 
-The odds found by the tables can only be re-garded as approximate odds, and as less than thetrue odds against a player who has to gain a pointfor which he especially strives. For instance:&mdash;The elder hand wanting 29 to get out, and seeingit on the cards to make that number, might dis-card, or play the cards, accordingly. On the otherhand, the odds may be more than the true oddsagainst a player v/ho has the partie well in hand,and who is only scheming to keep his adversaryback, as, e.g.^ when the elder hand sacrifices apique in order to win or to divide the cards.
+The odds found by the tables can only be re-garded as approximate odds, and as less than thetrue odds against a player who has to gain a pointfor which he especially strives. For instance:-The elder hand wanting 29 to get out, and seeingit on the cards to make that number, might dis-card, or play the cards, accordingly. On the otherhand, the odds may be more than the true oddsagainst a player v/ho has the partie well in hand,and who is only scheming to keep his adversaryback, as, e.g.^ when the elder hand sacrifices apique in order to win or to divide the cards.
 
 ODDS IRRESPECTIVE OF THE TABLES,.
 
