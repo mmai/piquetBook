@@ -1,0 +1,9 @@
+site_name: Treatise on piquet
+pages:
+  - Laws of Piquet: lawsOfPiquet.md
+  - Historical: historical.md
+  - To translate: index.md
+theme: readthedocs
+docs_dir: src/
+site_dir: html/
+
