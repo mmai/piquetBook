@@ -258,69 +258,50 @@ When a chouette is played, the totals of each partie are recorded on a separate 
 
 ### Shuffling
 
-The pack should be thoroughly shuffled after every hand. Owing to the nature of the game,cards of the same suit are often played together.Thus : A has a sixième major in spades; B, a sixieme minor in hearts. A puts down his sixieme, and says, "Play six cards." B has no spade, and plays his sixième minor. A then, seeing he cannot win another trick, lays down the remainder of his sorted hand; on these cards B places the remainder of his sorted hand. Each scores seven in play. If the cards are now taken up together and are not well shuffled, the consequence will be that,when this pack is dealt again, the sixiemes will be pretty equally divided between the players, and the cards in the stock will run in suits; or if the pack is so cut that one of the sixièmes is at or near the bottom, those cards will form the major part of the stock. Even if the cards are moderately shuffled,the cards will have a tendency to keep together in suits, as any one may convince himself by giving an ordinary shuffle to a sorted pack, and then turning it face upwards.
+The pack should be thoroughly shuffled after every hand. Owing to the nature of the game,cards of the same suit are often played together.Thus : A has a sixième major in spades; B, a sixième minor in hearts. A puts down his sixième, and says, "Play six cards." B has no spade, and plays his sixième minor. A then, seeing he cannot win another trick, lays down the remainder of his sorted hand; on these cards B places the remainder of his sorted hand. Each scores seven in play. If the cards are now taken up together and are not well shuffled, the consequence will be that,when this pack is dealt again, the sixièmes will be pretty equally divided between the players, and the cards in the stock will run in suits; or if the pack is so cut that one of the sixièmes is at or near the bottom, those cards will form the major part of the stock. Even if the cards are moderately shuffled,the cards will have a tendency to keep together in suits, as any one may convince himself by giving an ordinary shuffle to a sorted pack, and then turning it face upwards.
 
-DEALING.
+### Dealing
 
 The player who cuts the higher card should elect to deal. There is a slight advantage in having the first deal. The player who deals first is elder hand in the last deal of the partie, and is therefore the attacking hand when he has the best opportunity of discarding, or of playing, to the score.
 
-MANAGEMENT OF THE STOCK.
+### Management of the stock
 
-After dealing, count the cards in the stock (and see Laws 10, 11, 12, 39, 40, 41, 42, and 43). Place the stock face downwards on the table, in one packet (Law 9). Some dealers separate the stock into packets of three and five. The elder handshould always object to this, as, if he takes up acard he is not entitled to see (which he mightreadily do if the packets happen to be separatedwrongly), he can reckon nothing that deal.
+After dealing, count the cards in the stock (and see Laws 10, 11, 12, 39, 40, 41, 42, and 43). Place the stock face downwards on the table, in one packet (Law 9). Some dealers separate the stock into packets of three and five. The elder hand should always object to this, as, if he takes up a card he is not entitled to see (which he might readily do if the packets happen to be separated wrongly), he can reckon nothing that deal.
 
-TAKING UP THE HAND.
+### Taking up the hand
 
-On taking up your hand, count that it containsthe right number of cards; if not, announce thefact (and see Laws 11, 38, 39), While countingand sorting your cards, look for carte blanche.
+On taking up your hand, count that it contains the right number of cards; if not, announce the fact (and see Laws 11, 38, 39), While counting and sorting your cards, look for carte blanche.
 
-Your next step is to decide on your discard.{See Discarding, pp. 116-151.)
+Your next step is to decide on your discard.(See Discarding)
 
-TAKING IN.
+### Taking in
 
-Having discarded, you proceed to take in.When taking in, always count that you leave thefull number of cards for the younger hand, the
+Having discarded, you proceed to take in.When taking in, always count that you leave the full number of cards for the younger hand, the penalty for mixing one of his cards with your hand being that you can reckon nothing that deal; and this even if there is an erroneous deal,and there are not the right number of cards in the stock. The best method is to draw the stock towards you, at the same time spreading it slightly,when you can easily count the stock before taking up a card.
 
-PIQUET. 109
+The younger hand, before taking in, should also count that the proper number of cards are left in the stock; if too many are left, and the younger hand mixes one of his opponent's cards with his hand, he can reckon nothing that deal.
 
-penalty for mixing one of his cards with yourhand being that you can reckon nothing thatdeal; and this even if there is an erroneous deal,and there are not the right number of cards inthe stock. The best method is to draw the stocktowards you, at the same time spreading it slightly,when you can easily count the stock before takingup a card.
+### Calling and showing
 
-The younger hand, before taking in, should alsocount that the proper number of cards are left inthe stock; if too many are left, and the youngerhand mixes one of his opponent's cards with hishand, he can reckon nothing that deal.
+Before calling your hand, you should ascertain what remains good against you, or what there is equal. If necessary, examine your discard for this purpose.
 
-CALLING AND SHOWING.
+When a point or sequence is called, which is good or equal, it is a safe plan, especially for novices, to show it; because a player who voluntarily shows anything, which he claims to be good or equal, is liable to no penalty for miscalling(Law 55).
 
-Before calling your hand, you should ascertainwhat remains good against you, or what there isequal. {See also p. 152.) If necessary, examineyour discard for this purpose.
-
-When a point or sequence is called, which isgood or equal, it is a safe plan, especially fornovices, to show it; because a player who volun-tarily shows anything, which he claims to be goodor equal, is liable to no penalty for miscalling(Law 55).
-
-If you are not in the habit of showing what youcall, and have put out a card of your point, whichis nevertheless allowed to be good or equal, andthe absent card may make a difference to youradversary in playing the cards, you should informhim of the value of the card you do not call. For
-
-no PIQUET.
-
-example:-You are younger hand, and have dis-carded the king of spades. You have taken inspades, and your point, which is good, is ace,knave, ten, eight of spades. When caUing thepoint, you should say, " Thirty-nine in spades, andI do not reckon the king." Your adversary willthen know, as he is entitled to know, and as hecould know if he asked to see your point, that heneed only keep one guard to his queen whenplaying the cards.
+If you are not in the habit of showing what you call, and have put out a card of your point, which is nevertheless allowed to be good or equal, and the absent card may make a difference to your adversary in playing the cards, you should inform him of the value of the card you do not call. For example: You are younger hand, and have discarded the king of spades. You have taken in spades, and your point, which is good, is ace,knave, ten, eight of spades. When calling the point, you should say, " Thirty-nine in spades, and I do not reckon the king." Your adversary will then know, as he is entitled to know, and as he could know if he asked to see your point, that he need only keep one guard to his queen when playing the cards.
 
 You would be equally entitled not to reckon theking, if you had it in hand, and wished to concealyour strength, in hopes of persuading your oppo-nent to unguard his queen when playing the cards.But as calling without showing draws special at-tention to the absence of the king, it seemspreferable always to show your point, and to saynothing about what you do not reckon. In thecase supposed, put ace, knave, ten, eight of spadeson the table, and say, "Good for four," and let youradversary think what he pleases about the king.
 
 As a matter of etiquette, if, under such circum-stances, you do not show your point, and do notannounce that the king is out, your adversarywould have just cause of complaint at not beinginformed. If he is misled by your ignorance ofthis point of etiquette, the only reparation you canmake is to offer to play the cards again.
 
-If you have, or might have, two points of thesame counting value, it is also your duty to de-clare which of them you claim as good or equal
-
-PIQUET. Ill
-
-Thus :-You have king, queen, ten, eight of onesuit, and might have ace, queen, ten, seven ofanother. If thirty-eight is good or equal, youshould say, " In spades," or " In hearts," or asthe case may be, without waiting to be askedin which suit your point is. • If younger hand,you need not announce the suit until the elderhas led a card.
+If you have, or might have, two points of the same counting value, it is also your duty to declare which of them you claim as good or equal 
+Thus : You have king, queen, ten, eight of onesuit, and might have ace, queen, ten, seven ofanother. If thirty-eight is good or equal, youshould say, " In spades," or " In hearts," or asthe case may be, without waiting to be askedin which suit your point is. • If younger hand,you need not announce the suit until the elderhas led a card.
 
 Similar observations apply to sequences andtrios {see Case XIL, pp. 27, 28).
 
 If you call a trio, allowed to be good, whenyou might hold a quatorze of the same rank, asthree kings when you might hold four, youshould state which king you do not reckon,e.g.^ "Three kings, not reckoning the king ofdiamonds." Many players omit to say whichcard of a quatorze they do not reckon, andwait to be asked. In that case, you shouldenquire which card of the quatorze your ad-versary does not reckon; but you should notput the question until he has played a card {see^also, Case IV., p. 22).
 
-The question should be in this form, "Which
+The question should be in this form, "Which do you not reckon ? " You must not assume that a card is out merely because it is not called;and your adversary is not bound to admit that hehas not called a card (whether by inadvertence ordesign) which he holds in his hand.
 
-do you not reckon ? " You must not assume
-
-that a card is out merely because it is not called;and your adversary is not bound to admit that hehas not called a card (whether by inadvertence ordesign) which he holds in his hand.
-
-If the question is put in another form, e.g.^" Which king have you put out ?" and the ad-versary has not put out a king, but holds four,
-
-112 PIQUET.
-
-having called three, he is entitled to reply, " Ido not reckon the king of spades," or of thesuit in which he deems it best to conceal theking from you. Or, he may simply answer, " Kingof spades." In giving this answer, he assumes, ashe is entitled to do, that you have asked him theregular question. He leaves it doubtful whetherhe has a king out or not; and all Piquet playersunderstand his reply in that sense {st'e Case XVI.,
+If the question is put in another form, e.g.^" Which king have you put out ?" and the ad-versary has not put out a king, but holds four, having called three, he is entitled to reply, " Ido not reckon the king of spades," or of thesuit in which he deems it best to conceal theking from you. Or, he may simply answer, " Kingof spades." In giving this answer, he assumes, ashe is entitled to do, that you have asked him theregular question. He leaves it doubtful whetherhe has a king out or not; and all Piquet playersunderstand his reply in that sense {st'e Case XVI.,
 
 P- 30)-
 
