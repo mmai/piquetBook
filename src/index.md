@@ -126,7 +126,7 @@ In the foregoing pages carte blanche, pique and repique have been omitted in ord
 
 If either player has dealt to him a hand which contains neither king, queen, nor knave, he holds carte blanche. This entitles him to score ten. Before he takes in he must show the carte blanche by dealing his cards quickly one on top of the other, face upwards on the table, after which he retakes them into his hand. If either player has carte blanche, he must inform his adversary at once, by saying, "I have a carte blanche", or "Discard for carte blanche." As soon as the adversary has discarded, the carte blanche is shown to him. (See also Laws 18-20)
 
-If the elder hand scores, _in hand and play_,  thirty or more before his adversary counts anything that hand, he wins a _pique_. A _pique_ entitles the player to add thirty to his score; but in all other respects the hand is played as already explained. For example :lA has a quint major, which is good for point and sequence, and three aces, which are also good. He counts twenty for the point and quint, and three for the aces, and then leads the quint major and the two aces, or one of the aces and some other card. This makes him thirty; and, as his adversary has not scored anything, it is a _pique_. A, when he leads the card which makes him thirty, instead of counting "Thirty", counts "Sixty". It is not necessary that the card led which makes thirty should win the trick. The elder hand, having reckoned twenty-nine when his adversary has reckoned nothing, and having the lead, wins a _pique_ even if he leads a losing card.
+If the elder hand scores, _in hand and play_,  thirty or more before his adversary counts anything that hand, he wins a _pique_. A _pique_ entitles the player to add thirty to his score; but in all other respects the hand is played as already explained. For example : A has a quint major, which is good for point and sequence, and three aces, which are also good. He counts twenty for the point and quint, and three for the aces, and then leads the quint major and the two aces, or one of the aces and some other card. This makes him thirty; and, as his adversary has not scored anything, it is a _pique_. A, when he leads the card which makes him thirty, instead of counting "Thirty", counts "Sixty". It is not necessary that the card led which makes thirty should win the trick. The elder hand, having reckoned twenty-nine when his adversary has reckoned nothing, and having the lead, wins a _pique_ even if he leads a losing card.
 
 If a player scores, _in hand alone_, thirty points or more by scores that reckon in order before anything that his adversary can count, he wins a _repique_. A _repique_ entitles the player to add sixty to his score. Thus: If a player has point, quint, and quatorze (all good), he _repiques_ his adversary. He counts five for point, fifteen for sequence, making twenty, and fourteen for quatorze, making thirty-four. Instead of counting "Thirty-four," he counts "Ninety-four." In all other ways, the hand is played as already explained.
 
@@ -327,15 +327,15 @@ After the play of the cards, call both your own and your adversary's scores alou
 
 At the end of the partie, similarly compare the total before entering it on your scoring card (and see Law 74).
 
-### Discarding
+## Discarding
 
-INTRODUCTORY
+### Introductory
 
 On account of the variety and complexity of the considerations involved in discarding at Piquet, the few general rules that can be laid down are liable to frequent modification. Subject to this condition, a statement follows of the more important points to be borne in mind when discarding.
 
 This statement is supplemented by the application of the Doctrine of Probabilities to various cases, and by a series of illustrative Examples.
 
-GENERAL RULES
+### General rules
 
 Before deciding on your discard, you should ascertain whether you hold anything which is good against the cards, or is equal, and what there is against you that may be reckoned as good, or called as equal.
 
@@ -373,121 +373,105 @@ The discard is further affected by the state of the score, especially in the las
 
 The Piquet student should be acquainted with the following odds.
 
-The odds that the elder hand (if he takes all his cards) will take in-</p><table class="calibre8"><tr class="calibre9"><td class="calibre10"><p class="calibre5">One named card</p></td><td class="calibre10"><p class="calibre5">are</p></td><td class="calibre10"><p class="calibre5">3 to I</p></td><td class="calibre10"><p class="calibre5">against him</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Two ,, cards</p></td><td class="calibre10"><p class="calibre5">are .</p></td><td class="calibre10"><p class="calibre5">18 to I</p></td><td class="calibre10"><p class="calibre5"></p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Three „</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">113 to I</p></td><td class="calibre10"><p class="calibre5"></p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Four ,, ,</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">968 to I</p></td><td class="calibre10"><p class="calibre5"></p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Five ,, ,</p></td><td class="calibre10"><p class="calibre5">.</p></td><td class="calibre10"><p class="calibre5">15503 to I</p></td><td class="calibre10"><p class="calibre5"></p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">One card (at least) of two named cards</p></td><td class="calibre10"><p class="calibre5">are 5 to 4</p></td><td class="calibre10"><p class="calibre5"></p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">One ,,</p></td><td class="calibre10"><p class="calibre5">„ three ,,</p></td><td class="calibre10"><p class="calibre5">3 to 2 on him</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Two cards ,,</p></td><td class="calibre10"><p class="calibre5">,, ,, ,,</p></td><td class="calibre10"><p class="calibre5">6 to I</p></td><td class="calibre10"><p class="calibre5">against him</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">One card ,,</p></td><td class="calibre10"><p class="calibre5">,, four ,,</p></td><td class="calibre10"><p class="calibre5">5 to 2</p></td><td class="calibre10"><p class="calibre5">on him</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Two cards ,,</p></td><td class="calibre10"><p class="calibre5">,, ,, ,,</p></td><td class="calibre10"><p class="calibre5">' 3 to I</p></td><td class="calibre10"><p class="calibre5">against him</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Three cards ,,</p></td><td class="calibre10"><p class="calibre5">,, ,, ,,</p></td><td class="calibre10"><p class="calibre5">33 to 1</p></td><td class="calibre10"><p class="calibre5">,,</p></td></tr></table><p class="calibre5">PIQUET.
+The odds that the elder hand (if he takes all his cards) will take in :
 
-The odds that the younger hand (if he takes all his cards) will take in-
+| One named card are                             | 3 to 1 against him |
+| Two named cards are                            | 18 to 1      "     |
+| Three named cards are                          | 113 to 1     "     |
+| Four named cards are                           | 968 to 1     "     |
+| Five named cards are                           | 15503 to 1   "     |
+| One card (at least) of two named cards are     | 5 to 4       "     |
+| One card (at least) of three named cards are   | 3 to 2 on him      |
+| Two cards (at least) of three named cards are  | 6 to 1 against him |
+| One cards (at least) of four named cards are   | 5 to 2 on him      |
+| Two cards (at least) of four named cards are   | 3 to 1 against him |
+| Three cards (at least) of four named cards are | 32 to 1   "        |
 
-One named card are . . . 17 to 3 against him
+The odds that the younger hand (if he takes all his cards) will take in :
 
-Two ,, cards are . . . 62 to I ,,
+| One named card are                             | 17 to 3 against him |
+| Two named cards are                            | 62 to 1    "        |
+| Three named cards are                          | 1139 to 1  "        |
+| One card (at least) of two named cards are     | 5 to 2     "        |
+| One card (at least) of three named cards are   | 3 to 2     "        |
+| Two cards (at least) of three named cards are  | 21 to 1    "        |
+| One cards (at least) of four named cards are   | 29 to 28 on him     |
 
-Three ,, ,, ... 1139 to i ' ,,
+These calculations properly applied will direct the player in discarding.
 
-One card (at least) of two named cards are 5 to 2 ,,
+Thus: It is 3 to 1 that the elder hand does not take in a named card. It is, therefore, more advantageous to carry the best suit for point, and high cards for the chance of the cards, than to throw out any of these in hopes of taking in a card to complete a quatorze of queens, knaves, or tens (see Examples III., IV., and V)
 
-One J, ,, ,, three ,, 3 to 2 ,,
+The odds against taking in two or more named cards, or two of three named cards, elder hand, are so considerable, that, except in desperate cases, good cards should not be discarded on such a speculation. But the odds are very slight against taking one at least of two named cards, or two at least of four named cards ; and they are in favour of taking one at least of three or four named cards.
 
-Two cards ,, ,, ,, ,, 21 to I ,,
+To apply these : If the elder hand has a quart major and two other aces dealt him, the odds that he will take in either the ten to his quart, or the other ace, are only 5 to 4 against him.
 
-One card ,, ,, four ,, 29 to 28 on him
+Again: If the elder hand carries three aces and three kings, the odds against his taking either the other ace or the other king are only 5 to 4 against him.
 
-These calculations properly applied will directthe player in discarding.
+If the elder hand has a quatorze dealt him, and there is only one superior quatorze against him, he should, as a rule, keep the quatorze, as the odds that he will take in one card at least of four named cards are 5 to 2 in his favour. But this rule may require reconsideration, with a low quatorze, if, to keep it, cards must be put out that in other ways spoil the hand, as by compelling the player to discard from point or sequence, or to put out high cards that risk the loss of the cards, or of a capot.
 
-Thus:-It is 3 to I that the elder hand does nottake in a named card. It is, therefore,-more advan-tageous to carry the best suit for point, and highcards for the chance of the cards, than to throwout any of these in hopes of taking in a card tocomplete a quatorze of queens, knaves, or tens{see Examples III., IV., and Y., pp. 127-130,
+With a quart to a king and two other kings, it is 3 to 2 in favour of the elder hand taking in the ace or nine to the quart, or the fourth king, and,therefore, it is very advantageous to keep the quart and the three kings.
 
-The odds against taking in two or more namedcards, or two of three named cards, elder hand, areso considerable, that, except in desperate cases,good cards should not be discarded on such aspeculation. But the odds are very slight againsttaking one at least of two named cards, or two atleast of four named cards ; and they are in favourof taking one at least of three or four named cards.
+If the elder hand has a quart to a king, and a quart major dealt him, and he is considerably behind in the score, and he must discard from one of the quarts, he should keep the quart to the king; for it is 3 to 1 against his taking in the ten to the quart major, but only 5 to 4 against his taking in either the ace or nine to the quart to the king. (For a further illustration of this calculation,see Example XXV.)
 
-To apply these :-If the elder hand has a quartmajor and two other aces dealt him, the odds thathe' will take in either the ten to his quart, or theother ace, are only 5 to 4 against him.
+The chance of taking a certain number of cards included in a larger number of named cards, must not be confused with the chance of taking a certain number of named cards. For instance, if the elder hand has two kings and two queens dealt him, the odds are 3 to 1 against his taking in two of the other kings and queens. But the odds against his taking two kings or two queens under these circumstances (i.e., two named cards) are 17 to 2 against him.
 
-PIQUET. 123
+The odds against the younger hand's taking in even one named card are so considerable (17 to 3 against him) that he ought not to discard on such a chance except in desperate cases (see Example XXX.), especially if by so doing he risks the winning or saving of the cards (see Example XIII.). The same rule applies a fortiori to more than one card.
 
-Again:-If the elder hand carries three aces andthree kings, the odds against his taking either theother ace or the other king are only 5 to 4 against him.
+It is only 5 to 2 against the younger hand's taking in one, at least, of two named cards. Hence, in some cases, he would discard on this chance (see Example XVIII. and Example XXXII.).
 
-If the elder hand has a quatorze dealt him, andthere is only one superior quatorze against him, heshould, as a rule, keep the quatorze, as the oddsthat he will take in one card at least of four namedcards are 5 to 2 in his favour. But this rule mayrequire reconsideration, with a low quatorze, if, tokeep it, cards must be put out that in other waysspoil the hand, as, by compelling the player todiscard from point or sequence, or to put out highcards that risk the loss of the cards, or of a capot.
+Again : It is only 3 to 2 against the younger hand's taking in one, at least, of three named cards. Therefore, if he must take in one of three cards to save a pique or a repique, it would be right for him to discard for this chance, even if, in order to do so, he must put out a valuable card,as a king, or one of his point. (For a further illustration of this calculation, see Example XXXI.)
 
-With a quart to a king and two other kings, it is3 to 2 in favour of the elder hand taking in theace or nine to the quart, or the fourth king, and,therefore, it is very advantageous to keep the quartand the three kings.
+It is 29 to 28 in favor of the younger hand's taking in one of four named cards. So, having no ace dealt him, he may calculate on taking in at least one; or, with two quarts (except major or minor quarts), he may expect to take a card to make a quint; or, with a quart major against him,he may calculate on drawing, at least, one of the quart major.
 
-If the elder hand has a quart to a king, and aquart major dealt him, and he is considerably be-hind in the score, and he must discard from oneof the quarts, he should keep the quart to theking; for it is 3 to i against his taking in the tento the quart major, but only 5 to 4 against histaking in either the ace or nine to the quart to theking. (For a further illustration of this calculation,see Example XXV., p. 144.)
+If the elder hand has two quatorzes against him(say of aces and kings), it is only 33 to 31 against his drawing both an ace and a king (i.e. Of drawing at least one of four aces, and at least one of four kings). Younger hand, it is 4 to i against taking in one of each quatorze.
 
-The chance of taking a certain number of cardsincluded in a larger number of named cards, mustnot be confused with the chance of taking a certainnumber of named cards. For instance, if the elder
+The younger hand has two trios, say three knaves and three tens. Either of these, if improved into a quatorze, will save the rubicon.
 
-124 PIQUET.
+To keep both the trios, in good play, he must leave a card. Ought he to keep the two trios, and leave a card, or to take three cards and discard from one of the trios?
 
-hand has two kings and two queens dealt him, theodds are 3 to i against his taking in two of theother kings and queens. But the odds against histaking two kings or two queens under these cir-cumstances {i.e., two named cards) are 17 to 2against him.
+If he takes all three cards, the probability that he draws the one card to complete the quatorze is 3/20 = 57/380
 
-The odds against the younger hand's taking ineven one named card are so considerable (17 to3 against him) that he ought not to discard onsuch a chance except in desperate cases {seeExamj^le XXX., p. 149), especially if by sodoing he risks the winning or saving of thecards {see Example XIII., p. 135). The samerule applies a fortiori to more than one card.
+If he only takes two cards, the probability that he draws one at least of the two cards to complete a quatorze is 74/380
 
-It is only 5 to 2 against the younger hand's takingin one, at least, of two named cards. Hence, insome cases, he would discard on this chance {seeExample XVIII., p. 139; and Example XXXII.,p. 150).
+The odds are therefore 74 to 57, or about 4 to 3, in favour of leaving a card.
 
-Again :-It is only 3 to 2 against the youngerhand's taking in one, at least, of three namedcards. Therefore, if he must take in one of threecards to save a pique or a repique, it would beright for him to discard for this chance, even if, inorder to do so, he must put out a valuable card,as a king, or one of his point. (For a further illus-tration of this calculation, see Example XXXI.,p. 149.)
+### Examples
 
-It is 29 to 28 in favour of the younger hand'staking in one of four named cards. So, having noace dealt him, he may calculate on taking in at
+Owing to the impossibility of calculating all the chances in many cases that present themselves in actual play, differences of opinion often arise as to the proper discard. Such differences of opinion may be expressed in respect of some of the following hands. The Author will be content if he has succeeded in avoiding glaring errors, and in exhibiting a series of Examples that serve to guide those who desire to learn the game of Piquet.
 
-PIQUET.
-
-least one; or, with two quarts (except major orminor quarts), he may expect to take a card tomake a quint; or, with a quart major against him,he may calculate on drawing, at least, one of thequart major.
-
-If the elder hand has two quatorzes against him(say of aces and kings), it is only 33 to 31 againsthis drawing both an ace and a king {i.e.^ of drawingat least one of four aces, and at least one of fourkings). Younger hand, it is 4 to i against takingin one of each quatorze.
-
-The younger hand has two trios, say threeknaves and three tens. Either of these, if im-proved into a quatorze, will save the rubicon.
-
-To keep both the trios, in good pUy, he mustleave a card. Ought he to keep the two trios, andleave a card, or to take three cards and discardfrom one of the trios?
-
-If he takes all three cards, the probability thathe draws the one card to complete the quatorze
-
-If he only takes two cards, the probability thathe draws one at least of the two cards to com-plete a quatorze is ■^-^.
-
-The odds are therefore 74 to 57, or about4 to 3, in favour of leaving a card.
-
-EXAMPLES.
-
-Owing to the impossibility of calculating allthe chances in many cases that present them-selves in actual play, differences of opinion often
-
-PIQUET.
-
-arise as to the proper discard. Such differencesof opinion may be expressed in respect of someof the following hands. The Author will becontent if he has succeeded in avoiding glaringerrors, and in exhibiting a series of Examplesthat serve to guide those who desire to learnthe game of Piquet.
-
-The score is assumed to be love-all, unlessotherwise stated.
+The score is assumed to be love all, unless otherwise stated.
 
 Example I.
 
-Unguarding a kmg, elder hand, to keep the point.
-
+_Unguarding a kmg, elder hand, to keep the point.
 Guarding kings, and protecting a weak suit,
+younger hand._
 
-younger hand.</p>
-<div class="calibre7">
 <img alt="Picture #4" src="images/000036.jpg" class="calibre1" />
-</div>
-<p class="calibre5">With these cards the elder hand should throwout knave, eight, seven of spades, seven of hearts,and eight of diamonds, keeping the clubs for point,and the three kings. In order to keep the pointhe must unguard a king; and this, being elderhand, he does not hesitate to do.
 
-The younger hand with these cards shouldthrow eight, seven of spades, and eight of dia-monds. He should keep both his kings guarded,
+With these cards the elder hand should throwout knave, eight, seven of spades, seven of hearts,and eight of diamonds, keeping the clubs for point,and the three kings. In order to keep the point he must unguard a king; and this, being elder hand, he does not hesitate to do.
 
-PIQUET.
+The younger hand with these cards should throw eight, seven of spades, and eight of diamonds. He should keep both his kings guarded, and should on no account part with the seven of hearts, which would be of great service should he take in king of hearts, or queen and another.
 
-T27
+Example II
 
-and should on no account part with the seven ofhearts, which would be of great service should hetake in king of hearts, or queen and another.
+_Keeping the point. Unguarding suits elder hand, and keeping guards younger hand._
 
-Example IL
-
-Keeping the point. Unguarding suits elder liand.,and keeping guards younger hand.</p>
-<div class="calibre7">
 <img alt="Picture #5" src="images/000039.jpg" class="calibre1" />
-</div>
-<p class="calibre5">The elder hand having these cards dealt him,should keep the quart to a king for point, and thefour kings, discarding queen, knave of hearts, ace,knave of clubs, and ten of diamonds.
 
-The younger hand should also keep the pointand the four kings. In addition to this he shouldkeep all his suits guarded, and should discardknave of hearts, and ace, knave of clubs. Heshould not part with the ten of diamonds.
+The elder hand having these cards dealt him,should keep the quart to a king for point, and the four kings, discarding queen, knave of hearts, ace,knave of clubs, and ten of diamonds.
 
-Example III.Discarding from low trios., to keep the poiiit.Trios of queens, knaves, or tens, may be freely
+The younger hand should also keep the point and the four kings. In addition to this he should keep all his suits guarded, and should discard knave of hearts, and ace, knave of clubs. He should not part with the ten of diamonds.
 
-PIQUET.
+Example III.
 
-discarded from, if, in order to keep them, a cardof the point has to be put out.</p>
-<div class="calibre7">
+_Discarding from low trios., to keep the point._
+
+Trios of queens, knaves, or tens, may be freely discarded from, if, in order to keep them, a card of the point has to be put out.
+
 <img alt="Picture #6" src="images/000043.jpg" class="calibre1" />
-</div>
-<p class="calibre5">With these cards the elder hand should notkeep his three queens, but should throw the clubsand the diamond, and retain the other two suitsunbroken.
+
+With these cards the elder hand should not keep his three queens, but should throw the clubs and the diamond, and retain the other two suits unbroken.
 
 Example IV.
 
