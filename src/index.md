@@ -375,27 +375,31 @@ The Piquet student should be acquainted with the following odds.
 
 The odds that the elder hand (if he takes all his cards) will take in :
 
-| One named card are                             | 3 to 1 against him |
-| Two named cards are                            | 18 to 1      "     |
-| Three named cards are                          | 113 to 1     "     |
-| Four named cards are                           | 968 to 1     "     |
-| Five named cards are                           | 15503 to 1   "     |
-| One card (at least) of two named cards are     | 5 to 4       "     |
-| One card (at least) of three named cards are   | 3 to 2 on him      |
-| Two cards (at least) of three named cards are  | 6 to 1 against him |
-| One cards (at least) of four named cards are   | 5 to 2 on him      |
-| Two cards (at least) of four named cards are   | 3 to 1 against him |
-| Three cards (at least) of four named cards are | 32 to 1   "        |
+|                                                |            |             |
+| ---------------------------------------------- | ---------- | ----------- |
+| One named card are                             | 3 to 1     | against him |
+| Two named cards are                            | 18 to 1    | "           |
+| Three named cards are                          | 113 to 1   | "           |
+| Four named cards are                           | 968 to 1   | "           |
+| Five named cards are                           | 15503 to 1 | "           |
+| One card (at least) of two named cards are     | 5 to 4     | "           |
+| One card (at least) of three named cards are   | 3 to 2     | on him      |
+| Two cards (at least) of three named cards are  | 6 to 1     | against him |
+| One cards (at least) of four named cards are   | 5 to 2     | on him      |
+| Two cards (at least) of four named cards are   | 3 to 1     | against him |
+| Three cards (at least) of four named cards are | 32 to 1    | "           |
 
 The odds that the younger hand (if he takes all his cards) will take in :
 
-| One named card are                             | 17 to 3 against him |
-| Two named cards are                            | 62 to 1    "        |
-| Three named cards are                          | 1139 to 1  "        |
-| One card (at least) of two named cards are     | 5 to 2     "        |
-| One card (at least) of three named cards are   | 3 to 2     "        |
-| Two cards (at least) of three named cards are  | 21 to 1    "        |
-| One cards (at least) of four named cards are   | 29 to 28 on him     |
+|                                               |           |             |
+| --------------------------------------------- | --------- | ----------- |
+| One named card are                            | 17 to 3   | against him |
+| Two named cards are                           | 62 to 1   | "           |
+| Three named cards are                         | 1139 to 1 | "           |
+| One card (at least) of two named cards are    | 5 to 2    | "           |
+| One card (at least) of three named cards are  | 3 to 2    | "           |
+| Two cards (at least) of three named cards are | 21 to 1   | "           |
+| One cards (at least) of four named cards are  | 29 to 28  | on him      |
 
 These calculations properly applied will direct the player in discarding.
 
@@ -469,109 +473,71 @@ _Discarding from low trios., to keep the point._
 
 Trios of queens, knaves, or tens, may be freely discarded from, if, in order to keep them, a card of the point has to be put out.
 
-<img alt="Picture #6" src="images/000043.jpg" class="calibre1" />
+![Picture #6](images/000043.jpg)
 
 With these cards the elder hand should not keep his three queens, but should throw the clubs and the diamond, and retain the other two suits unbroken.
 
 Example IV.
 
-Discarding from a trio, i?i preference to tJirowi?tgfrom the point, or to leaving a card.</p>
-<div class="calibre7">
-<img alt="Picture #7" src="images/000047.jpg" class="calibre1" />
-</div>
-<p class="calibre5">If the elder hand keeps his knaves he musteither throw a card from his point or leave a card.Neither course is advisable. The general rule isnot to break into the point; and it would bedangerous for the elder hand to leave a card with
+_Discarding from a trio, in preference to throwing from the point, or to leaving a card._
 
-PIQUET.
+![Picture #7](images/000047.jpg)
 
-129
-
-two seven-card points, a quint, three aces, threekings, and three queens against him. He mustsacrifice the knaves to keep his point, by whichmeans he will, at all events, divide the cards. Hisproper discard is the heart and the four diamonds.
+If the elder hand keeps his knaves he must either throw a card from his point or leave a card. Neither course is advisable. The general rule isn't to break into the point; and it would be dangerous for the elder hand to leave a card with two seven-card points, a quint, three aces, three kings, and three queens against him. He must sacrifice the knaves to keep his point, by which means he will, at all events, divide the cards. His proper discard is the heart and the four diamonds.
 
 Example V.
 
-Discarding fro?n a trio^ in order to keep thepoint. Going for two stiits, with a better chance
+_Discarding from a trio in order to keep the point. Going for two suits, with a better chance of the cards._
 
-of the cards.</p>
-<div class="calibre7">
-<img alt="Picture #8" src="images/000053.jpg" class="calibre1" />
-</div>
-<p class="calibre5">The elder hand has three queens, and there isno great score against him. Notwithstanding this,he should not part with the eight of his point(diamonds) to keep the queens, but should dis-card the spades and hearts. By sacrificing thequeens he gives up a chance of fourteen; but bykeeping the eight of diamonds he increases hischance of scoring the point, and he improveshis chance of winning tricks in play.
+![Picture #8](images/000053.jpg)
 
-It may be stated generally, that with ace, king,
+The elder hand has three queens, and there is no great score against him. Notwithstanding this,he should not part with the eight of his point(diamonds) to keep the queens, but should discard the spades and hearts. By sacrificing the queens he gives up a chance of fourteen; but by keeping the eight of diamonds he increases his chance of scoring the point, and he improves his chance of winning tricks in play.
 
-queen, and a small card of a suit, and three
-
-queens, or three knaves, or three tens not good
-
-against the cards, and such other cards that the
-
-K
-
-I30
-
-PIQUET.
-
-player must either discard one of these or thesmall card of the point, the game is to keepthe point.
+It may be stated generally, that with ace, king, queen, and a small card of a suit, and three queens, or three knaves, or three tens not good against the cards, and such other cards that the player must either discard one of these or the small card of the point, the game is to keep the point.
 
 Example VI.
 
-Discarding from a point which remains goodagai?ist the cards.
+_Discarding from a point which remains good against the cards._
 
-It is hardly necessary to state that the ob-jection to throwing a card from the point doesnot apply if, after the discard, the point stillremains good against the cards.</p>
-<div class="calibre7">
-<img alt="Picture #9" src="images/000057.jpg" class="calibre1" />
-</div>
-<p class="calibre5">The discard, elder hand, is seven of spades, thetwo hearts, the club, and the diamond, for thereasons already given.
+It is hardly necessary to state that the objection to throwing a card from the point does not apply if, after the discard, the point still remains good against the cards.
 
-If the club or the diamond were the seven, thediscard is less easy; most players would leave acard instead of throwing one of the point.
+![Picture #9](images/000057.jpg)
+
+The discard, elder hand, is seven of spades, the two hearts, the club, and the diamond, for the reasons already given.
+
+If the club or the diamond were the seven, the discard is less easy; most players would leave a card instead of throwing one of the point.
 
 Example VII.
 
-Discarding frofn low trios, to divide or win the
+_Discarding from low trios, to divide or win the cards. Giving up the point, younger hand, in order to keep suits guarded._
 
-cards. Giving up the point, younger hand, in
+It is seldom right to throw out an ace, or a king, in order to carry three queens, knaves, or tens, if by so doing the loss of the cards is risked.
 
-order to keep suits guarded.
+The principal exception is when one named card taken in gives a good chance of a pique or a repique, the cards ought then generally to be risked, subject however to the state of the score, a safe discard being preferable as a rule when ahead.
 
-It is seldom right to throw out an ace, or a
+![Picture #10](images/000062.jpg)
 
-PIQUET.
+The elder hand should discard the clubs and diamonds for the reasons already given.
 
-131
+The younger hand's discard is doubtful: on the whole, it seems safest for him to give up the point,and to discard three spades, keeping all his suits guarded, and going for the chance of queens and of dividing the cards.
 
-king, in order to carry three queens, knaves, ortens, if by so doing the loss of the cards isrisked.
+In the above hand, substitute the ten of spades for the seven. The elder hand should then keep the spades and the queens. The younger hand should throw out the three clubs, unless very backward in the score.
 
-The principal exception is when one namedcard taken in gives a good chance of a piqueor a repiquej the cards ought then generally tobe risked, subject however to the state of thescore, a safe discard being preferable as a rulewhen ahead.</p>
-<div class="calibre7">
-<img alt="Picture #10" src="images/000062.jpg" class="calibre1" />
-</div>
-<p class="calibre5">The elder hand should discard the clubs anddiamonds for the reasons already given.
+Example VIII.
 
-The younger hand's discard is doubtful: on thewhole, it seems safest for him to give up the point,and to discard three spades, keeping all his suitsguarded, and going for the chance of queens andof dividing the cards.
+_Discarding from low quatorzes, to divide or win the cards._
 
-In the above hand, substitute the ten ofspades for the seven. The elder hand shouldthen keep the spades and the queens. Theyounger hand should throw out the three clubs,unless very backward in the score,
+If the loss of the cards is risked by keeping quatorzes of knaves or tens, it is generally the game to sacrifice the quatorze. Younger hand, especially, should not put out a high card, to keep a low quatorze, when there is a superior quatorze against him.
 
-K2
+![Picture #11](images/000000.jpg)
 
-PIQUET.
-
-Example VIII.Discarding from low quatorzes, to divide or winthe cards.If the loss of the cards is risked by keeping qua-torzes of knaves or tens, it is generally the game tosacrifice the quatorze. Younger hand, especially,should not put out a high card, to keep a low qua-torze, when there is a superior quatorze against him.</p>
-<div class="calibre7">
-<img alt="Picture #11" src="images/000000.jpg" class="calibre1" />
-</div>
-<p class="calibre5">The younger hand should discard knave of hearts,and knave, nine of diamonds. He sacrifices theknaves to keep his point, and a card of entry in everysuit. By discarding thus, he must at least divide thecards; the great probability is that he will win them.
+The younger hand should discard knave of hearts,and knave, nine of diamonds. He sacrifices the knaves to keep his point, and a card of entry in every suit. By discarding thus, he must at least divide the cards; the great probability is that he will win them.
 
 Example IX.
 
-Discarding a quint mi7ior., elder hand, for the
+_Discarding a quint minor, elder hand, for the chance of the cards. Keeping the quint, younger hand, as a protection against a pique._
 
-chance of the cards. Keeping the quint, younger
-
-hand, as a protection against a pique.</p>
-<div class="calibre7">
-<img alt="Picture #12" src="images/000007.jpg" class="calibre1" />
-</div>
-<p class="calibre5">PIQUET. 133
+![Picture #12](images/000007.jpg)
 
 With a quart major in one suit, a quint minorin another, and small cards in the third andfourth suits, it would generally be right, elderhand, to put out the quint minor in preferenceto breaking up the quart major. Keeping thequint minor will probably result in loss of thecards, £&lt;?., in a loss of over twenty points for again of fifteen.
 
