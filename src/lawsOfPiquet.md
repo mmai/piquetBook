@@ -466,7 +466,7 @@ The scores are, A, 91; B (who reckons nothing) 92. B wins a rubicon (Law 73) of 
 
 Now if B had played with twelve cards, he would have lost a rubicon. This is easily proved by taking from B's hand the card of least importance to him, say the eight of diamonds. A leads five spades, as before. It is immaterial what B plays. A must win at least the last two tricks, and the cards, and scores forty.
 
-The scores are, A, 102 ; B, 98 (at most); but as probably B has seen he cannot save the rubicon, it may be taken that he has let A count thirteen in play, when the score will be A: 106 ; B: 92. A wins a rubicon of 298 points.  
+The scores are, A, 102 ; B, 98 (at most); but as probably B has seen he cannot save the rubicon, it may be taken that he has let A count thirteen in play, when the score will be A: 106 ; B: 92. A wins a rubicon of 298 points.
 Hence B profits, by his own blunder, to the amount of 581 points. The example is taken from actual play.
 
 Similar examples could be furnished as to the call of a player, with thirteen cards, barring a pique or a repique, and as to the extra card saving a capot.
