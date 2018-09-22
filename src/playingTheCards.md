@@ -98,558 +98,466 @@ The score is assumed to be love-all, unless otherwise stated.
 
 ### Example I.
 
-Counting the hand fro in the call of point.
+_Counting the hand fro in the call of point._
 
-A (Elder Hand).</p>
-<div class="calibre7">
-<img alt="Picture #42" src="images/000003.jpg" class="calibre1" />
-</div>
-<p class="calibre5">B (Younger Hand).
+A (Elder Hand)
+
+![Picture #42](images/000003.jpg)
+
+B (Younger Hand).
 
 B has discarded seven of spades; and eight,seven of diamonds.
 
-A calls thirty-four for point, not good. Theonly four-card point, making four, that A canhold is in clubs (^see Table, p. 155).
+A calls thirty-four for point, not good. The only four-card point, making four, that A can hold is in clubs. 
 
-PIQUET.
+A leads the diamonds, to which B follows suit. A then leads ace, queen of spades; B plays ten, king.
 
-A leads the diamonds, to which B follows suit. Athen leads ace, queen of spades; B plays ten, king.
+B should now lead ace and another heart, when he must at least divide the cards.
 
-B should now lead ace and another heart, whenhe must at least divide the cards.
+If instead of leading the heart he leads the tierce major in clubs, he loses the cards.
 
-If instead of leading the heart he leads the tiercemajor in clubs, he loses the cards.
+If B could not count four clubs in A's hand, he would be right to attack in the tierce major suit.For this reason, and also because if B has a four-card point it will most probably be in clubs, A should have called thirty-one for point. In actual practice, however, a four-card point is frequently called under similar circumstances.
 
-If B could not count four clubs in A's hand, hewould be right to attack in the tierce major suit.For this reason, and also because if B has a four-card point it will most probably be in clubs, Ashould have called thirty-one for point. In actualpractice, however, a four-card point is frequentlycalled under similar circumstances.
+### Example II.
 
-Example II.
+_Counting the hand, a trio not having been called._
 
-Couniing the hand, a trio not having been called.
+A (Elder Hand).
 
-A (Elder Hand).</p>
-<div class="calibre7">
-<img alt="Picture #43" src="images/000006.jpg" class="calibre1" />
-</div>
-<p class="calibre5">B (Younger Hand).
+![Picture #43](images/000006.jpg)
 
-PIQUET. 177
+B (Younger Hand).
 
-B has discarded eight, seven of spades; andseven of hearts.
+B has discarded eight, seven of spades; and seven of hearts.
 
-A calls a point in hearts, a quint and threeknaves, all good. He leads ace, queen, knaveof spades.
+A calls a point in hearts, a quint and three knaves, all good. He leads ace, queen, knave of spades.
 
-A's score, in hand and play, is now twenty-six.He did not call three queens; and as these wouldhave given him a pique, it may be assumed he hasnot got them.
+A's score, in hand and play, is now twenty-six.He did not call three queens; and as these would have given him a pique, it may be assumed he has not got them.
 
-To the spades, led by A, B therefore throws tenof spades and two clubs.
+To the spades, led by A, B therefore throws ten of spades and two clubs.
 
-A then leads a heart. B wins it, and attacksin diamonds. However A plays, B must dividethe cards.
+A then leads a heart. B wins it, and attacks in diamonds. However A plays, B must divide the cards.
 
-On the other hand, if A had called three queens,B should have thrown the diamonds to the spades,and have attacked in clubs. He assigns the aceof diamonds to A as the card he is most likely tohave kept, in case he went out with, say, a quartin hearts and three knaves. Under these circum-stances it is more than probable that A has at leastone club out, when B, by attacking in clubs, will atleast divide the cards.
+On the other hand, if A had called three queens,B should have thrown the diamonds to the spades,and have attacked in clubs. He assigns the ace of diamonds to A as the card he is most likely to have kept, in case he went out with, say, a quart in hearts and three knaves. Under these circumstances it is more than probable that A has at least one club out, when B, by attacking in clubs, will at least divide the cards.
 
-Experienced players may perhaps think thatExamples I. and II. are too elementary to beof much use. It is, however, by considerationssimilar to those here given, that even the bestplayers regulate their play in cases of greaterdifficulty. Beginners are recommended to ob-serve carefully the importance of counting thehands {see p. 166).
+Experienced players may perhaps think that Examples I. and II. are too elementary to be of much use. It is, however, by considerations similar to those here given, that even the best players regulate their play in cases of greater difficulty. Beginners are recommended to observe carefully the importance of counting the hands.
 
-N
+### Example III.
 
-PIQUET,
+_Unguarding a king during the play, in hopes of dividing the cards._
 
-Example III.
+A (Elder Hand).
 
-Unguarding a king during the play, in hopes ofdividif^g the cards.
+![Picture #44](images/000009.jpg)
 
-A (Elder Hand).</p>
-<div class="calibre7">
-<img alt="Picture #44" src="images/000009.jpg" class="calibre1" />
-</div>
-<p class="calibre5">B (Younger Hand),
+B (Younger Hand),
 
-B has discarded knave of spades; and eight,seven of hearts.
+B has discarded knave of spades; and eight, seven of hearts.
 
-A reckons five hearts for point, and a quartmajor. He also calls three queens, which arenot good.
+A reckons five hearts for point, and a quart major. He also calls three queens, which are not good.
 
-A leads the hearts. B plays ten of hearts, nine,eight of spades (unguarding the king), and knave,nine of clubs.
+A leads the hearts. B plays ten of hearts, nine,eight of spades (unguarding the king), and knave, nine of clubs.
 
-If A, now believing B to hold king, knave ofspades, leads a club or a diamond, and retains
+If A, now believing B to hold king, knave of spades, leads a club or a diamond, and retains his tenace in spades to be led to, he only divides the cards.
 
-PIQUET.
+### Example IV.
 
-179
+_Unguarding a king._
 
-his tenace in spades to be led to, he only dividesthe cards.
+A (Elder Hand).
 
-For remarks on unguarding, see p. 180.
+![Picture #45](images/000061.jpg)
 
-Example IV.Unguarding a king.
-
-A (Elder Hand).</p>
-<div class="calibre7">
-<img alt="Picture #45" src="images/000061.jpg" class="calibre1" />
-</div>
-<p class="calibre5">B (Younger Hand).
+B (Younger Hand).
 
 A has discarded eight, seven of spades; ten,eight of hearts; and knave of diamonds.
 
-A calls four cards, making forty-one. B re-plies, ** Equal."
+A calls four cards, making forty-one. B replies, "Equal".
 
 B reckons a quart major in spades, three aces,and three knaves.
 
-N 2
+A leads four clubs, to which B plays three clubs and a small heart.
 
-l8o PIQUET.
+A then leads king of hearts, won by B with the ace.
 
-A leads four clubs, to which B plays threeclubs and a small heart.
+B leads four spades. A plays nine, ten of spades, and, without hesitation, eight, nine of diamonds, unguarding the king.
 
-A then leads king of hearts, won by B withthe ace.
+B then leads a heart. A makes two tricks in hearts, and divides the cards.
 
-B leads four spades. A plays nine, ten ofspades, and, without hesitation, eight, nine ofdiamonds, unguarding the king.
+If it is B's habit to dash out an ace when he has five tricks, in order to make certain of dividing the cards, A's play is difficult.
 
-B then leads a heart. A makes two tricks inhearts, and divides the cards.
+A has probably asked whether three kings are good; and, if B is attentive, he will most likely count queen of hearts, and king, knave of diamonds in A'S hand, and will therefore lead a heart. But if B is thoughtless, and does not take the trouble to count the hands, he may lead ace of diamonds in pursuance of his usual tactics. The worse player B is, the less likely is A's coup to succeed, and A must regulate his play accordingly.
 
-If it is B's habit to dash out an ace when hehas five tricks, in order to make certain of dividingthe cards, A's play is difficult.
+Unguarding a king (and sometimes even a queen) during the play, if done without hesitation, will more frequently succeed against a high-class player than against an indifferent one. Of course, loss of the cards should not be risked by unguarding, unless the score renders it imperative to attempt to win them. Even then,if opposed to a player who keeps the score in view, the coup will hardly ever come off.
 
-A has probably asked whether three kings aregood; and, if B is attentive, he will most likelycount queen of hearts, and king, knave of dia-monds in A'S hand, and will therefore lead aheart. But if B is thoughtless, and does nottake the trouble to count the hands, he maylead ace of diamonds in pursuance of his usualtactics. The worse player B is, the less likelyis A's coup to succeed, and A must regulate hisplay accordingly.
+### Example V.
 
-Unguarding a king (and sometimes even aqueen) during the play, if done without hesi-tation, will more frequently succeed against ahigh-class player than against an indifferent one.Of course, loss of the cards should not be riskedby unguarding, unless the score renders it im-perative to attempt to win them. Even then,if opposed to a player who keeps the score inview, the coup will hardly ever come off.
+_Lead of a winning card, to preserve the tenace in another suit._
 
-i8l
+A (Elder Hand).
 
-Example V.
+![Picture #46](images/000014.jpg)
 
-Lead of a winning card, to preserve the tenacei?i another suit.
+B (Younger Hand).
 
-A (Elder Hand).</p>
-<div class="calibre7">
-<img alt="Picture #46" src="images/000014.jpg" class="calibre1" />
-</div>
-<p class="calibre5">B (Younger Hand).
+B has discarded ten, eight of hearts; and seven of spades.
 
-B has discarded ten, eight of hearts; and sevenof spades.
-
-A declares a five-card point in spades, and fourqueens.
+A declares a five-card point in spades, and four queens.
 
 A leads king of spades; B wins the trick.
 
-B leads ace, king, knave, ten of clubs; A playsseven, queen of clubs, eight of diamonds, andeight of spades.
+B leads ace, king, knave, ten of clubs; A plays seven, queen of clubs, eight of diamonds, and eight of spades.
 
-If A plays queen of diamonds, and retains eightof spades, he is immediately attacked in diamonds,and loses the cards.
+If A plays queen of diamonds, and retains eight of spades, he is immediately attacked in diamonds,and loses the cards.
 
-B can now read A's hand. It consists of three
+B can now read A's hand. It consists of three spades, queen and another heart, and ace, queen of diamonds. It is possible that A has put out ace of diamonds to keep his four queens, and that he has three hearts. B need not consider this point, as then he must win the cards.
 
-PIQUET.
+B now leads ace of hearts, that the lead may not be put into his hand again. He next leads knave of spades, when he must make a trick in diamonds, and win the cards.
 
-spades, queen and another heart, and ace, queenof diamonds. It is possible that A has put outace of diamonds to keep his four queens, andthat he has three hearts. B need not considerthis point, as then he must win the cards.
+If B does not get rid of the ace of hearts, A,after leading the spades, will give B the lead with a heart, and B only divides the cards.
 
-B now leads ace of hearts, that the lead maynot be put into his hand again. He next leadsknave of spades, when he must make a trick indiamonds, and win the cards.
+### Example VI.
 
-If B does not get rid of the ace of hearts, A,after leading the spades, will give B the lead witha heart, and B only divides the cards.
+_Leading winning cards, to preserve the tenace in another suit._
 
-Example A^I.
+A (Elder Hand).
 
-Leading wtfming ca?'ds, to preserve the tenace
+![Picture #47](images/000052.jpg)
 
-i?i another suit.
+B (Younger Hand).
 
-A (Elder Hand).</p>
-<div class="calibre7">
-<img alt="Picture #47" src="images/000052.jpg" class="calibre1" />
-</div>
-<p class="calibre5">B (Younger Hand).
+B has discarded nine, seven of spades; andine of diamonds.
 
-PIQUET. 183
+A calls four cards for point, not good; a quart major and a tierce to a knave, good; and three kings, not good .
 
-B has discarded nine, seven of spades; andnine of diamonds.
+B reckons five clubs for point; three aces, and three queens.
 
-A calls four cards for point, not good; a quartmajor and a tierce to a knave, good; and threekings, not good .
+A leads a quart major in spades; B plays two spades and two clubs.
 
-B reckons five clubs for point; three aces, andthree queens.
+A next leads knave of hearts. B wins with queen, and leads ace, queen of clubs.
 
-A leads a quart major in spades; B plays twospades and two clubs.
+A wins the queen of clubs, and leads ten of hearts. B wins the heart, and, whatever he plays,must lose one trick in diamonds. Consequently,the cards are divided.
 
-A next leads knave of hearts. B wins withqueen, and leads ace, queen of clubs.
+If B plays properly, he wins the cards. After winning with the queen of hearts, he should lead ace, king of hearts. Then, after leading ace, queen of clubs, he must be led up to in diamonds.
 
-A wins the queen of clul;&gt;s, and leads ten ofhearts. B wins the heart, and, whatever he plays,must lose one trick in diamonds. Consequently,the cards are divided.
+Of course, it is possible that A may hold a fourth heart, or a double guard to his king of clubs. In either of these cases, B can only divide the cards,however he plays.
 
-If B plays properly, he wins the cards. Afterwinning with the queen of hearts, he should leadace, king of hearts. Then, after leading ace, queenof clubs, he must be led up to in diamonds.
+The beginner at Piquet should keep these Examples (V. and VI.) well before him. Getting rid of winning cards in order to avoid subsequent leads is frequently overlooked by those not thoroughly versed in the game.
 
-Of course, it is possible that A may hold a fourthheart, or a double guard to his king of clubs. Ineither of these cases, B can only divide the cards,however he plays.
+There is also the complementary case of reserving a losing card with which to place the lead, illustrated by Examples VII. and VIII. ,
 
-The beginner at Piquet should keep theseExamples (V. and VI.) well before him. Gettingrid of winning cards in order to avoid subse-quent leads is frequently overlooked by those notthoroughly versed in the game.
+### Example VII.
 
-There is also the complementary case of re-serving a losing card with which to place thelead, illustrated by Examples VII. and VIII. ,
+_Keeping a losing card to throw the lead, in order to preserve a tenace._
 
-PIQUET.
+A (Elder Hand=
 
-Example VII.
+![Picture #48](images/000020.jpg)
 
-Keeping a losing card to throw the lead, in orderto preserve a tenace.
+B (Younger Hand).
 
-A (Elder Hand</p>
-<div class="calibre7">
-<img alt="Picture #48" src="images/000020.jpg" class="calibre1" />
-</div>
-<p class="calibre5">B (Younger Hand).
-
-A has discarded nine, eight of hearts; andknave, nine, seven of diamonds.
+A has discarded nine, eight of hearts; and knave, nine, seven of diamonds.
 
 A leads king of spades.
 
 B wins it, and leads the diamonds.
 
-To these, A should throw eight of diamonds,and three small clubs. He should on no accountpart with his ten of hearts.
+To these, A should throw eight of diamonds,and three small clubs. He should on no account part with his ten of hearts.
 
-B now leads king of hearts. A wins it, leadsthe spades, and then the ten of hearts, to getrid of the lead, when he divides the cards.
+B now leads king of hearts. A wins it, leads the spades, and then the ten of hearts, to get rid of the lead, when he divides the cards.
 
-PIQUET.
+If A throws ten of hearts to one of the diamonds, he will remain with three clubs, one of which he must lead. He will then lose the cards.
 
-185
+### Example VIII.
 
-If A throws ten of hearts to one of the dia-monds, he will remain with three clubs, one ofwhich he must lead. He will then lose the cards.
+_Keeping a small card to throw the lead, in order to preserve a tenace._
 
-Example VIII.
+A (Elder Hand).
 
-Keeping a small card to throw the lead, i7i orderto preserve a tenace.
+![Picture #49](images/000021.jpg)
 
-A (Elder Hand).</p>
-<div class="calibre7">
-<img alt="Picture #49" src="images/000021.jpg" class="calibre1" />
-</div>
-<p class="calibre5">B (Younger Hand).
+B (Younger Hand).
 
-A has discarded knave,
+A has discarded knave, and eight, seven of clubs.
 
-and eight, seven of clubs.
-
-A leads king of hearts.
-
-ten, eight of spades;
+A leads king of hearts.  ten, eight of spades;
 
 B wins it, and leads the clubs.
 
-To the four clubs led by B, A should play two
+To the four clubs led by B, A should play two clubs, one spade, and knave of diamonds, keeping one small spade with which to get rid of the lead.
 
-i86
+B next leads king of spades. A wins it, and leads the hearts, and then nine of spades. B must now lead a diamond; A makes ace, queen of diamonds, and divides the cards.
 
-PIQUET.
+If to the fourth club, A had thrown nine of spades, he would have been obliged to continue with a diamond, and would have lost the cards.
 
-clubs, one spade, and knave of diamonds, keep-ing one small spade with which to get rid of thelead.
+### Example IX.
 
-B next leads king of spades. A wins it, andleads the hearts, and then nine of spades. B mustnow lead a diamond; A makes ace, queen of dia-monds, and divides the cards.
+_Leading the less numerous suit._
 
-If to the fourth club, A had thrown nine otspades, he would have been obliged to continuewith a diamond, and would have lost the cards.
+![Picture #50](images/000022.jpg)
 
-Example IX.Leadms: the less numerous suit.</p>
-<div class="calibre7">
-<img alt="Picture #50" src="images/000022.jpg" class="calibre1" />
-</div>
-<p class="calibre5">B (Younger Hand).
-
-PIQUET. 187
+B (Younger Hand).
 
 A has discarded nine, eight, seven of spades;and eight, seven of hearts.
 
 B has called three queens.
 
-If B has both queen of hearts and queenof clubs guarded, he must win the cards. Ashould therefore play to find in which suitB is unguarded. If he begins with theclub suit, of which he has five, and finds thequeen guarded, he cannot save the cards. Heshould therefore attack in the three-card suit ofhearts.
+If B has both queen of hearts and queen of clubs guarded, he must win the cards. A should therefore play to find in which suit B is unguarded. If he begins with the club suit, of which he has five, and finds the queen guarded, he cannot save the cards. He should therefore attack in the three-card suit of hearts.
 
-If the queen falls to the second trick, he leadsthe knave, and then any card except a club, anddivides the cards. If the queen of hearts doesnot fall to the second trick, he then attacks inclubs.
+If the queen falls to the second trick, he leads the knave, and then any card except a club, and divides the cards. If the queen of hearts doesn't fall to the second trick, he then attacks in clubs.
 
-Similarly, A declares a six-card point, viz., ace,queen, and four small cards. B is guarded inthat suit, and holds ace, queen, ten, and two smallcards of a second suit, and ace, queen, ten onlyof a third. As soon as B obtains the lead, heshould play the ace of the suit of which he holdsonly three. If the adversary is guarded in thatsuit, he is probably unguarded in the other. Ifhe is found guarded, B then attacks in the otherin hopes of winning the cards. Should B beginwith the suit of which he holds five cards, andfind the adversary guarded, he has no chance ofthe cards, but he has a chance by playing asdirected. If A is guarded in both suits B mustlose the cards.
+Similarly, A declares a six-card point, viz., ace,queen, and four small cards. B is guarded in that suit, and holds ace, queen, ten, and two small cards of a second suit, and ace, queen, ten only of a third. As soon as B obtains the lead, he should play the ace of the suit of which he holds only three. If the adversary is guarded in that suit, he is probably unguarded in the other. If he is found guarded, B then attacks in the other in hopes of winning the cards. Should B begin with the suit of which he holds five cards, and find the adversary guarded, he has no chance of the cards, but he has a chance by playing as directed. If A is guarded in both suits B must lose the cards.
 
-Example X.
+### Example X.
 
-Leading the less numerous suit. Playing to the score,
+_Leading the less numerous suit. Playing to the score._
 
-A (Elder Hand).</p>
-<div class="calibre7">
-<img alt="Picture #51" src="images/000038.jpg" class="calibre1" />
-</div>
-<p class="calibre5">B (Younger Hand).
+A (Elder Hand).
+
+![Picture #51](images/000038.jpg)
+
+B (Younger Hand).
 
 B has discarded seven of spades; and eight,seven of diamonds.
 
-A calls a six-card point in clubs, a tierce majorin spades, and four kings. His hand is known,therefore, all but one card, and either the kingof hearts or of diamonds must be unguarded.
+A calls a six-card point in clubs, a tierce major in spades, and four kings. His hand is known,therefore, all but one card, and either the king of hearts or of diamonds must be unguarded.
 
-A leads tierce major in spades. B plays twospades and eight of hearts. He must not partwith his nine of clubs.
+A leads tierce major in spades. B plays two spades and eight of hearts. He must not part with his nine of clubs.
 
 A now leads king of clubs, which B wins.
 
-B should lead the ace of diamonds, becauseit is his less numerous suit. If the king falls,he continues the diamonds, and then leads nineof clubs, and divides the cards.
+B should lead the ace of diamonds, because it is his less numerous suit. If the king falls,he continues the diamonds, and then leads nine of clubs, and divides the cards.
 
-PIQUET.
+If the king of diamonds does not fall to the ace, B next leads hearts, and divides the cards.
 
-189
+If B leads ace of hearts, before the diamond,and finds the king guarded, he loses the cards;but if he finds the king of hearts unguarded, he wins the cards. B's play may therefore depend on the score. If winning the cards wins the partie, or saves the rubicon, B should risk the heart; if dividing the cards wins the partie, B should lead the diamond. Or, if B is considerably behind in the score, and winning the cards brings him within his show, he should generally lead the heart {see Example XL).
 
-If the king of diamonds does not fall to theace, B next leads hearts, and divides the cards.
-
-If B leads ace of hearts, before the diamond,and finds the king guarded, he loses the cards;but if he finds the king of hearts unguarded, hewins the cards. B's play may therefore dependon the score. If winning the cards wins thepartie, or saves the rubicon, B should risk theheart; if dividing the cards wins the partie, Bshould lead the diamond. Or, if B is consider-ably behind in the score, and winning the cardsbrings him within his show, he should generallylead the heart {see Example XL).
-
-Example XI.
+### Example XI.
 
 Making sure of dividing the cards.
 
-A (Elder Hand).</p>
-<div class="calibre7">
-<img alt="Picture #52" src="images/000025.jpg" class="calibre1" />
-</div>
-<p class="calibre5">B (Younger Hand).
+A (Elder Hand).
 
-190 PIQUET.
+![Picture #52](images/000025.jpg)
 
-B has discarded knave, ten of clubs-; and tenof diamonds.
+B (Younger Hand).
 
-A declares five diamonds, and leads the king.B wins the trick.
+B has discarded knave, ten of clubs-; and ten of diamonds.
 
-The probability is that A has gone for diamondsand queens. It is not at all unlikely that he hasqueen of spades or queen of hearts single.
+A declares five diamonds, and leads the king. B wins the trick.
 
-B therefore leads ace of spades. A plays theeight. B still makes an effort to win the cards,and leads a'ce of hearts, to which A plays the seven.
+The probability is that A has gone for diamonds and queens. It is not at all unlikely that he has queen of spades or queen of hearts single.
 
-B is quite in the dark as to the remainingspades and hearts in A's hand. As it happens,if B pursues the attack in hearts, he loses thecards. On the other hand, if A has guards inspades instead of in hearts, and B continues toattack in spades, he also loses the cards.
+B therefore leads ace of spades. A plays the eight. B still makes an effort to win the cards,and leads ace of hearts, to which A plays the seven.
 
-Under these circumstances, B can make certainof dividing the cards by now leading king of clubs.If the score is such that he must play to win thecards, he has no alternative but to continue hisattack at random in one or other of his ace, kingsuits.
+B is quite in the dark as to the remaining spades and hearts in A's hand. As it happens,if B pursues the attack in hearts, he loses the cards. On the other hand, if A has guards in spades instead of in hearts, and B continues to attack in spades, he also loses the cards.
 
-Example XII.In and out play.
+Under these circumstances, B can make certain of dividing the cards by now leading king of clubs.If the score is such that he must play to win the cards, he has no alternative but to continue his attack at random in one or other of his ace, king suits.
 
-The last three cards in the leader's hand areking, queen, ten of a suit, of which he can countthe adversary with ace, knave, and a small one.
+### Example XII.
 
-The leader makes certain of three points in playby leading the ten. If he leads king or queen,
+_In and out play._
 
-PIQUET. 191
+The last three cards in the leader's hand are king, queen, ten of a suit, of which he can count the adversary with ace, knave, and a small one.
 
-he only scores two, should his adversary refuseto win the card first led.
+The leader makes certain of three points in play by leading the ten. If he leads king or queen, he only scores two, should his adversary refuse to win the card first led.
 
 In one case, the score in play is A, two; B, three.In the other, it is A, three; B, four.
 
-A's proper lead depends on the score {seepp. 172, 173).
+A's proper lead depends on the score.
 
-Again:-A has tierce major, and two smallspades; and, king, queen of diamonds.
+Again:-A has tierce major, and two small spades; and, king, queen of diamonds.
 
 B has called four knaves and three aces.
 
-A leads four of his spades. If knave of dia-monds remains in B's hand, A makes seven inplay by next leading a diamond. But, if A leadsthe fifth spade, and knave of diamonds is thrownto it, he only scores six in play.
+A leads four of his spades. If knave of diamonds remains in B's hand, A makes seven in play by next leading a diamond. But, if A leads the fifth spade, and knave of diamonds is thrown to it, he only scores six in play.
 
-Example XIII.In and out play.
+### Example XIII.
 
-A has, declared in his hand, ace, queen, knaveof spades; and king, ten of hearts.
+_In and out play._
+
+A has, declared in his hand, ace, queen, knave of spades; and king, ten of hearts.
 
 B holds, ace, queen, knave of hearts; and king,ten of spades.
 
-It is the last hand of the partie. A, who isninety-five, leads the ace of spades, which makeshis total score ninety-six. A has already won threetricks (excluding the ace of spades), and B four.
+It is the last hand of the partie. A, who is ninety-five, leads the ace of spades, which makes his total score ninety-six. A has already won three tricks (excluding the ace of spades), and B four.
 
-If B throws the king of spades to the ace, Acan only score to ninety-nine.
+If B throws the king of spades to the ace, A can only score to ninety-nine.
 
-If B throws the ten to the ace, each playermakes one more point in play.
+If B throws the ten to the ace, each player makes one more point in play.
 
-The card for B to play to the ace depends onthe score Thus:-If B requires four points to
+The card for B to play to the ace depends on the score Thus:-If B requires four points to save the rubicon, he should play the ten to the ace.
 
-192 PIQUET.
+### Example XIV.
 
-save the rubicon, he should play the ten tothe ace.
+_In and out play._
 
-Example XIV.In and out play.
+A has, declared in his hand, ace, queen, knave of spades; ten of hearts; ace, nine of clubs.
 
-A has, declared in his hand, ace, queen, knaveof spades; ten of hearts; ace, nine of clubs.
+B holds, king, ten of spades; knave, nine of hearts; king, queen of clubs.
 
-B holds, king, ten of spades; knave, nine ofhearts; king, queen of clubs.
+A can count B's hand, and knows him to be singly guarded in both spades and clubs.
 
-A can count B's hand, and knows him to besingly guarded in both spades and clubs.
+If A leads ace, queen of spades, he will score five in play, and B will score four.
 
-If A leads ace, queen of spades, he will scorefive in play, and B will score four.
+The result will be the same if A leads ace, nine of clubs.
 
-The result will be the same if A leads ace, nineof clubs.
+If A leads ten of hearts, he scores six in play,and B five. The number of tricks won by A will be the same in either case, viz., three.
 
-If A leads ten of hearts, he scores six in play,and B five. The number of tricks won by Awill be the same in either case, viz., three.
+After what has already been said, it will be clear that A's lead depends on the score.
 
-After what has already been said, it will beclear that A's lead depends on the score.
+Say it is the fifth hand of the partie, and that A is under a rubicon. He should lead the heart.
 
-Say it is the fifth hand of the partie, andthat A is under a rubicon. He should leadthe heart.
+Or, to take an extreme case, it is the last hand,and A's score (including what he has already made in the hand) is ninety-four. If he does not lead the heart, he is rubiconed.
 
-Or, to take an extreme case, it is the last hand,and A's score (including what he has alreadymade in the hand) is ninety-four. If he doesnot lead the heart, he is rubiconed.
+On the other hand, if A is well ahead, and his game is to keep B back, he should not lead the heart.
 
-On the other hand, if A is well ahead, andhis game is to keep B back, he should not leadthe heart.
+### Example XV.
 
-PIQUET-
+_In and out play._
 
-193
+A (Elder Hand).
 
-Example XV.In and out play.
+![Picture #53](images/000065.jpg)
 
-A (Elder Hand).</p>
-<div class="calibre7">
-<img alt="Picture #53" src="images/000065.jpg" class="calibre1" />
-</div>
-<p class="calibre5">B (Younger Hand).
+B (Younger Hand).
 
-B has discarded eight of spades; and eight,seven of diamonds.
+B has discarded eight of spades; and eight, seven of diamonds.
 
-A scores seventeen in hand (point in spades,tierces in spades and hearts, three queens, andthree tens).
+A scores seventeen in hand (point in spades,tierces in spades and hearts, three queens, and three tens).
 
-He must win the cards, and he requires, inaddition, ten in play to get out of the rubicon.
+He must win the cards, and he requires, in addition, ten in play to get out of the rubicon.
 
-All the cards in his hand, except two, areknown from the call. It is highly improbablethat he has put out both ace and king of dia-monds, especially as he does not reckon the tenof clubs. Therefore, it may be assumed that heo
+All the cards in his hand, except two, are known from the call. It is highly improbable that he has put out both ace and king of diamonds, especially as he does not reckon the ten of clubs. Therefore, it may be assumed that he has at most two clubs. In that case, he cannot make more than nine in play, if B plays properly.
 
-PIQUET.
+A leads the spades. To these, B plays two spades and three diamonds. A then leads three diamonds, and any other card, and only scores nine in play. B scores five in play.
 
-has at most two clubs. In that case, he cannotmake more than nine in play, if B plays properly.
+On the other hand, if B requires six to save his rubicon, he should keep the diamonds guarded,and should throw to the spades, two spades, a heart, and two clubs. If then he leads a diamond when he gets in, he scores one more in play. A scores two more in play; but B has succeeded in saving the rubicon.
 
-A leads the spades. To these, B plays twospades and three diamonds. A then leads threediamonds, and any other card, and only scoresnine in play. B scores five in play.
+### Example XVI.
 
-On the other hand, if B requires six to savehis rubicon, he should keep the diamonds guarded,and should throw to the spades, two spades, aheart, and two clubs. If then he leads a diamondwhen he gets in, he scores one more in play. Ascores two more in play; but B has succeeded insaving the rubicon.
+_In and out play._,
 
-Example XVI.
+A (Elder Hand).
 
-In and out play.
+![Picture #54](images/000029.jpg)
 
-A (Elder Hand).</p>
-<div class="calibre7">
-<img alt="Picture #54" src="images/000029.jpg" class="calibre1" />
-</div>
-<p class="calibre5">B (Younger Hanc).
-
-PIQUET. 195
+B (Younger Hand)
 
 A has discarded nine, eight of spades; nine,eight of clubs; and ten of diamonds.
 
-It is the sixth hand of the partie. A has onlyfour aces good, which bring his score to seventy-seven. He wins the cards, and has to reckonthirteen in play to save the rubicon.
+It is the sixth hand of the partie. A has only four aces good, which bring his score to seventy-seven. He wins the cards, and has to reckon thirteen in play to save the rubicon.
 
-B's point is in hearts. A can score thirteenby in and out play, unless B has three diamonds,and attacks in that suit. Even if B has threediarnonds, it is unlikely he will lead them untilobliged, as he may find A with ace, queen, tenof the suit.
+B's point is in hearts. A can score thirteen by in and out play, unless B has three diamonds,and attacks in that suit. Even if B has three diamonds, it is unlikely he will lead them until obliged, as he may find A with ace, queen, ten of the suit.
 
-A leads seven of hearts; B plays the nine.If, instead of the seven, A leads ace, king ofhearts, as he probably would in an ordinaryhand, he cannot reckon thirteen in play.
+A leads seven of hearts; B plays the nine.If, instead of the seven, A leads ace, king of hearts, as he probably would in an ordinary hand, he cannot reckon thirteen in play.
 
-B leads anything-say, queen of hearts. Awins with the king, and leads ace, eight of hearts.It is compulsory on A to lead eight of heartsafter the ace.
+B leads anything - say, queen of hearts. A wins with the king, and leads ace, eight of hearts.It is compulsory on A to lead eight of hearts after the ace.
 
-B wins the eight of hearts, and next leads aclub, which A wins.
+B wins the eight of hearts, and next leads a club, which A wins.
 
-A's best lead is now seven of spades. B winswith the ten, and continues the club. A winsit, and must return the seven of clubs.
+A's best lead is now seven of spades. B wins with the ten, and continues the club. A wins it, and must return the seven of clubs.
 
-If B now leads a spade, A wins it, returns thespade, and then leads queen of diamonds. Or,if, instead of a spade, B leads a diamond, A winsit, and leads ace, queen of spades, and makes thelast trick with a diamond.
+If B now leads a spade, A wins it, returns the spade, and then leads queen of diamonds. Or,if, instead of a spade, B leads a diamond, A wins it, and leads ace, queen of spades, and makes the last trick with a diamond.
 
-The reason A leads seven of spades, at the
+The reason A leads seven of spades, at the sixth trick, instead of going on with the club suit, IS now apparent. Suppose all the hearts and clubs played, and that A remains with ace,queen, seven of spades, and ace, queen of diamonds. B has king, knave, ten of spades, and king, knave of diamonds, and it is B's lead. B leads a diamond, won by A. A leads seven of spades, won by B, who again leads a diamond,won by A.
 
-o 2
+Now A remains with ace, queen of spades, and is in a dilemma. He cannot tell whether B has two spades left, or a spade and a diamond. If then A leads ace of spades, on the speculation that B has one spade and one diamond (the probable case), he fails to score thirteen in play.By leading the seven of spades at an earlier period of the hand, as directed, A avoids being thus put to a lead.
 
-196 PIQUET.
+At some scores, A's play would be very bad. As played, A reckons thirteen and B ten. By leading three aces and two kings, and any other card (keeping ace, queen of diamonds), A makes the same number of tricks, but the scores in play are. A, nine; B, six; a difference of four to each player. Suppose then B were ninety-three after counting his hand, and A any higher score, A should not play in and out.
 
-sixth trick, instead of going on with the clubsuit, IS now apparent. Suppose all the heartsand clubs played, and that A remains with ace,queen, seven of spades, and ace, queen of dia-monds. B has king, knave, ten of spades, andking, knave of diamonds, and it is B's lead. Bleads a diamond, won by A. A leads seven ofspades, won by B, who again leads a diamond,won by A.
+Or, suppose it is the fifth hand of the partie,and that A can reach the score of eighty-six,by playing in and out. He should play to get within his show.
 
-Now A remains with ace, queen of spades, andis in a dilemma. He cannot tell whether B hastwo spades left, or a spade and a diamond. Ifthen A leads ace of spades, on the speculationthat B has one spade and one diamond (theprobable case), he fails to score thirteen in play.By leading the seven of spades at an earlier periodof the hand, as directed, A avoids being thus putto a lead.
-
-At some scores, A's play would be very bad.As played, A reckons thirteen and B ten. Byleading three aces and two kings, and any othercard (keeping ace, queen of diamonds), A makesthe same number of tricks, but the scores in playare. A, nine; B, six; a difference of four to eachplayer. Suppose then B were ninety-three aftercounting his hand, and A any higher score, Ashould not play in and out.
-
-Or, suppose it is the fifth hand of the partie,and that A can reach the score of eighty-six,by playing in and out. He should play to getwithin his show {see p. 173).
-
-PIQUET.
-
-197
-
-Example XVII.
+### Example XVII.
 
 Playing to the score, and foregoing a pique,
 
-A (Elder Hand).</p>
-<div class="calibre7">
-<img alt="Picture #55" src="images/000026.jpg" class="calibre1" />
-</div>
-<p class="calibre5">B (Younger Hand).
+A (Elder Hand).
 
-It is the last hand of the partie. A has dis-carded knave, eight, seven of clubs; and ten,eight of diamonds.
+![Picture #55](images/000026.jpg)
+
+B (Younger Hand).
+
+It is the last hand of the partie. A has discarded knave, eight, seven of clubs; and ten, eight of diamonds.
 
 A's score is seventy; B's score is eighty-two.
 
-A has a pique, good against the cards, if, afterreckoning his point, quint, and three aces, heleads his aces and kings, and then any othercard.
+A has a pique, good against the cards, if, after reckoning his point, quint, and three aces, he leads his aces and kings, and then any other card.
 
-If A plays in this way, he scores sixty, andhis total score is a hundred and thirty. B scoreseight in play, and ten for the cards, and his total
+If A plays in this way, he scores sixty, and his total score is a hundred and thirty. B scores eight in play, and ten for the cards, and his total score is a hundred. B saves the rubicon, and A wins a partie of a hundred and thirty.
 
-198 PIQUET.
-
-score is a hundred. B saves the rubicon, andA wins a partie of a hundred and thirty.
-
-But, if A foregoes the pique, and leads aceand another heart, he must divide the cards, what-ever B has discarded. A then wins a rubicon.
+But, if A foregoes the pique, and leads ace and another heart, he must divide the cards, whatever B has discarded. A then wins a rubicon.
 
 Played in this way, with the hands given above,A scores twenty-four in hand, two in play (for ace,queen of hearts), and six for the last five tricks(in all thirty-two), and the cards are divided.
 
-B scores seven in play (this he must reckonin order to divide the cards).
+B scores seven in play (this he must reckon in order to divide the cards).
 
-The scores will then be, A, a hundred and two;B, eighty-nine. A wins a rubicon of two hundredand ninety-one.
+The scores will then be, A, a hundred and two ; B, eighty-nine. A wins a rubicon of two hundred and ninety-one.
 
-By foregoing the pique, A gains a hundred andsixty-one points.
+By foregoing the pique, A gains a hundred and sixty-one points.
 
-In order to avoid complicating the case withother considerations, the question of A's bestplay has hitherto been neglected. It will beseen that A can still make sure of dividing thecards if he leads the ace of spades before at-tacking in hearts. And, he may find B un-guarded in spades. In that event, he wins apique and the cards. If the queen of spadesdoes not fall to the ace, A should then changeto the heart suit, leading ace and queen as aboveadvised. In other words, A should not thought-lessly throw away a chance of a pique, becausehe sees he can certainly win a rubicon by fore-going it.
+In order to avoid complicating the case with other considerations, the question of A's best play has hitherto been neglected. It will be seen that A can still make sure of dividing the cards if he leads the ace of spades before attacking in hearts. And, he may find B unguarded in spades. In that event, he wins apique and the cards. If the queen of spades does not fall to the ace, A should then change to the heart suit, leading ace and queen as above advised. In other words, A should not thoughtlessly throw away a chance of a pique, because he sees he can certainly win a rubicon by foregoing it.
 
-PIQUET.
+### Example XVIII
 
-199
+_An intricate case of playing to the score (from actual play), and of winning a capot by sinking point and quatorze._
 
-Example XVIIL
+A (Elder Hand).
 
-An intricate case of playing to the score (from actual
+![Picture #56](images/000031.jpg)
 
-play), a7id of ivinning a capot by sinking point and
+B (Younger Hand).
 
-quatoi'ze.
-
-A (Elder Hand).</p>
-<div class="calibre7">
-<img alt="Picture #56" src="images/000031.jpg" class="calibre1" />
-</div>
-<p class="calibre5">B (Younger Hand).
-
-It is the sixth hand of the partie. The scoresare, A, forty-three; B, ninety.
+It is the sixth hand of the partie. The scores are, A, forty-three; B, ninety.
 
 A has discarded eight, seven of spades; ten,seven of hearts; and nine of diamonds.
 
-If A's point of thirty-nine in clubs is good, Bmust be out in spades, and A scores a repique.
+If A's point of thirty-nine in clubs is good, B must be out in spades, and A scores a repique.
 
-If B is out in spades, A can equally win arepique by calling a point of thirty-eight in dia-monds. In either case B is rubiconed.
+If B is out in spades, A can equally win a repique by calling a point of thirty-eight in diamonds. In either case B is rubiconed.
 
-200 PIQUET.
+On the other hand, if B has his quart in spades, there is no repique. A's resource, then,is a capot, and this he can win if B is unguarded in clubs.
 
-On the other hand, if B has his quart inspades, there is no repique. A's resource, then,is a capot, and this he can win if B is unguardedin clubs.
+But A may possibly capot his adversary, even if guarded in clubs, by inducing him to believe that clubs are out, elder hand. If A calls thirty-nine for point, it is evident that the point is in clubs, and B will keep himself guarded in that suit. A's object, therefore, should be to conceal the fact that he holds four clubs, and A should call thirty-eight in diamonds. It has already been shown that, if B has four spades, this call can only injure A to the extent of four points, a matter not worth considering as against the chance of a capot.
 
-But A may possibly capot his adversary, evenif guarded in clubs, by inducing him to believethat clubs are out, elder hand. If A calls thirty-nine for point, it is evident that the point is inclubs, and B will keep himself guarded in thatsuit. A's object, therefore, should be to concealthe fact that he holds four clubs, and A shouldcall thirty-eight in diamonds- It has already beenshown that, if B has four spades, this call can onlyinjure A to the extent of four points, a matter notworth considering as against the chance of a capot.
+B replies, "Not good". He therefore has a quart in spades.
 
-B replies, "Not good." He therefore has aquart in spades.
+A, in pursuance of his tactics, calls four kings and three aces (not reckoning the ace of clubs),
 
-A, in pursuance of his tactics, calls four kingsand three aces (not reckoning the ace of clubs),
+A leads his four diamonds. To three of the diamonds B plays nine of spades, eight of hearts,and seven of clubs. B has now to play one other card. If he believes the ace of clubs to be out,he will naturally throw the nine of clubs. If he does so, he is capoted.
 
-A leads his four diamonds. To three of thediamonds B plays nine of spades, eight of hearts,and seven of clubs. B has now to play one othercard. If he believes the ace of clubs to be out,he will naturally throw the nine of clubs. If hedoes so, he is capoted.
+The scores will then be: A, seventeen in hand,thirteen in play, and forty for the cards and capot;total, seventy. This, added to his former score of forty-three, makes him a hundred and thirteen.B scores eight, making him ninety-eight. A wins a rubicon of three hundred and eleven.
 
-The scores will then be:-A, seventeen in hand,thirteen in play, and forty for the cards and capot;total, seventy. This, added to his former score offorty-three, makes him a hundred and thirteen.B scores eight, making him ninety-eight. A winsa rubicon of three hundred and eleven.
+### Example XIX.
 
-PIQUET.
+_Playing to score as little as possible and to divide the cards._
 
-20I
+A (Elder Hand).
 
-Example XIX.
+![Picture #57](images/000019.jpg)
 
-Playing to score as lUtle as possible^ and todivide the cards.
+B (Younger Hand).
 
-A (Elder Hand).</p>
-<div class="calibre7">
-<img alt="Picture #57" src="images/000019.jpg" class="calibre1" />
-</div>
-<p class="calibre5">B (Younger Hand).
-
-It is the sixth hand of the partie. A has dis-carded nine, eight of hearts; and queen, nine,eight of clubs.
+It is the sixth hand of the partie. A has discarded nine, eight of hearts; and queen, nine,eight of clubs.
 
 B's score is fifty.
 
-A's first care should be to see whether B canpossibly make fifty, which saves the rubicon.Whatever he has discarded, he cannot score morethan forty-seven.
+A's first care should be to see whether B can possibly make fifty, which saves the rubicon.Whatever he has discarded, he cannot score more than forty-seven.
 
-If A calls, '"Forty-eight" in diamonds, B willreply, "Equal," and will declare forty-eight inhearts, his object being to declare equalities. A
+If A calls, "Forty-eight" in diamonds, B will reply, "Equal", and will declare forty-eight in hearts, his object being to declare equalities. A should call twenty-nine for point, which compels a score. B should allow this to be good.
 
-202 PIQUET.
+A should then call a quart to a knave. B should say, "Not good", as, if he admits it,A also reckons a tierce in diamonds.
 
-should call twenty-nine for point, which compelsa score. B should allow this to be good.
+A then calls three tens, which B, in order to conceal his hand, allows to be good.
 
-A should then call a quart to a knave. Bshould say, "Not good," as, if he admits it,A also reckons a tierce in diamonds.
+A leads ace of clubs, that he may not risk being put to a card; and, as he cannot win the cards, should try to lose them. A next leads king of diamonds.
 
-A then calls three tens, which B, in order toconceal his hand, allows to be good.
-
-A leads ace of clubs, that he may not riskbeing put to a card; and, as he cannot win thecards, should try to lose them. A next leads kingof diamonds.
-
-It is now B's turn. He has discarded sevenof spades; knave of clubs; and nine of diamonds.In order to reckon as little as possible, he onlycalls a quart in hearts.
+It is now B's turn. He has discarded seven of spades; knave of clubs; and nine of diamonds.In order to reckon as little as possible, he only calls a quart in hearts.
 
 B wins A's diamond; and, if he plays properly,can divide the cards.
 
-B leads tierce major in spades, four tricks; ace,king of hearts, six tricks. To the hearts A playsking of clubs and ten of diamonds, endeavouringto lose the cards if B holds knave of clubs or nineof diamonds.
+B leads tierce major in spades, four tricks; ace,king of hearts, six tricks. To the hearts A plays king of clubs and ten of diamonds, endeavouring to lose the cards if B holds knave of clubs or nine of diamonds.
 
-B now leads seven of diamonds. A wins it•with the knave; and, as he has only winningcards in his hand, the cards are divided.
+B now leads seven of diamonds. A wins it•with the knave; and, as he has only winning cards in his hand, the cards are divided.
 
-If A had continued with a second club afterthe ace, B should have thrown the ten of hearts,as seven of hearts and seven of diamonds, if keptin hand, may enable B, after winning six tricks,to get rid of the lead when A remains with onlywinninLT cards.
+If A had continued with a second club after the ace, B should have thrown the ten of hearts,as seven of hearts and seven of diamonds, if kept in hand, may enable B, after winning six tricks,to get rid of the lead when A remains with only winning cards.

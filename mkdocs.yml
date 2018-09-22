@@ -1,14 +1,14 @@
 site_name: Treatise on piquet
 pages:
-  - Preface: preface.md
+  - Preface: index.md
   - Laws of Piquet: lawsOfPiquet.md
   - Historical: historical.md
   - Description of the game: descriptionOfTheGame.md
   - Conduct of the game: conductOfTheGame.md
   - Discarding: discarding.md
   - Calling: calling.md
-  - Playing the cards TODO: playingTheCards.md
-  - Odds at Piquet TODO : oddsAtPiquet.md
+  - Playing the cards: playingTheCards.md
+  - Odds at Piquet : oddsAtPiquet.md
 theme: readthedocs
 docs_dir: src/
 site_dir: html/

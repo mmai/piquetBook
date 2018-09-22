@@ -2,177 +2,109 @@
 
 ## The show
 
-The Show, elder hand (when small cards arecounted in play), is twenty-eight; younger hand isfourteen. That is, it is about an even chance theelder hand will score twenty-eight or more, andthat the younger hand will score fourteen or more.
+The Show, elder hand (when small cards are counted in play), is twenty-eight; younger hand is fourteen. That is, it is about an even chance the elder hand will score twenty-eight or more, and that the younger hand will score fourteen or more.
 
-The above results have been obtained empiri-cally thus :-
+The above results have been obtained empirically thus :
 
-In 10,000 hands-</p><table class="calibre8"><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">The Elder Hand scored</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">28 or more</p></td><td class="calibre10"><p class="calibre5">27 or less</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Times</p></td><td class="calibre10"><p class="calibre5">5129</p></td><td class="calibre10"><p class="calibre5">4871</p></td></tr></table><p class="calibre5">It is therefore slightly in favour of a score of atleast twenty-eight, elder hand.In 10,000 hands--■</p><table class="calibre8"><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">The Younger Hand scored</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">14 or more i 13 or less
+In 10 000 hands the elder hand scored 28 or more 5129 times, 27 or less 4871 times.
 
-j 1</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Times</p></td><td class="calibre10"><p class="calibre5">4997 5003</p></td></tr></table><p class="calibre5">PIQUET.
+It is therefore slightly in favour of a score of at least twenty-eight, elder hand.
+
+In 10 000 hands, the Younger Hand scored 14 or more 4997 times, 13 or less 5003 times.
 
 This gives fourteen as the show, younger hand.
 
-The show, when small cards are not countedin play (as was formerly the case), is twenty-sevenelder hand and thirteen younger hand. It is notknown how this result was arrived at. It is be-lieved that it can only be obtained by the laboriousmethod of keeping statistics of a large number ofhands, as has now been done for the rubicongame, in which small cards are counted in play.
+The show, when small cards are not counted in play (as was formerly the case), is twenty-seven elder hand and thirteen younger hand. It is not known how this result was arrived at. It is believed that it can only be obtained by the laborious method of keeping statistics of a large number of hands, as has now been done for the rubicon game, in which small cards are counted in play.
 
-ODDS AT VARIOUS SCORES.
+## Odds at various scores
 
-The odds at various scores may be deducedapproximately from the following tables :-
+The odds at various scores may be deduced approximately from the following tables :
 
-In 10,000 Hands, the Elder Hand scored
+| In 10,000 Hands, the Elder Hand scored |           |
+| -------------------------------------- | --------- |
+| Under 10                               | 977 times |
+| Between 10 and 20                      | 1743      |
+| Between 20 and 30                      | 2867      |
+| Between 30 and 40                      | 2105      |
+| Between 40 and 50                      | 902       |
+| Between 50 and 60                      | 76        |
+| Between 60 and 70                      | 166       |
+| Between 70 and 80                      | 664       |
+| Between 80 and 90                      | 106       |
+| Between 90 and 100                     | 20        |
+| Between 100 and 110                    | 88        |
+| Between 110 and 120                    | 210       |
+| Between 120 and 130                    | 40        |
+| Between 130 and 140                    | 2         |
+| Between 140 and 150                    | 18        |
+| 150 or more                            | 16        |
 
-Under 10
-
-Between 10 and 20
-
-,, . 20 ,, 30
-
-30 „ 40
-
-40 ,, 50
-
-5j 50 &gt;, 60
-
-60 „ 70
-
-,, 70 ,, 80
-
-,, 80 ,, 90
-
-,, 90 ,, 100
-
-,, 100 ,, no
-
-,, no ,, 120
-
-,, 120 ,, 130
-
-130 ,, 140
-
-,, 140 ,, 150
-
-150 or more
-
-977 times
-
-1743
-
-2867
-
-2105
-
-902
-
-76
-
-166
-
-664
-
-106
-
-20
-
-88
-
-210
-
-40
-
-2
-
-18
-
-16
-
-PIQUET.
-
-205
-
-In 10,000 Hands, the Younger Hand scored</p><table class="calibre8"><tr class="calibre9"><td class="calibre10"><p class="calibre5">Under 10 ..</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5"></p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">Between 10</p></td><td class="calibre10"><p class="calibre5">and</p></td><td class="calibre10"><p class="calibre5">20</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">,, 20</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">30</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">30</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">40</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">40</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">50</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">50</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">60</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">60</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">70</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">70</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">80</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">80</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">90</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">90</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">100</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">100</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">no</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">no</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">120</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">120</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">130</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">130</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">140</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">140</p></td><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">150</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5"></p></td><td class="calibre10"><p class="calibre5">150</p></td><td class="calibre10"><p class="calibre5">or more</p></td></tr></table><p class="calibre5">3556 times'
-
-2560
-
-2317
-
-944
-
-423
-
-35
-
-13
-
-21
-
-528
-
-5238
-
-7
-
-o
-
-o
-
-To Work the Tables.-Add together all thehands which score less than the amount, required;and separately add together all the hands whichscore the number required or more. The sumof the one, as against that of the other, will givethe required odds approximately.
-
-Examples.-(i). It is the last hand of a partie.The elder hand is 90. Required the odds infavour of his saving the rubicon.
-
-The odds are 9023 to 977, or nearly 9^ to ithat he will score 10 or more.
+| In 10,000 Hands, the Younger Hand scored |           |
+| -------------------------------------- | --------- |
+| Under 10                               | 3556 times * |
+| Between 10 and 20                      | 2560      |
+| Between 20 and 30                      | 2317      |
+| Between 30 and 40                      | 944      |
+| Between 40 and 50                      | 423       |
+| Between 50 and 60                      | 35        |
+| Between 60 and 70                      | 13       |
+| Between 70 and 80                      | 21       |
+| Between 80 and 90                      | 5       |
+| Between 90 and 100                     | 28        |
+| Between 100 and 110                    | 52        |
+| Between 110 and 120                    | 38       |
+| Between 120 and 130                    | 7        |
+| Between 130 and 140                    | 0         |
+| Between 140 and 150                    | 0        |
+| 150 or more                            | 1        |
 
 * Of these, 102 times he scored o.
 
-2o6 PIQUET.
+**To Work the Tables**: Add together all the hands which score less than the amount, required;and separately add together all the hands which score the number required or more. The sum of the one, as against that of the other, will give the required odds approximately.
 
-(2). Required the odds that the elder hand willscore at least 20.
+## Examples. 
 
-The odds are 7280 to 2720, or about 8 to 3in his favour.
+  1. It is the last hand of a partie. The elder hand is 90. Required the odds in favour of his saving the rubicon.  The odds are 9023 to 977, or nearly 9.25 to 1 that he will score 10 or more.
 
-(3). It is known to be an even chance that theelder hand will score 28 or more. It is thereforeslightly against his scoring at least 30. The tablesgive 5587 to 4413, or about 5 to 4 against.
+  2. Required the odds that the elder hand will score at least 20.  The odds are 7280 to 2720, or about 8 to 3 in his favour.
 
-(4). The odds against the elder hand scoring40 or more are, according to the tables, 7692 to2308, or about 10 to 3.
+  3. It is known to be an even chance that the elder hand will score 28 or more. It is therefore slightly against his scoring at least 30. The tables give 5587 to 4413, or about 5 to 4 against.
 
-(5). It is the last hand of the partie. The elderhand is 140 points behind. Required the oddsagainst the elder hand's winning the partie.
+  4. The odds against the elder hand scoring 40 or more are, according to the tables, 7692 to 2308, or about 10 to 3.
 
-The odds given by the table are 9966 to 34,or 293 to I. The elder hand must get a repiqueand capot to win. In a few cases, the youngerhand may score a quatorze, when he may win, not-withstanding the elder hand's repique and capot.Making a full allowance for this contingency, theodds are about 290 to i.
+  5. It is the last hand of the partie. The elder hand is 140 points behind. Required the odds against the elder hand's winning the partie. The odds given by the table are 9966 to 34, or 293 to 1. The elder hand must get a repique and capot to win. In a few cases, the younger hand may score a quatorze, when he may win, notwithstanding the elder hand's repique and capot.Making a full allowance for this contingency, the odds are about 290 to 1.
 
-(6). In less desperate cases, the calculation ofthe odds becomes rather more complicated, as theconsideration of the score made by the youngerhand has to be taken into account. Thus :-Itis required to find the odds that the elder handwill score 90 more than the younger.
+  6. In less desperate cases, the calculation of the odds becomes rather more complicated, as the consideration of the score made by the younger hand has to be taken into account. Thus : It is required to find the odds that the elder hand will score 90 more than the younger.
 
-This cannot be discovered from the tables; butit may be approximated to as follows :-
+  This cannot be discovered from the tables; but it may be approximated to as follows :
 
-Including the cases in which the elder scoresbetween 90 and 100, the odds against him are
+  Including the cases in which the elder scores between 90 and 100, the odds against him are about 24.5 to 1. Excluding these cases, the odds are about 25 to 1. It may be concluded that the odds against the elder hand are nearer to 25 to 1 than 24 to 1.
 
-PIQUET. 207
+  As the odds against a repique are 27.5 to 1, and as an elder hand repique does not necessarily score 90 more than the younger, it might be argued that the odds should be more than 25 to 1. But more than 90 may be scored without a repique, as by pique and capot. And, on looking at the table, it will be seen that the elder hand scores over 100 more than eighteen times as often as he scores between 90 and 100. Hence it would seem that the odds of 25 to 1 are not far from the mark.
 
-about 24^ to 1. Excluding these cases, the oddsare about 25 to i. It may be concluded that theodds against the elder hand are nearer to 25 to ithan 24 to I.
+  7. Required the odds that the younger hand will save the rubicon, he being 90, last hand of a partie.
 
-As the odds against a rejoique are 27}^ to i,and as an elder hand repique does not necessarilyscore 90 more than the younger, it might be arguedthat the odds should be more than 25 to i. Butmore than 90 may be scored without a repique,as by pique and capot. And, on looking at thetable, it will be seen that the elder hand scoresover 100 more than eighteen times as often as hescores between 90 and 100. Hence it would seemthat the odds of 25 to i are not far from the mark.
+  The odds are 6444 to 3556, or 9 to 5 in his favour.
 
-(7). Required the odds that the younger handwill save the rubicon, he being 90, last hand ofa partie.
+  8. The younger hand wanting 20 to save therubicon, the odds against him are 6116 to 3884,or about 13 to 8.
 
-The odds are 6444 to 3556, or 9 to 5 in his favour.
+## Neglected variations.
 
-(8). The younger hand wanting 20 to save therubicon, the odds against him are 6116 to 3884,or about 13 to 8.
+The tables necessarily neglect variations which may arise in consequence of discarding and playing to the score, the great majority of the recorded hands having been played without reference to these considerations, and all hands having been omitted in which a player, finding his game hopeless, has played to divide the cards, or to score as little as possible.
 
-NEGLECTED VARIATIONS.
+The odds found by the tables can only be regarded as approximate odds, and as less than the true odds against a player who has to gain a point for which he especially strives. For instance:-The elder hand wanting 29 to get out, and seeing it on the cards to make that number, might discard, or play the cards, accordingly. On the other hand, the odds may be more than the true odds against a player v/ho has the partie well in hand,and who is only scheming to keep his adversary back, as, e.g. when the elder hand sacrifices apique in order to win or to divide the cards.
 
-The tables necessarily neglect variations which may arise in consequence of discarding and play-ing to the score, the great majority of the recordedhands having been played without reference tothese considerations, and all hands having beenomitted in which a player, finding his game hope-less, has played to divide the cards, or to scoreas little as possible.
+## Odds irrespective of the tables
 
-2o8 PIQUET.
+It is about 5 to 3 on the elder hand for the cards; nearly 3 to 1 against the younger hand's winning the cards; and a trifle over 7 to 1 against the cards being divided.
 
-The odds found by the tables can only be re-garded as approximate odds, and as less than thetrue odds against a player who has to gain a pointfor which he especially strives. For instance:-The elder hand wanting 29 to get out, and seeingit on the cards to make that number, might dis-card, or play the cards, accordingly. On the otherhand, the odds may be more than the true oddsagainst a player v/ho has the partie well in hand,and who is only scheming to keep his adversaryback, as, e.g.^ when the elder hand sacrifices apique in order to win or to divide the cards.
-
-ODDS IRRESPECTIVE OF THE TABLES,.
-
-It is about 5 to 3 on the elder hand for thecards; nearly 3 to i against the younger hand'swinning the cards; and a trifle over 7 to i againstthe cards being divided.
-
-The odds against a rubicon are about 7 to 2.The odds against a named player being rubi-coned are, therefore, 8 to i.
+The odds against a rubicon are about 7 to 2. The odds against a named player being rubiconed are, therefore, 8 to 1.
 
 A partie averages two hundred points.
 
-The odds against a repique elder hand arenearly 27}^ to i; against a younger hand re-pique, about 75 to I.
+The odds against a repique elder hand are nearly 27.5 to 1; against a younger hand repique, about 75 to 1.
 
-The odds against a pique (which of course in-cludes a repique) are rather more than 7 to i(about 36 to 5).
+The odds against a pique (which of course includes a repique) are rather more than 7 to 1 (about 36 to 5).
 
-The odds against a carte blanche in a namedplayer's hand are 1791 to i.
+The odds against a carte blanche in a named player's hand are 1791 to 1.
 
