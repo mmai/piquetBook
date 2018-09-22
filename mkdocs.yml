@@ -6,7 +6,7 @@ pages:
   - Description of the game: descriptionOfTheGame.md
   - Conduct of the game: conductOfTheGame.md
   - Discarding: discarding.md
-  - Calling TODO: calling.md
+  - Calling: calling.md
   - Playing the cards TODO: playingTheCards.md
   - Odds at Piquet TODO : oddsAtPiquet.md
 theme: readthedocs
