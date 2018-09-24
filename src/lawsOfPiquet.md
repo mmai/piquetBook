@@ -2,23 +2,23 @@
 
 ## SHUFFLING
 
-1. Each player has a right to shuffle both his own and his adversary's pack. The dealer has the right of shuffling last.
+  1. Each player has a right to shuffle both his own and his adversary's pack. The dealer has the right of shuffling last.
 
-2. The pack must not be shuffled below the table, nor in such manner as to expose the faces of any of the cards.
+  2. The pack must not be shuffled below the table, nor in such manner as to expose the faces of any of the cards.
 
 ## CUTTING
 
-3. A cut must consist of at least two cards, and at least two must be left in the lower packet,
+  3. A cut must consist of at least two cards, and at least two must be left in the lower packet,
 
-4. In cutting, the ace is highest. The player who cuts the higher card has the choice of deal, and the dealer has the choice of cards at the commencement of each partie.
+  4. In cutting, the ace is highest. The player who cuts the higher card has the choice of deal, and the dealer has the choice of cards at the commencement of each partie.
 
-5. If, in cutting for deal, a player expose more than one card, he must cut again.
+  5. If, in cutting for deal, a player expose more than one card, he must cut again.
 
-6. The cut for the deal holds good, even if the pack be incorrect.
+  6. The cut for the deal holds good, even if the pack be incorrect.
 
-7. If, in cutting to the dealer, or in reuniting the separated packets, a card be exposed, or if there be any confusion of the cards, there must be a fresh cut.
+  7. If, in cutting to the dealer, or in reuniting the separated packets, a card be exposed, or if there be any confusion of the cards, there must be a fresh cut.
 
-8. When a player in cutting has once separated the pack, he must abide by the cut.
+  8. When a player in cutting has once separated the pack, he must abide by the cut.
 
 ## DEALING
 

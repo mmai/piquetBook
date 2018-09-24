@@ -1,4 +1,7 @@
 site_name: Treatise on piquet
+site_author: Henri Bourcereau
+extra:
+    version: 0.1
 pages:
   - Preface: index.md
   - Laws of Piquet: lawsOfPiquet.md
@@ -12,4 +15,5 @@ pages:
 theme: readthedocs
 docs_dir: src/
 site_dir: html/
-
+markdown_extensions:
+  - sane_lists
