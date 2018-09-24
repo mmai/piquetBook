@@ -1,76 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
     <url>
-     <loc>/</loc>
-     <lastmod>2018-09-23</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-09-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>/lawsOfPiquet/</loc>
-     <lastmod>2018-09-23</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-09-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>/historical/</loc>
-     <lastmod>2018-09-23</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-09-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>/descriptionOfTheGame/</loc>
-     <lastmod>2018-09-23</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-09-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>/conductOfTheGame/</loc>
-     <lastmod>2018-09-23</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-09-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>/discarding/</loc>
-     <lastmod>2018-09-23</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-09-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>/calling/</loc>
-     <lastmod>2018-09-23</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-09-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>/playingTheCards/</loc>
-     <lastmod>2018-09-23</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-09-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>/oddsAtPiquet/</loc>
-     <lastmod>2018-09-23</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-09-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
 </urlset>
