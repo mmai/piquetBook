@@ -15,5 +15,6 @@ pages:
 theme: readthedocs
 docs_dir: src/
 site_dir: html/
+google_analytics: ['UA-320049-18', 'auto']
 markdown_extensions:
   - sane_lists
