@@ -1,12 +1,12 @@
 # LAWS OF PIQUET
 
-## SHUFFLING
+## Shuffling
 
   1. Each player has a right to shuffle both his own and his adversary's pack. The dealer has the right of shuffling last.
 
   2. The pack must not be shuffled below the table, nor in such manner as to expose the faces of any of the cards.
 
-## CUTTING
+## Cutting
 
   3. A cut must consist of at least two cards, and at least two must be left in the lower packet,
 
@@ -20,7 +20,7 @@
 
   8. When a player in cutting has once separated the pack, he must abide by the cut.
 
-## DEALING
+## Dealing
 
 9. The dealer must deal the cards by two at a time or by three at a time, giving the top cards to his adversary, the next to himself, and so on, until each player has twelve cards. The dealer having selected the mode in which he will distribute the cards, must not change it during the partie. The eight undealt cards (called the stock) are to be placed face downward, in one packet, on the table between the players.
 
@@ -40,7 +40,7 @@
 
 17. The non dealer must collect the cards for the ensuing deal, and must place them, properly collected, face downward on the table.
 
-## CARTE BLANCHE
+## Carte blanche
 
 18. _Carte blanche_ (a hand dealt, consisting of at least twelve cards, without king, queen, or knave) scores first, and consequently saves a _pique_ or a _repique_. It also counts toward a _pique_ or a _repique_.
 
@@ -48,7 +48,7 @@
 
 20. As soon as a player is aware that he has a carte blanche, he is bound to inform his adversary, but he need not show the _carte blanche_ until his adversary has discarded.
 
-## DISCARDING AND TAKING IN
+## Discarding and taking in
 
 21. The elder hand is entitled to discard five cards and to take in five. He is obliged to discard one card (except as provided in Law 42).
 
@@ -100,7 +100,7 @@
 
 45. A player may examine his own discard at any time.
 
-## CALLING AND SHOWING
+## Calling and showing
 
 46. The elder hand must call his point first, or he loses the right to call it. It is sufficient to call the number of cards of the point. The younger hand is not entitled to reply by inquiring what the elder hand's point makes, unless he hold at least an equal number of cards; and the inquiry bars him from counting a superior number of cards for point.
 
@@ -124,7 +124,7 @@
 
 56. When the younger hand has played to the first trick, neither player can reckon anything omitted (except as provided in Law 54).
 
-## PLAYING
+## Playing
 
 57. If a player play with less than twelve cards in hand, he is liable to no penalty. His adversary counts as tricks all cards that cannot be played to.
 
@@ -140,7 +140,7 @@
 
 60. A player is entitled to examine both hi sown and his adversary's tricks at any time.
 
-## SCORING
+## Scoring
 
 61. Carte blanche scores ten.
 
@@ -179,17 +179,17 @@
 
 74. In case of a difference in the written scores, a player's score of his own hand shall be taken as correct.
 
-## INCORRECT PACKS
+## Incorrect packs
 
 75. If a pack be discovered to be incorrect, redundant, or imperfect, the deal in which the discovery is made is void. All preceding deals stand good.
 
-## CHANGING CARDS
+## Changing cards
 
 76. Before the pack is cut to the dealer a player may call for fresh cards at his own expense. He must call for two new packs, of which the dealer has the choice.
 
 77. Torn or marked cards must be replaced, or new packs called for at the expense of the two players.
 
-## BYSTANDERS
+## Bystanders
 
 78. If a bystander call attention to any error or oversight, and thereby affect the score, he maybe called on to pay all stakes and bets of the player whose interest he has prejudicially affected.
 
@@ -258,7 +258,7 @@ A player has no choice of cards on commencing a fresh partie.
 
 # CASES AND DECISIONS.
 
-## Case I.
+## Case I
 
  - A calls four cards for point.
  - B replies, " Equal."

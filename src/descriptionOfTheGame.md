@@ -53,7 +53,8 @@ It is usual, but not compulsory, to call sequences next after point: quatorze or
 
 The elder hand should first call his best sequence. Any three or more cards of the same suit held in hand in the order given previously constitute a sequence. Sequences, and the amounts reckoned for them when good, are as under:
 
-| A sequence of | eight | cards (named a | huitieme | ) scores | eighteen. |
+| A sequence of | eight | cards (named a | huitieme )| scores | eighteen. |
+|---------------|-------|----------------|----------|----------|-----------|
 |               | seven |                | septième |          | seventee. |
 |               | six   |                | sixième  |          | sixteen. |
 |               | five  |                | cinquième |         | fifteen. |
