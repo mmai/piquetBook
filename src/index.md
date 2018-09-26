@@ -1,8 +1,8 @@
 **_The laws of Piquet adopted by the Portland and Turf Clubs_ with _A Treatise on the Game_ by Cavendish author of _The Laws and principle of whist_ etc., etc.**
 
-# Preface to the electronic edition
+# Preface to the web edition
 
-This is a transcription of the 8th edition of the book _[Cavendish on Piquet](images/laws_of_piquet_Cavendish.pdf)_. 
+This is a transcription of the 8th edition of the book _Cavendish on Piquet_ [available here in PDF format](images/laws_of_piquet_Cavendish.pdf).
 
 There is one difference with the original : I chose to postpone the _Laws of Piquet_ part at the end of the book, as it is mainly reference material and is therefore poorly suited to serve as an introduction to the game of Piquet.
 
