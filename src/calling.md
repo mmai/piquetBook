@@ -124,7 +124,7 @@ A coup such as this will generally succeed in practice; but it is difficult to s
 
 B is in a very awkward position. Probably his best game is to keep the clubs, as then he saves the capot, unless A has thrown four clubs and a spade, a most unlikely discard.
 
-When put to a card, the general rule is to count the cards remaining against {see pp. 170, 171).There is one other consideration, viz., what cards the adversary cannot in reason have discarded.Thus:-If a player might have a quart which he does not call, and his hand is such that it would have been very bad play to discard from a quart,the presumption is he did not go out with the quart originally, and therefore that he has taken in to that suit (compare Example IV.).
+When put to a card, the general rule is to count the cards remaining against. There is one other consideration, viz., what cards the adversary cannot in reason have discarded.Thus:-If a player might have a quart which he does not call, and his hand is such that it would have been very bad play to discard from a quart,the presumption is he did not go out with the quart originally, and therefore that he has taken in to that suit (compare [Example IV](#example-iv).).
 
 ### Example IV
 
@@ -180,5 +180,5 @@ A leads diamonds. B wins the second trick with the king, and leads ace, queen of
 
 A scores 98, and is rubiconed.
 
-In the worst possible case that can happen,i.e.^ if A leads ace of hearts instead of queen of clubs, notwithstanding that B is apparently guarded in hearts, B, as already pointed out,still wins the partie.
+In the worst possible case that can happen, i.e. if A leads ace of hearts instead of queen of clubs, notwithstanding that B is apparently guarded in hearts, B, as already pointed out,still wins the partie.
 

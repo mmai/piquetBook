@@ -74,7 +74,7 @@ The odds that the younger hand (if he takes all his cards) will take in :
 
 These calculations properly applied will direct the player in discarding.
 
-Thus: It is 3 to 1 that the elder hand does not take in a named card. It is, therefore, more advantageous to carry the best suit for point, and high cards for the chance of the cards, than to throw out any of these in hopes of taking in a card to complete a quatorze of queens, knaves, or tens (see Examples III., IV., and V)
+Thus: It is 3 to 1 that the elder hand does not take in a named card. It is, therefore, more advantageous to carry the best suit for point, and high cards for the chance of the cards, than to throw out any of these in hopes of taking in a card to complete a quatorze of queens, knaves, or tens (see [Examples III., IV., and V](#example-iii))
 
 The odds against taking in two or more named cards, or two of three named cards, elder hand, are so considerable, that, except in desperate cases, good cards should not be discarded on such a speculation. But the odds are very slight against taking one at least of two named cards, or two at least of four named cards ; and they are in favour of taking one at least of three or four named cards.
 
@@ -86,15 +86,15 @@ If the elder hand has a quatorze dealt him, and there is only one superior quato
 
 With a quart to a king and two other kings, it is 3 to 2 in favour of the elder hand taking in the ace or nine to the quart, or the fourth king, and,therefore, it is very advantageous to keep the quart and the three kings.
 
-If the elder hand has a quart to a king, and a quart major dealt him, and he is considerably behind in the score, and he must discard from one of the quarts, he should keep the quart to the king; for it is 3 to 1 against his taking in the ten to the quart major, but only 5 to 4 against his taking in either the ace or nine to the quart to the king. (For a further illustration of this calculation,see Example XXV.)
+If the elder hand has a quart to a king, and a quart major dealt him, and he is considerably behind in the score, and he must discard from one of the quarts, he should keep the quart to the king; for it is 3 to 1 against his taking in the ten to the quart major, but only 5 to 4 against his taking in either the ace or nine to the quart to the king. (For a further illustration of this calculation, see [Example XXV](#example-xxv).)
 
 The chance of taking a certain number of cards included in a larger number of named cards, must not be confused with the chance of taking a certain number of named cards. For instance, if the elder hand has two kings and two queens dealt him, the odds are 3 to 1 against his taking in two of the other kings and queens. But the odds against his taking two kings or two queens under these circumstances (i.e., two named cards) are 17 to 2 against him.
 
-The odds against the younger hand's taking in even one named card are so considerable (17 to 3 against him) that he ought not to discard on such a chance except in desperate cases (see Example XXX.), especially if by so doing he risks the winning or saving of the cards (see Example XIII.). The same rule applies a fortiori to more than one card.
+The odds against the younger hand's taking in even one named card are so considerable (17 to 3 against him) that he ought not to discard on such a chance except in desperate cases (see [Example XXX.](#example-xxx)), especially if by so doing he risks the winning or saving of the cards (see [Example XIII.](#example-xiii)). The same rule applies a fortiori to more than one card.
 
-It is only 5 to 2 against the younger hand's taking in one, at least, of two named cards. Hence, in some cases, he would discard on this chance (see Example XVIII. and Example XXXII.).
+It is only 5 to 2 against the younger hand's taking in one, at least, of two named cards. Hence, in some cases, he would discard on this chance (see [Example XVIII.](#example-xviii) and [Example XXXII](#example-xxxii).).
 
-Again : It is only 3 to 2 against the younger hand's taking in one, at least, of three named cards. Therefore, if he must take in one of three cards to save a pique or a repique, it would be right for him to discard for this chance, even if, in order to do so, he must put out a valuable card,as a king, or one of his point. (For a further illustration of this calculation, see Example XXXI.)
+Again : It is only 3 to 2 against the younger hand's taking in one, at least, of three named cards. Therefore, if he must take in one of three cards to save a pique or a repique, it would be right for him to discard for this chance, even if, in order to do so, he must put out a valuable card,as a king, or one of his point. (For a further illustration of this calculation, see [Example XXXI.](#example-xxxi))
 
 It is 29 to 28 in favor of the younger hand's taking in one of four named cards. So, having no ace dealt him, he may calculate on taking in at least one; or, with two quarts (except major or minor quarts), he may expect to take a card to make a quint; or, with a quart major against him,he may calculate on drawing, at least, one of the quart major.
 
@@ -218,7 +218,7 @@ The younger hand, in the case first stated,should not part with any of his quint
 
 ### Example X.
 
-_A similar case (see Example IX.)_
+_A similar case (see [Example IX.](#example-ix))_
 
 ![Picture #13](images/000051.jpg)
 

@@ -2,9 +2,9 @@
 
 ## Counting the hand
 
-In playing the cards, you must be guided good deal by what your adversary has called,and also, to some extent, by what he has not called (but see Sinking, pp. 156-165). You will generally know several cards in the adverse hand,or will be able to mark some that have been put out; sometimes you will know all the cards,especially after some of the tricks have been played. For instance : - If the younger hand fails to follow suit to your first lead of a suit of which you could only have five cards, it is evident he has put out three of that suit. You then know every card in his hand, and should regulate your play accordingly.
+In playing the cards, you must be guided good deal by what your adversary has called,and also, to some extent, by what he has not called (but see [Sinking](calling.md#sinking)). You will generally know several cards in the adverse hand,or will be able to mark some that have been put out; sometimes you will know all the cards,especially after some of the tricks have been played. For instance : - If the younger hand fails to follow suit to your first lead of a suit of which you could only have five cards, it is evident he has put out three of that suit. You then know every card in his hand, and should regulate your play accordingly.
 
-In default of actual knowledge of the contents of your opponent's hand, you should count his cards so far as he has called them, and should consider what cards he is least likely to have discarded. You then mentally assign to him the cards he has most probably kept, and so fill up his number (see Examples I. and II.).
+In default of actual knowledge of the contents of your opponent's hand, you should count his cards so far as he has called them, and should consider what cards he is least likely to have discarded. You then mentally assign to him the cards he has most probably kept, and so fill up his number (see [Examples I. and II.](#example-i)).
 
 ## Habit of adversary
 
@@ -12,7 +12,7 @@ You should also take into account the personal habit of your adversary in discar
 
 For instance: Some players habitually make bold discards, and throw entire suits. These are often found unguarded. Others, on the contrary, are timid discarders. These are generally guarded, even elder hand. The timid discarder is apt to leave a card, or to put out one of his point, in order to keep himself guarded. In the latter case he may, if unguarded, have sunk a card; but timid players seldom sink anything, except in very pronounced cases.
 
-The same division of players into bold and timid applies to their play of the cards. A timid player, for example, will never give away a chance if he can make sure of dividing the cards. Against such an adversary it would be useless to unguarded king in play (as in Examples III. and IV.), because, when he finds himself with five tricks and an ace in hand, he is certain to dash out the ace.
+The same division of players into bold and timid applies to their play of the cards. A timid player, for example, will never give away a chance if he can make sure of dividing the cards. Against such an adversary it would be useless to unguarded king in play (as in [Examples III.](#example-iii) and [IV.](#example-iv)), because, when he finds himself with five tricks and an ace in hand, he is certain to dash out the ace.
 
 Some, again, always throw high cards when attacked in suits in which they are guarded, in order to induce the leader to continue the suit.Thus:-With queen, nine, eight, they will throw the nine to the ace. If a player, who habitually does this, plays the eight to the ace, you may conclude he has not got the nine, and that he is unguarded.
 
@@ -44,7 +44,7 @@ With two suits of equal commanding strength, you should generally begin by leadi
 
 ## Preserving guards and tenaces
 
-When throwing to the opponent's lead, you should, of course, keep guards to kings and queens. Exceptional hands occur in which these should be unguarded, owing to the score, or to other circumstances (see following Examples III. and IV.).
+When throwing to the opponent's lead, you should, of course, keep guards to kings and queens. Exceptional hands occur in which these should be unguarded, owing to the score, or to other circumstances (see following [Examples III. and IV.](#example-iii)).
 
 When towards the close of a hand you have a tenace in one suit, and winning cards with a losing card in others, you should lead the winning cards and then the losing card, to oblige your adversary to lead up to the tenace. Of course, if you can count that your adversary is unguarded in the tenace suit, the above rule does not apply.
 
@@ -52,7 +52,7 @@ Also, when holding a tenace, it is often advisable to keep a losing card of anot
 
 When you hold two tenace suits of equal commanding strength, and must find your adversary unguarded in one of them in order to divide the cards, you should generally first lead the less numerous suit; and, if you must play to divide the cards (owing to the score), and your adversary is equally likely to be unguarded in either suit,you should always attack first in the one of which you hold the fewer number.
 
-The management and preservation of tenaces is a very important, and often a difficult point, in the play of the cards. (See Examples V. to X).
+The management and preservation of tenaces is a very important, and often a difficult point, in the play of the cards. (See [Examples V. to X](#example-v)).
 
 ## Playing to save a capot
 
@@ -72,23 +72,23 @@ If, however, one trick does not make the difference of saving, or winning, the c
 
 These rules are liable to modification in consequence of the state of the score. For example:-Although the rule is to make sure of the cards,nevertheless, when one point saves the rubicon,or wins or saves the partie, you should risk the cards for the sake of the last trick. Again : If you are elder hand and have the best of the partie,and can ensure dividing the cards, you should never risk the loss of them; but, if the younger hand has the best of the partie, it is often to your interest, as elder, to risk the loss of the cards,if, by so doing, you obtain a chance of winning them.
 
-For an instance of playing to divide the cards,see Example XL
+For an instance of playing to divide the cards, see [Example XI](#example-xi)
 
 It often happens that you have the option, when playing the cards, of making a certain number of tricks off the reel, and of letting your opponent score the remainder, or of changing the lead from your hand to his, and vice versa, one or more times. In either case, you win the same number of tricks; but every time you part with the lead and regain it, each player scores one point in play more than if the cards had been played without changing the lead. Whether you should make tricks straight off, or should play in and out, depends on the score.
 
-If you are less than a hundred, and are not within your show {see p. 199), you should play in and out. If you are within your show, and your adversary is not, you should keep him back,by refraining from playing in and out.
+If you are less than a hundred, and are not within your show (see [Example XVIII.](#example-xviii)), you should play in and out. If you are within your show, and your adversary is not, you should keep him back,by refraining from playing in and out.
 
-If you and your adversary are both over a hundred, it is immaterial whether you play in and out or not. If you play in and out, for every extra point you score, your adversary does the same; so there is then no advantage to either side (see Examples XII. to XVL).
+If you and your adversary are both over a hundred, it is immaterial whether you play in and out or not. If you play in and out, for every extra point you score, your adversary does the same; so there is then no advantage to either side (see [Examples XII. to XVI](#example-xii)).
 
 When you are near a pique, reckon up all the winning cards you have in hand, to ascertain whether you can make thirty before you lose the lead. If you can do so, lead your winning cards one after the other, without considering how many of the remaining tricks you will lose.
 
-There is one exception to this rule, owing to the score. Suppose, in the sixth deal, the score is such that, if the younger hand wins the cards,he saves the rubicon. In this case, if the elder hand can win the partie without the pique, and can divide or win the cards by not leading his winning cards immediately, but would lose the cards by so doing, he should forego the pique in order to win a rubicon (see Example XVII.,p. 197).
+There is one exception to this rule, owing to the score. Suppose, in the sixth deal, the score is such that, if the younger hand wins the cards,he saves the rubicon. In this case, if the elder hand can win the partie without the pique, and can divide or win the cards by not leading his winning cards immediately, but would lose the cards by so doing, he should forego the pique in order to win a rubicon (see [Example XVII.](#example-xvii)).
 
 It may also happen, but seldom, that similar tactics should be resorted to in the fifth hand,your adversary being very backward, and you very forward, in the score.
 
 In the last deal of a partie, if your adversary has scored less than a hundred, your object should be to prevent his reaching a hundred, and at the same time to make him score as many as possible,provided you can stop him short of a hundred.You should endeavor to prevent his declaring equalities; and if you cannot win the cards yourself, you should try to compel him to win them.
 
-If, on the other hand, you see you cannot reach a hundred, your object should be to score as little as possible, to declare equalities, and to divide the cards. If you see you cannot divide the cards, let your adversary add thirteen (for the tricks), and ten (for the cards), to his score. You thus avoid scoring by in and out play, and score nothing,it being understood that you are not piqued or capoted in consequence (see Example XIX.).
+If, on the other hand, you see you cannot reach a hundred, your object should be to score as little as possible, to declare equalities, and to divide the cards. If you see you cannot divide the cards, let your adversary add thirteen (for the tricks), and ten (for the cards), to his score. You thus avoid scoring by in and out play, and score nothing,it being understood that you are not piqued or capoted in consequence (see [Example XIX.](#example-xix)).
 
 ## Examples
 
@@ -330,7 +330,7 @@ B should lead the ace of diamonds, because it is his less numerous suit. If the 
 
 If the king of diamonds does not fall to the ace, B next leads hearts, and divides the cards.
 
-If B leads ace of hearts, before the diamond,and finds the king guarded, he loses the cards;but if he finds the king of hearts unguarded, he wins the cards. B's play may therefore depend on the score. If winning the cards wins the partie, or saves the rubicon, B should risk the heart; if dividing the cards wins the partie, B should lead the diamond. Or, if B is considerably behind in the score, and winning the cards brings him within his show, he should generally lead the heart {see Example XL).
+If B leads ace of hearts, before the diamond,and finds the king guarded, he loses the cards;but if he finds the king of hearts unguarded, he wins the cards. B's play may therefore depend on the score. If winning the cards wins the partie, or saves the rubicon, B should risk the heart; if dividing the cards wins the partie, B should lead the diamond. Or, if B is considerably behind in the score, and winning the cards brings him within his show, he should generally lead the heart (see [Example XI](#exaple-xi)).
 
 ### Example XI.
 
@@ -542,7 +542,7 @@ It is the sixth hand of the partie. A has discarded nine, eight of hearts; and q
 
 B's score is fifty.
 
-A's first care should be to see whether B can possibly make fifty, which saves the rubicon.Whatever he has discarded, he cannot score more than forty-seven.
+A's first care should be to see whether B can possibly make fifty, which saves the rubicon. Whatever he has discarded, he cannot score more than forty-seven.
 
 If A calls, "Forty-eight" in diamonds, B will reply, "Equal", and will declare forty-eight in hearts, his object being to declare equalities. A should call twenty-nine for point, which compels a score. B should allow this to be good.
 
@@ -558,6 +558,6 @@ B wins A's diamond; and, if he plays properly,can divide the cards.
 
 B leads tierce major in spades, four tricks; ace,king of hearts, six tricks. To the hearts A plays king of clubs and ten of diamonds, endeavouring to lose the cards if B holds knave of clubs or nine of diamonds.
 
-B now leads seven of diamonds. A wins it•with the knave; and, as he has only winning cards in his hand, the cards are divided.
+B now leads seven of diamonds. A wins it with the knave; and, as he has only winning cards in his hand, the cards are divided.
 
 If A had continued with a second club after the ace, B should have thrown the ten of hearts,as seven of hearts and seven of diamonds, if kept in hand, may enable B, after winning six tricks,to get rid of the lead when A remains with only winning cards.

@@ -1,9 +1,15 @@
 site_name: Treatise on piquet
 site_author: Henri Bourcereau
-repo_url: https://github.com/mmai/piquetBook/
-edit_uri: edit/master/src/
+# repo_url: https://github.com/mmai/piquetBook/
+# edit_uri: edit/master/src/
+theme: readthedocs
+docs_dir: src/
+site_dir: html/
+google_analytics: ['UA-320049-18', 'auto']
+markdown_extensions:
+  - sane_lists
 extra:
-    version: 0.2
+    version: 0.3
 nav:
   - Preface: index.md
   - Historical: historical.md
@@ -14,9 +20,5 @@ nav:
   - Playing the cards: playingTheCards.md
   - Odds at Piquet : oddsAtPiquet.md
   - Laws of Piquet: lawsOfPiquet.md
-theme: readthedocs
-docs_dir: src/
-site_dir: html/
-google_analytics: ['UA-320049-18', 'auto']
-markdown_extensions:
-  - sane_lists
+  - Laws of Piquet au Cent: lawsOfPiquetAuCent.md
+  - Cases and decisions: casesAndDecisions.md

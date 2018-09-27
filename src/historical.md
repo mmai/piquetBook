@@ -1,4 +1,3 @@
-# HISTORICAL
 
 Numerous theories have been broached respecting the origin and etymology of Piquet; but no positive conclusions have been arrived at.
 
@@ -294,7 +293,7 @@ In _Flora's Vagaries_, a comedy printed in 1670, Piquet is again introduced :
 
 The action of the play then causes the game to stop.
 
-It is interesting to observe that the score was marked with counters, and that the mode of play was as now, except that the pack was composed of thirty-six cards, otherwise Otrante could not take seven cards, and could not have a point of fifty-three, as with a thirty-two card pack this point cannot be made. (See pp. 63-65, for an account of the old mode of playing.)
+It is interesting to observe that the score was marked with counters, and that the mode of play was as now, except that the pack was composed of thirty-six cards, otherwise Otrante could not take seven cards, and could not have a point of fifty-three, as with a thirty-two card pack this point cannot be made. 
 
 The occurrence of Piquet in dramatic and other writings of this period is very common.
 
@@ -308,7 +307,7 @@ At the beginning of the eighteenth century, card playing was the rage in all par
 > **Lady'Lure**. Then the nine of diamonds at Comet [PopeJoan], three fives at Cribbage, and Pam [Knave of Chibs] in Lanterloo [Loo], Sir Harry !  
 > **Sir H**. Ay, Madam, these are charms indeed. Then the pleasure of picking your husband's pocket over night to play at Basset next day.
 
-About this date Piquet is sometimes spelt Piquette, as though the idea had gained ground that the word is a diminutive of pique (see p. 52). The first volume of Thomas D'Urfey's celebrated poems, _Wit and Mirth: or Pills to purge Melancholy_, (1719.), contains "A Poole at Piquette, The Words made and set to a Tune, by Mr. D'Urfey,made at Ramsbury Mannor."
+About this date Piquet is sometimes spelt Piquette, as though the idea had gained ground that the word is a diminutive of pique. The first volume of Thomas D'Urfey's celebrated poems, _Wit and Mirth: or Pills to purge Melancholy_, (1719.), contains "A Poole at Piquette, The Words made and set to a Tune, by Mr. D'Urfey,made at Ramsbury Mannor."
 
 > " Within an Arbour of delight,  
 > As sweet as Bowers Elisian  

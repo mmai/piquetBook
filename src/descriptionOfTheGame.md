@@ -1,6 +1,5 @@
 # Description of the game
 
-
 ## Introductory
 
 The Game of Piquet is played by two persons, with a pack of thirty-two cards - the sixes, fives, fours, threes, and twos, being thrown out from a complete pack. It is convenient to have two packs, each being used alternately.
@@ -9,11 +8,11 @@ The Game of Piquet is played by two persons, with a pack of thirty-two cards - t
 
 The players cut for deal. The highest has choice. The order of the cards, both in cutting, and in calling and playing, is ace (highest), king,queen, knave, ten, nine, eight, seven (lowest).
 
-The pack is then cut by the non-dealer, or elder hand, to the dealer, or younger hand, who reunites the packets and gives the top two cards to his adversary, the next two to himself, and soon, dealing two cards at a time to each player, until they have twelve cards apiece. Or, the deal may be by three at a time. The dealer places the undealt cards (called the stock), eight in number, face downwards on the table between the players. (See also Laws 1-17)
+The pack is then cut by the non-dealer, or elder hand, to the dealer, or younger hand, who reunites the packets and gives the top two cards to his adversary, the next two to himself, and soon, dealing two cards at a time to each player, until they have twelve cards apiece. Or, the deal may be by three at a time. The dealer places the undealt cards (called the stock), eight in number, face downwards on the table between the players. (See also [Laws 1-17](lawsOfPiquet.md))
 
 ## Discarding
 
-The players then look at their hands and proceed to discard, i.e., to put out such cards as they deem advisable (but see carte blanche). They then take in an equivalent number of cards from the stock. The elder hand has the privilege of thus exchanging five of his cards. He may take any less number, but he must exchange one. He separates his discard from his hand, places it aside, face downwards on the table, and takes from the top of the stock the number of cards discarded.
+The players then look at their hands and proceed to discard, i.e., to put out such cards as they deem advisable (but see [carte blanche](#carte-blanche-pique-and-repique)). They then take in an equivalent number of cards from the stock. The elder hand has the privilege of thus exchanging five of his cards. He may take any less number, but he must exchange one. He separates his discard from his hand, places it aside, face downwards on the table, and takes from the top of the stock the number of cards discarded.
 
 If the elder hand takes all his five cards he leaves three for the younger hand. If he discards less than five cards (leaving more than three in the stock) he announces the fact by saying, "I only take four", or three, or less, as the case may be; or, "I leave a card", or two, or more cards, as the case may be.
 
@@ -29,13 +28,13 @@ If the younger hand leaves any cards, he announces the number left. He has a rig
 
 Cards left untaken, and not looked at, must be kept separate from the hands and discards.
 
-Each player may look at his own discard at any time during the play of the hand; but he must keep his discard separate from his other cards. (See also Laws 21-45)
+Each player may look at his own discard at any time during the play of the hand; but he must keep his discard separate from his other cards. (See also [Laws 21-45](lawsOfPiquet.md#discarding-and-taking-in))
 
 ## Calling and showing
 
 The discarding and taking in being over, the players next announce or _call_ certain combinations of the cards in hand, and, if good, score for them. These combinations are point, sequences, and quatorzes and trios.
 
-The point must be announced first (Law 46). It is scored by the player who calls the suit of greatest number. If each player's best suit contains an equal number of cards, the point is then scored by the one who calls the suit of greatest strength, according to the following way of valuing it: The ace is valued at eleven, each of the court cards at ten apiece, and the other cards at the number of pips on each.
+The point must be announced first ([Law 46](lawsOfPiquet.md#calling-and-showing)). It is scored by the player who calls the suit of greatest number. If each player's best suit contains an equal number of cards, the point is then scored by the one who calls the suit of greatest strength, according to the following way of valuing it: The ace is valued at eleven, each of the court cards at ten apiece, and the other cards at the number of pips on each.
 
 The elder hand calls his point, thus: Suppose his best suit to consist of five cards. He would call, "Five cards." If the younger hand has no suit of equal or greater number, he replies, "Good." The elder hand then names the suit, saying, "In spades" or as the case may be, and counts one for each card, saying, "Five."
 
@@ -79,7 +78,7 @@ There is one exception to this. If the elder hand calls a sequence that is good 
 
 Some players show all that they claim as good or equal; this, however, is not compulsory, unless the cards are asked for.
 
-As the law now stands, calling is equivalent to showing. Hence, if A calls, say, "Forty-eight in diamonds," the only diamonds he can hold being ace, knave, ten, nine, eight, B is deemed to know that A holds a quart. A forgets to reckon his quart, and leads a card. B cannot reckon any equal or inferior sequence. If A remembers he has not reckoned the quart, he can rectify the omission before B has played to the first trick.(See Law 56 and Case IV.)
+As the law now stands, calling is equivalent to showing. Hence, if A calls, say, "Forty-eight in diamonds," the only diamonds he can hold being ace, knave, ten, nine, eight, B is deemed to know that A holds a quart. A forgets to reckon his quart, and leads a card. B cannot reckon any equal or inferior sequence. If A remembers he has not reckoned the quart, he can rectify the omission before B has played to the first trick (See [Law 56](lawsOfPiquet.md#calling-and-showing) and [Case IV.](casesAndDecisions.md#case-iv)).
 
 The younger hand is not bound to call his best sequence first. Thus, if the elder has called a tierce major, and the younger has replied, "Not good", the younger is at liberty to show and count a tierce minor first, and then a quart or larger sequence. The reason for the difference between the elder and younger hands in this respect is that the younger is only reckoning (adding up his score); but the elder is ascertaining whether what he calls is good, and, by calling a lower sequence before a higher, he might gain information as to the contents of his opponent's hand to which he is not entitled. The elder hand, however, having called a sequence which is good, may reckon lower sequences in any order for the same reason, viz., that he is then only adding up his score.
 
@@ -95,7 +94,7 @@ The younger hand may reckon his quatorzes or trios, if good, in any order. He is
 
 After the elder hand has finished calling, and has reckoned all that he has good, he leads a card. Before playing to this card, the younger hand reckons all that he has good, or calls all that he has equal.
 
-A player is not bound to call anything unless he pleases, and he may always call less than he holds, if he does not desire to expose his hand. (See also Laws 46-56)
+A player is not bound to call anything unless he pleases, and he may always call less than he holds, if he does not desire to expose his hand. (See also [Laws 46-56](lawsOfPiquet.md#calling-and-showing))
 
 ## Playing
 
@@ -111,13 +110,13 @@ The tricks are left face upwards on the table in front of the player who wins th
 
 If each player wins six tricks, the cards are divided, and there is no further score. If one player wins more than six tricks (called winning the cards), he adds ten to his score, beyond what he has counted in hand and play. If one player wins every trick (called winning a capot), he adds forty to his score instead of ten: ten for the cards and thirty for the capot.
 
-All cards scored for as good, or called as equal, must be exhibited to the adversary if demanded during the play of the hand. This, however, does not apply to a call of an equal number of cards for point by the younger hand, when the strength of his point is inferior to that of the elder's. Among players, the cards are not as a rule exhibited; but all necessary questions with regard to them are replied to. Thus: A scores a point of five cards, and plays three of them. Presently, B wants to refresh his memory, so he says, "How many of your point have you ?", or "How many spades?", or as the case may be; and A is bound to reply "Two". Similarly, if A had scored three kings, B is entitled to a reply to the question "What kings have you in hand?", or B might ask, "Have you anything in hand that you have called ?", then A must tell him. (See also Laws 57-60)
+All cards scored for as good, or called as equal, must be exhibited to the adversary if demanded during the play of the hand. This, however, does not apply to a call of an equal number of cards for point by the younger hand, when the strength of his point is inferior to that of the elder's. Among players, the cards are not as a rule exhibited; but all necessary questions with regard to them are replied to. Thus: A scores a point of five cards, and plays three of them. Presently, B wants to refresh his memory, so he says, "How many of your point have you ?", or "How many spades?", or as the case may be; and A is bound to reply "Two". Similarly, if A had scored three kings, B is entitled to a reply to the question "What kings have you in hand?", or B might ask, "Have you anything in hand that you have called ?", then A must tell him. (See also [Laws 57-60](lawsOfPiquet.md#playing))
 
 ## Carte blanche, pique and repique
 
 In the foregoing pages carte blanche, pique and repique have been omitted in order to simplify the description of the game.
 
-If either player has dealt to him a hand which contains neither king, queen, nor knave, he holds carte blanche. This entitles him to score ten. Before he takes in he must show the carte blanche by dealing his cards quickly one on top of the other, face upwards on the table, after which he retakes them into his hand. If either player has carte blanche, he must inform his adversary at once, by saying, "I have a carte blanche", or "Discard for carte blanche." As soon as the adversary has discarded, the carte blanche is shown to him. (See also Laws 18-20)
+If either player has dealt to him a hand which contains neither king, queen, nor knave, he holds carte blanche. This entitles him to score ten. Before he takes in he must show the carte blanche by dealing his cards quickly one on top of the other, face upwards on the table, after which he retakes them into his hand. If either player has carte blanche, he must inform his adversary at once, by saying, "I have a carte blanche", or "Discard for carte blanche." As soon as the adversary has discarded, the carte blanche is shown to him. (See also [Laws 18-20](lawsOfPiquet.md#carte-blanche))
 
 If the elder hand scores, _in hand and play_,  thirty or more before his adversary counts anything that hand, he wins a _pique_. A _pique_ entitles the player to add thirty to his score; but in all other respects the hand is played as already explained. For example : A has a quint major, which is good for point and sequence, and three aces, which are also good. He counts twenty for the point and quint, and three for the aces, and then leads the quint major and the two aces, or one of the aces and some other card. This makes him thirty; and, as his adversary has not scored anything, it is a _pique_. A, when he leads the card which makes him thirty, instead of counting "Thirty", counts "Sixty". It is not necessary that the card led which makes thirty should win the trick. The elder hand, having reckoned twenty-nine when his adversary has reckoned nothing, and having the lead, wins a _pique_ even if he leads a losing card.
 
@@ -146,13 +145,13 @@ Carte blanche, taking precedence of all other scores, saves piques and repiques.
 
 A capot does not count towards a pique, as the forty for the capot is added after the play of the hand is over. For instance: A (elder hand) has ace, king, queen, knave, eight of spades; ace,king, knave, ten, eight, seven of hearts; and ace of diamonds. His point and quart are good.These, with three aces, reckon thirteen. He wins every trick, and his total score is twenty-six. He adds forty for the capot, making him sixty-six. He does not gain a pique, as he only made twenty-six in hand and play.
 
-A player who reckons nothing that deal as a penalty (see Laws 25, 27, 28, 29, 31, 33, 35, 54, and 58) is not piqued or repiqued if he holds any cards which, but for the penalty, would have scored before his adversary reached thirty. His cards though not good to score, are good to bar his adversary.
+A player who reckons nothing that deal as a penalty (see [Laws 25, 27, 28, 29, 31, 33, 35](lawsOfPiquet.md#calling-and-taking-in), [54 and 58](lawsOfPiquet.md#playing)) is not piqued or repiqued if he holds any cards which, but for the penalty, would have scored before his adversary reached thirty. His cards though not good to score, are good to bar his adversary.
 
 A partie consists of six deals, each player dealing three times. The partie is won by the player who makes the higher score in six deals. If both players score the same number, each deals once more. If there is a second tie, the partie is drawn.
 
 By agreement the partie may consist of only four deals, the scores in the first and last deals counting double. In case of a tie, each deals once more, the scores in the extra deals counting single.
 
-The winner of a partie deducts the points scored by his opponent from his own, and adds a hundred to the difference. Thus : A scores in the six deals 131; B scores 113. A wins 131 - 13 = 118 points. Should the loser score less than a hundred in the six deals, the winner (whether he has made a hundred or not), adds the points scored by his adversary to his own, instead of deducting them, and also adds a hundred to his score. Thus: A scores 125; B scores 81. A wins 125 + 181= 306. This is called winning a _rubicon_. (See also Laws 61-74)
+The winner of a partie deducts the points scored by his opponent from his own, and adds a hundred to the difference. Thus : A scores in the six deals 131; B scores 113. A wins 131 - 13 = 118 points. Should the loser score less than a hundred in the six deals, the winner (whether he has made a hundred or not), adds the points scored by his adversary to his own, instead of deducting them, and also adds a hundred to his score. Thus: A scores 125; B scores 81. A wins 125 + 181= 306. This is called winning a _rubicon_. (See also [Laws 61-74](lawsOfPiquet.md#scoring))
 
 When, during the last hand of a partie, a player finds (before the play of the hand begins) that he cannot save his rubicon, he is not required to count any points in play. He throws down his hand, and tells his adversary to count every trick (thirteen), and the cards (ten). He may, if he pleases, play to divide the cards; but in that case, he has to add to his score the points he makes in play. Or, his adversary may play for a capot; but that does not affect the case, as, if capoted, the loser has no points in play to score.
 
@@ -177,76 +176,52 @@ The game is played for so much a point, or for so much a hundred, odd money not 
 
 At chouette piquet, the points of each partie are reckoned as multiples of ten, adding one to the tens for units above five, and neglecting units from one to five. Thus, 416 counts 420; 141 counts 140. As the score must always end in a naught, the naughts are omitted when entering the figures. Taking, as an example, the parties on the scoring card, the totals might be entered as under:
 
-<table class="calibre8"><tr class="calibre9"><td class="calibre10"><p class="calibre5">First Partie.</p></td><td class="calibre10"><p class="calibre5">Second Partie.</p></td><td class="calibre10"><p class="calibre5">Third Partie.</p></td><td class="calibre10"><p class="calibre5">etc.</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">A + 30B- 15C - 15</p></td><td class="calibre10"><p class="calibre5">A + 84B -42C -42</p></td><td class="calibre10"> A - 96B + 48 C + 48</td></tr></table>
+|First Partie|Second Partie|Third Partie|      |
+|------------|-------------|------------|------|
+| A + 30     | A + 84      | A - 96     |      |
+| B - 15     | B - 42      | B + 48     | etc. |
+| C - 15     | C - 42      | C + 48     |      |
 
 Instead of writing each score at length, as above, and taking out the results at the end, it is found convenient in practice to add and subtract the totals after every partie, and to keep a separate scoring card for that purpose, as shown below:
 
-<table class="calibre8"><tr class="calibre9"><td class="calibre10"><p class="calibre5">A +</p></td><td class="calibre10"><p class="calibre5">30 +</p></td><td class="calibre10"><p class="calibre5">114</p></td><td class="calibre10"><p class="calibre5">+</p></td><td class="calibre10"><p class="calibre5">18 +</p></td><td class="calibre10"><p class="calibre5">32 +</p></td><td class="calibre10"><p class="calibre5">19</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">B -</p></td><td class="calibre10"><p class="calibre5">15 -</p></td><td class="calibre10"><p class="calibre5">57</p></td><td class="calibre10"><p class="calibre5">-</p></td><td class="calibre10"><p class="calibre5">9 -</p></td><td class="calibre10"><p class="calibre5">37 -</p></td><td class="calibre10"><p class="calibre5">50</p></td></tr><tr class="calibre9"><td class="calibre10"><p class="calibre5">C -</p></td><td class="calibre10"><p class="calibre5">15 -</p></td><td class="calibre10"><p class="calibre5">57</p></td><td class="calibre10"><p class="calibre5">-</p></td><td class="calibre10"><p class="calibre5">9 +</p></td><td class="calibre10"><p class="calibre5">5 +</p></td><td class="calibre10"><p class="calibre5">31</p></td></tr></table>
+      A + 30 + 114 + 18 + 32 + 19
+      B - 15 -  57 -  9 - 37 - 50
+      C - 15 -  57 -  9 +  5 + 31
 
-A wins 190 ; C, 310 ; B loses 500. At tenshillings a hundred, when fractions of fifty pointsare not reckoned, A wins 150 (or fifteen shillings);C wins 300 (or thirty shillings). B, on the score,actually loses 500 (or fifty shillings); but in con-sequence of fractional parts of fifty points notcounting in the final total of amounts receivable,B gets off with a loss of forty-five.
+A wins 190 ; C, 310 ; B loses 500. At ten shillings a hundred, when fractions of fifty points are not reckoned, A wins 150 (or fifteen shillings) ; C wins 300 (or thirty shillings). B, on the score, actually loses 500 (or fifty shillings); but in consequence of fractional parts of fifty points not counting in the final total of amounts receivable, B gets off with a loss of forty-five.
 
-## EXAMPLE
+## Example
 
 The following Example will show more distinctly than mere description the mode of playing the game. The reader, if previously unacquainted with Piquet, is advised, after reading the Description of the Game, to play over the Example, and then to re-peruse the description. When playing the Example, it is advisable, in the case of learners, to place the cards face upwards on the table.
 
-A and B are the players.
-
-A (elder hand) has dealt him ace, king, knave of spades; ace, queen, knave, eight of hearts;knave, eight, seven of clubs; and nine, eight of diamonds.
-
-He discards king of spades; eight, seven of clubs; and nine, eight of diamonds.
-
-He takes in nine, eight of spades; king of hearts; nine of clubs; and king of diamonds.
-
-B (younger hand) has ten, seven of spades;ten, nine, seven of hearts; king, queen, ten of clubs; and ace, queen, knave, ten of diamonds.
-
-He discards seven of spades; and nine, seven of hearts.
-
-He takes in queen of spades; ace of clubs;and seven of diamonds.
-
-The game then proceeds thus:-
-
-A (calls his point), "Five cards."
-
-B (says), "What do they make?"
-
-A (replies), "Forty-nine," or "Making nine."
-
-B (replies), "Good."
-
-A (says), " In hearts; and quart major."
-
-B, "Good."
-
-A (counting his point and sequence), " Five and four are nine." " Three knaves ? "
-
-B, "Not good."
-
-A (leads ace of hearts, and says), "Ten."
-
-B (says), " Four tens fourteen, and three queens seventeen." (Plays the ten of hearts, j
-
-A (leads all the hearts, and says), " Eleven,twelve, thirteen, fourteen."
-
-B (plays seven, ten, knave, and queen of diamonds, and, repeating his score, says), "Seventeen."
-
-A now has five tricks, and, in order to win the cards, he should lead anything but a spade; for B,having called queens and tens, must have queen,ten of spades.
-
-A (leads king of diamonds, and says), "Fifteen."
-
-B (wins with ace of diamonds, and says)," Eighteen."
-
-B (leads, ace, king, queen, and ten of clubs,and says), "Nineteen, twenty, twenty-one, twenty-two."
-
-A (plays nine, knave of clubs, and eight, nine, of spades, and, repeating his score, says), "Fifteen."
-
-B (leads queen of spades, and says), "Twenty-three."
-
-PIQUET. 105
-
-A (wins with ace, and says), "Sixteen," (and then leads knave of spades, and says), " Eighteen,"(and then adding the score for the cards, says),"Twenty-eight."
-
-B (repeating his score, says), "Twenty-three."A then writes on his scoring card, 28, 23 ; B writes on his card, 23, 28; the cards are gathered up by B, and the other pack is cut for A's deal.
-
+**A** and **B** are the players.  
+**A** (elder hand) has dealt him ace, king, knave of spades; ace, queen, knave, eight of hearts;knave, eight, seven of clubs; and nine, eight of diamonds.  
+He discards king of spades; eight, seven of clubs; and nine, eight of diamonds.  
+He takes in nine, eight of spades; king of hearts; nine of clubs; and king of diamonds.  
+**B** (younger hand) has ten, seven of spades;ten, nine, seven of hearts; king, queen, ten of clubs; and ace, queen, knave, ten of diamonds.  
+He discards seven of spades; and nine, seven of hearts.  
+He takes in queen of spades; ace of clubs;and seven of diamonds.  
+The game then proceeds thus:-  
+**A** (calls his point), "Five cards."  
+**B** (says), "What do they make?"  
+**A** (replies), "Forty-nine," or "Making nine."  
+**B** (replies), "Good."  
+**A** (says), " In hearts; and quart major."  
+**B**, "Good."  
+**A** (counting his point and sequence), " Five and four are nine." " Three knaves ? "  
+**B**, "Not good."  
+**A** (leads ace of hearts, and says), "Ten."  
+**B** (says), " Four tens fourteen, and three queens seventeen." (Plays the ten of hearts, j  
+**A** (leads all the hearts, and says), " Eleven,twelve, thirteen, fourteen."  
+**B** (plays seven, ten, knave, and queen of diamonds, and, repeating his score, says), "Seventeen."  
+**A** now has five tricks, and, in order to win the cards, he should lead anything but a spade; for B,having called queens and tens, must have queen,ten of spades.  
+**A** (leads king of diamonds, and says), "Fifteen."  
+**B** (wins with ace of diamonds, and says)," Eighteen."  
+**B** (leads, ace, king, queen, and ten of clubs,and says), "Nineteen, twenty, twenty-one, twenty-two."  
+**A** (plays nine, knave of clubs, and eight, nine, of spades, and, repeating his score, says), "Fifteen."  
+**B** (leads queen of spades, and says), "Twenty-three."  
+**A** (wins with ace, and says), "Sixteen," (and then leads knave of spades, and says), " Eighteen,"(and then adding the score for the cards, says),"Twenty-eight."  
+**B** (repeating his score, says), "Twenty-three."A then writes on his scoring card, 28, 23 ; B writes on his card, 23, 28; the cards are gathered up by B, and the other pack is cut for A's deal.
 
 ## Chouette piquet
 
