@@ -1,3 +1,4 @@
+# Laws of Piquet au Cent
 
 The Laws of Piquet au cent, differ from those of Piquet in the following particulars: The player who cuts the lower card has to deal. If he exposes more than one card in cutting, his adversary may treat the lowest of the exposed cards as the one cut.
 

@@ -1,3 +1,5 @@
+# Cases and decisions
+
 ## Case I
 
  - A calls four cards for point.
