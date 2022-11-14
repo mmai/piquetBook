@@ -8,6 +8,8 @@ There is one difference with the original : I chose to postpone the _Laws of Piq
 
 You can also read this book on your ebook device by downloading the [epub edition](piquetCavendish.epub).
 
+The sources of the site are available on [this git repository](https://github.com/mmai/piquetBook/). You can report errors there by [creating a ticket](https://github.com/mmai/piquetBook/issues).
+
 # Preface to the first edition
 
 Since Hoyle's Treatise on Piquet was published in 1744, no original work on Piquet has appeared in the English language (so far as the author has been able to discover), though Hoyle has several times been edited with more or less success.
