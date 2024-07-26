@@ -1,15 +1,19 @@
 site_name: Treatise on piquet
 site_author: Henri Bourcereau
-# repo_url: https://github.com/mmai/piquetBook/
-# edit_uri: edit/master/src/
-theme: readthedocs
+site_url: https://mmai.github.io/piquetBook/
+
+# repository
+repo_url: https://github.com/mmai/piquetBook/
+repo_name: code source
+edit_uri: "" # disable edit button linking to repository
+
+# files paths
 docs_dir: src/
 site_dir: html/
-google_analytics: ['UA-320049-18', 'auto']
+
 markdown_extensions:
   - sane_lists
-extra:
-    version: 0.3
+
 nav:
   - Preface: index.md
   - Historical: historical.md
@@ -22,3 +26,60 @@ nav:
   - Laws of Piquet: lawsOfPiquet.md
   - Laws of Piquet au Cent: lawsOfPiquetAuCent.md
   - Cases and decisions: casesAndDecisions.md
+
+# theme: readthedocs
+# -----  Config for Material theme ------
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  features:
+    # - announce.dismiss
+    # - content.code.annotate
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.prune
+    - navigation.sections
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+extra:
+  version: 0.4
+  analytics:
+    provider: plausible
+    domain: mmai.github.io
+    src: "https://webstats.rhumbs.fr/js/touch.js"
+  social:
+      - icon: fontawesome/brands/github
+        link: https://github.com/mmai
+      - icon: fontawesome/brands/mastodon
+        link: https://social.rhumbs.fr/@mmai

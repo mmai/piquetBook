@@ -4,7 +4,7 @@ viewdocs:
 	firefox http://127.0.0.1:8000
 builddocs:
 	mkdocs build
-deploy:
+deploy: builddocs
 	mkdocs gh-deploy
 # epub:
 # 	mkdocs2pandoc > piquetBook.pd

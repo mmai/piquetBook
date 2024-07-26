@@ -10,6 +10,12 @@ You can also read this book on your ebook device by downloading the [epub editio
 
 The sources of the site are available on [this git repository](https://github.com/mmai/piquetBook/). You can report errors there by [creating a ticket](https://github.com/mmai/piquetBook/issues).
 
+Finally, if you like to delve into old forgotten games treatises, I invite you to take a look at these works dealing with the game of Trictrac (in French), adapted using the same process:
+
+- [Cours complet de Trictrac](https://mmai.github.io/coursCompletdeTrictrac) par Pierre Marie Michel Lepeintre, 1818
+- [Traité complet du jeu de Trictrac](https://mmai.github.io/traiteCompletTrictrac) seconde édition par N. Guiton l'aîné, 1822
+- [Le jeu de Trictrac rendu facile](https://mmai.github.io/leJeuDeTrictracRenduFacile/) par Julien Lelasseux-Lafosse, 1852
+
 # Preface to the first edition
 
 Since Hoyle's Treatise on Piquet was published in 1744, no original work on Piquet has appeared in the English language (so far as the author has been able to discover), though Hoyle has several times been edited with more or less success.
